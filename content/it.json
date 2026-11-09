@@ -1,0 +1,255 @@
+{
+  "lang": "it",
+  "dir": "ltr",
+  "native": "Italiano",
+  "ui": {
+    "skip": "Vai al contenuto",
+    "nav_home": "Home",
+    "nav_tools": "Strumenti gratuiti",
+    "nav_guides": "Guide",
+    "nav_support": "Assistenza",
+    "download": "Scarica su App Store",
+    "download_short": "Scarica l'app",
+    "requires": "Per iPhone con iOS 26 o successivo.",
+    "language": "Lingua",
+    "footer_privacy": "Privacy",
+    "footer_support": "Assistenza",
+    "footer_note": "Medinder è un'app di promemoria. Non dà consigli medici. Segui sempre le indicazioni del tuo medico o farmacista.",
+    "updated": "Ultimo aggiornamento",
+    "read_more": "Leggi la guida",
+    "open_tool": "Apri lo strumento",
+    "faq_title": "Domande e risposte",
+    "cta_title": "Basta chiedersi «L'ho presa?»",
+    "cta_text": "Medinder suona finché non tocchi Preso, e ti mostra cosa hai preso e a che ora.",
+    "breadcrumb_home": "Home",
+    "related": "Potrebbe interessarti anche",
+    "not_found_title": "Pagina non trovata",
+    "not_found_text": "Questa pagina non esiste. Torna alla pagina iniziale.",
+    "soon": "Presto su App Store"
+  },
+  "pages": {
+    "home": {
+      "title": "Medinder – Promemoria farmaci e pillole per iPhone",
+      "description": "Medinder è l'app promemoria farmaci semplice per iPhone. Suona come una sveglia, anche in silenzioso. Tocca Preso e vedi cosa hai preso. Nessun account.",
+      "h1": "Il promemoria pillole che suona finché non le prendi",
+      "lead": "Medinder è un'app semplice per ricordarsi di prendere i farmaci su iPhone. Suona come una sveglia, anche quando il telefono è in silenzioso, e tiene un diario chiaro di ogni dose presa.",
+      "body": "<section class=\"features\"><h2>Tutto quello che serve, niente di più</h2><ul class=\"cards\"><li><h3>Suona come una sveglia</h3><p>I promemoria suonano anche in modalità silenziosa e in Full immersion, con un grande pulsante Preso e la possibilità di posticipare. Lo sentirai.</p></li><li><h3>L'ho presa? Basta un'occhiata</h3><p>La schermata Oggi mostra ogni dose con l'ora in cui l'hai presa. Il calendario mostra tutti i giorni precedenti.</p></li><li><h3>I tuoi farmaci, le tue parole</h3><p>Scrivi il nome che usi tu e aggiungi una foto della pillola o della scatola, così sai sempre qual è.</p></li><li><h3>Qualsiasi orario</h3><p>Orari ogni giorno, giorni della settimana a scelta, ogni tot giorni, ogni tot ore, o solo al bisogno.</p></li><li><h3>Grande, chiaro e tranquillo</h3><p>Testo grande, pulsanti grandi, parole semplici. Fatto perché chiunque possa usarlo senza aiuto.</p></li><li><h3>Privato per natura</h3><p>Nessun account e nessuna pubblicità. Tutto quello che inserisci resta sul tuo iPhone.</p></li></ul></section><section><h2>Pronto in tre passi</h2><ol class=\"steps\"><li><strong>Aggiungi un farmaco.</strong> Scrivi il nome e, se vuoi, scatta una foto.</li><li><strong>Scegli quando.</strong> Orari e giorni, oppure ogni tot ore.</li><li><strong>Tocca Preso quando suona.</strong> Medinder salva l'ora, così non devi ricordarla tu.</li></ol></section><section><h2>Incluso anche</h2><ul class=\"ticks\"><li>Un widget per la schermata Home e la schermata di blocco con il pulsante Preso</li><li>Misurazioni come pressione, battito e peso, salvate così come le scrivi</li><li>Passi e altri valori dall'app Salute, mostrati in tempo reale e mai salvati</li><li>Esportazione e backup di tutto ciò che hai inserito</li><li>18 lingue</li></ul></section><section class=\"note\"><h2>Se smetti di pagare, i promemoria continuano a suonare</h2><p>Medinder è un abbonamento con un prezzo chiaro, mostrato su App Store prima di pagare. I promemoria che hai già impostato continuano a funzionare anche se l'abbonamento finisce. I promemoria dei farmaci sono troppo importanti per spegnerli.</p></section>",
+      "faq": [
+        [
+          "Medinder suona quando l'iPhone è in silenzioso?",
+          "Sì. Medinder usa il sistema di sveglie di Apple su iOS 26, quindi i promemoria suonano anche in modalità silenziosa e in Full immersion, proprio come le sveglie dell'app Orologio."
+        ],
+        [
+          "Medinder va bene per gli anziani?",
+          "Sì. È stato pensato per chi ha più di 60 anni: testo grande, pulsanti grandi, parole semplici e una sola azione principale per schermata."
+        ],
+        [
+          "Serve un account?",
+          "No. Nessuna registrazione e nessun login. Tutto quello che inserisci resta sul tuo iPhone."
+        ],
+        [
+          "Medinder dà consigli medici?",
+          "No. Medinder non ti dice mai cosa prendere o quanto. Ti avvisa agli orari che scegli tu e registra ciò che segni come preso."
+        ],
+        [
+          "Posso segnare un farmaco che prendo solo al bisogno?",
+          "Sì. Aggiungilo come «Quando serve» e tocca Preso ogni volta che lo prendi. Medinder salva l'ora."
+        ],
+        [
+          "Quanto costa Medinder?",
+          "Medinder è un abbonamento. Il prezzo per il tuo Paese è mostrato su App Store e nell'app prima di pagare, e puoi ripristinare l'acquisto in qualsiasi momento."
+        ]
+      ]
+    },
+    "privacy": {
+      "title": "Informativa sulla privacy – Medinder",
+      "description": "Come Medinder tratta i tuoi dati: nessun account, nessuna pubblicità, nessun tracciamento. I dati sui tuoi farmaci restano sul tuo iPhone, sempre.",
+      "h1": "Informativa sulla privacy",
+      "lead": "In breve: tutto quello che inserisci resta sul tuo iPhone. Non abbiamo account, pubblicità o statistiche, e non vediamo mai i tuoi dati sui farmaci o sulla salute.",
+      "body": "<h2>Cosa salva Medinder</h2><p>I tuoi farmaci, le foto, gli orari, le dosi segnate come prese, le note e le misurazioni sono salvati solo sul tuo iPhone, dentro l'app. Il widget legge gli stessi dati sullo stesso telefono. Non abbiamo un server che riceve questi dati.</p><h2>Salute</h2><p>Se lo consenti, Medinder legge passi, battito, peso e pressione dall'app Salute per mostrarli nell'app. Questi valori sono letti in tempo reale e Medinder non li salva mai, non li inserisce mai nei backup e non li invia da nessuna parte. Medinder non scrive nulla nell'app Salute.</p><h2>Fotocamera e foto</h2><p>Se scatti una foto a un farmaco, la foto viene salvata solo sul tuo iPhone.</p><h2>Acquisti</h2><p>I pagamenti sono gestiti da Apple. Per verificare se l'abbonamento è attivo, Medinder usa RevenueCat, un servizio per gli abbonamenti. RevenueCat riceve un ID app anonimo e le informazioni sull'acquisto, ad esempio quale abbonamento hai comprato e quando. Non riceve mai i tuoi dati su farmaci, misurazioni o salute. Vedi l'<a href=\"https://www.revenuecat.com/privacy\">informativa sulla privacy di RevenueCat</a>.</p><h2>Niente tracciamento, pubblicità o statistiche</h2><p>Medinder non contiene pubblicità, tracciamento né statistiche. Non vendiamo e non condividiamo i tuoi dati.</p><h2>Backup ed esportazioni</h2><p>Dall'app puoi esportare i tuoi dati o creare un file di backup. Il file viene creato sul tuo telefono e va solo dove scegli di inviarlo o salvarlo. Se usi il backup dell'iPhone (iCloud o computer), Apple può includere i dati dell'app in quel backup, come per qualsiasi app; lo decidi tu nelle impostazioni dell'iPhone.</p><h2>Promemoria</h2><p>Promemoria e sveglie sono programmati sul tuo iPhone. Non passano da nessun server.</p><h2>Cancellare i tuoi dati</h2><p>Elimina l'app per cancellare tutti i dati salvati da Medinder sul tuo iPhone. Poiché non riceviamo mai i tuoi dati sui farmaci, da parte nostra non c'è nulla da cancellare.</p><h2>Bambini</h2><p>Medinder non è rivolto ai bambini sotto i 13 anni.</p><h2>Questo sito</h2><p>Questo sito non usa cookie né tracciamento. Gli strumenti gratuiti del sito funzionano nel tuo browser; ciò che scrivi non viene inviato da nessuna parte.</p><h2>Modifiche</h2><p>Se questa informativa cambia, aggiorneremo questa pagina e la data qui sotto.</p><h2>Contatti</h2><p>Domande sulla privacy: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "faq": []
+    },
+    "support": {
+      "title": "Assistenza – Medinder promemoria farmaci",
+      "description": "Aiuto con Medinder: promemoria, acquisti, backup e altro. Scrivici un'email e ti risponderemo il prima possibile. Ogni messaggio è letto da una persona vera.",
+      "h1": "Assistenza",
+      "lead": "Ti serve aiuto o hai un'idea? Scrivici. Ogni messaggio è letto da una persona vera.",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Scrivi a {EMAIL}</a></p><p>Indicaci il modello del tuo iPhone e cosa ti aspettavi che succedesse. Uno screenshot aiuta molto.</p>",
+      "faq": [
+        [
+          "Il promemoria non ha suonato. Cosa devo fare?",
+          "Apri Medinder e vai in Impostazioni. Sotto Promemoria vedi se Medinder ha il permesso di suonare, puoi attivare i promemoria e toccare Promemoria di prova per sentirne uno. Se i promemoria sono disattivati, tocca Apri Impostazioni e consenti sveglie e notifiche per Medinder."
+        ],
+        [
+          "Come ripristino l'acquisto su un nuovo iPhone?",
+          "Accedi con lo stesso account Apple, apri Medinder, vai in Impostazioni e tocca Ripristina acquisto."
+        ],
+        [
+          "Come annullo l'abbonamento?",
+          "Gli abbonamenti sono gestiti da Apple. Apri l'app Impostazioni dell'iPhone, tocca il tuo nome, poi Abbonamenti, e scegli Medinder. I promemoria continuano a suonare anche dopo l'annullamento."
+        ],
+        [
+          "Come sposto i miei dati su un nuovo iPhone?",
+          "Nelle Impostazioni di Medinder tocca Salva un backup e conserva il file, ad esempio su iCloud Drive o inviandolo a te stesso via email. Sul nuovo iPhone apri Impostazioni in Medinder e tocca Ripristina un backup. Puoi anche ripristinare tutto l'iPhone da un backup iCloud o dal computer."
+        ],
+        [
+          "Come esporto lo storico o le misurazioni?",
+          "Nelle Impostazioni di Medinder tocca Esporta i miei dati. Ottieni un file da condividere con il medico o da conservare."
+        ],
+        [
+          "In quali lingue è disponibile Medinder?",
+          "Inglese, arabo, cinese (tradizionale), olandese, finlandese, francese, tedesco, ungherese, italiano, giapponese, coreano, polacco, portoghese, russo, spagnolo, thailandese, turco e vietnamita."
+        ],
+        [
+          "Medinder funziona su Android o Apple Watch?",
+          "Non ancora. Medinder è per iPhone con iOS 26 o successivo."
+        ]
+      ]
+    },
+    "tools": {
+      "title": "Strumenti gratuiti – Schema farmaci e orari delle dosi",
+      "description": "Strumenti gratuiti e privati: crea uno schema dei farmaci da stampare e calcola gli orari delle dosi ogni 4, 6, 8 o 12 ore. Nulla esce dal tuo browser.",
+      "h1": "Strumenti gratuiti per i farmaci",
+      "lead": "Strumenti semplici che funzionano nel tuo browser. Nulla di ciò che scrivi viene inviato o salvato.",
+      "body": "",
+      "faq": []
+    },
+    "dose_calculator": {
+      "title": "Calcolo orari farmaci – ogni 4, 6, 8 o 12 ore",
+      "description": "Calcolatore gratuito degli orari delle dosi: inserisci l'ora della prima dose e ogni quante ore, e ottieni tutti gli orari del giorno. Ogni 4, 6, 8 o 12 ore.",
+      "h1": "Calcolo degli orari delle dosi",
+      "lead": "Inserisci l'ora della prima dose e ogni quante ore prendi il farmaco. Ottieni l'orario di ogni dose della giornata.",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Prima dose<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Ogni<select id=\"every\"><option value=\"4\">4 ore</option><option value=\"6\">6 ore</option><option value=\"8\" selected>8 ore</option><option value=\"12\">12 ore</option><option value=\"24\">24 ore</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Questo strumento fa solo il calcolo degli orari. Prendi sempre il farmaco come indicato dal medico, dal farmacista o dal foglietto illustrativo.</p><h2>Come funziona</h2><p>Un giorno ha 24 ore. Se prendi un farmaco ogni 8 ore, sono 3 dosi al giorno: per esempio alle 8:00, alle 16:00 e alle 0:00. Ogni 6 ore sono 4 dosi, ogni 4 ore sono 6 dosi e ogni 12 ore sono 2 dosi.</p><h2>Consigli per le dosi notturne</h2><ul><li>Scegli l'ora della prima dose in modo che la dose notturna cada quando di solito sei sveglio, se le tue indicazioni lo permettono.</li><li>Chiedi al farmacista se gli orari si possono spostare un po' per rispettare il sonno.</li><li>Usa una sveglia che suona anche in silenzioso, così non perdi la dose della notte.</li></ul><p>Medinder può ricordartelo in automatico ogni tot ore e suona anche in silenzioso.</p>",
+      "js": {
+        "doses": "{n} dosi al giorno",
+        "dose": "Dose {n}",
+        "next_day": "giorno dopo"
+      },
+      "faq": [
+        [
+          "Quali sono gli orari ogni 8 ore?",
+          "Se la prima dose è alle 8:00, ogni 8 ore significa 8:00, 16:00 e 0:00 (mezzanotte). Se la prima dose è alle 7:00, gli orari sono 7:00, 15:00 e 23:00."
+        ],
+        [
+          "Quali sono gli orari ogni 6 ore?",
+          "Partendo dalle 6:00, ogni 6 ore significa 6:00, 12:00, 18:00 e 0:00."
+        ],
+        [
+          "Cosa vuol dire due volte al giorno?",
+          "Spesso vuol dire circa ogni 12 ore, per esempio alle 8:00 e alle 20:00. Controlla il foglietto illustrativo o chiedi al farmacista, perché alcuni farmaci hanno regole proprie."
+        ]
+      ]
+    },
+    "schedule_maker": {
+      "title": "Schema farmaci da stampare gratis (tabella terapia)",
+      "description": "Crea in un minuto uno schema dei farmaci da stampare. Aggiungi ogni farmaco e i suoi orari, poi stampa una tabella settimanale con le caselle da spuntare.",
+      "h1": "Crea uno schema dei farmaci da stampare",
+      "lead": "Aggiungi farmaci e orari, poi stampa una tabella settimanale con una casella da spuntare per ogni dose. Perfetta per il frigo, la casa di riposo o un familiare che aiuta.",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Aggiungi farmaco</button><label>Titolo della tabella<input type=\"text\" id=\"chart-title\" value=\"I miei farmaci\"></label><button type=\"button\" class=\"button\" id=\"print\">Stampa la tabella</button></form><div class=\"chart\" id=\"chart\"></div><h2>Come usare la tabella</h2><ol><li>Scrivi ogni farmaco come è scritto sulla scatola, così chiunque trova quello giusto.</li><li>Aggiungi un orario per ogni dose. Un farmaco preso mattina e sera ha due orari.</li><li>Stampala e spunta la casella ogni volta che prendi una dose.</li></ol><p>Preferisci il telefono? Medinder lo fa per te, suona a ogni orario e salva l'ora in cui hai toccato Preso.</p>",
+      "js": {
+        "name": "Farmaco",
+        "name_ph": "per esempio Metformina 500 mg",
+        "times": "Orari",
+        "add_time": "Aggiungi orario",
+        "remove": "Rimuovi",
+        "time": "Orario"
+      },
+      "faq": [
+        [
+          "Cosa deve contenere uno schema dei farmaci?",
+          "Il nome di ogni farmaco come è scritto sulla scatola, il dosaggio se ne hai più di uno, e l'orario di ogni dose. Una casella da spuntare per ogni giorno ti aiuta a vedere cosa hai preso."
+        ],
+        [
+          "I miei dati vengono salvati?",
+          "No. La tabella viene creata nel tuo browser. Nulla di ciò che scrivi viene inviato o conservato."
+        ]
+      ]
+    },
+    "guides": {
+      "title": "Guide promemoria farmaci – non saltare più una dose",
+      "description": "Guide semplici per ricordarsi di prendere i farmaci: abitudini quotidiane, promemoria farmaci su iPhone e come aiutare un genitore anziano. Chiare e pratiche.",
+      "h1": "Guide",
+      "lead": "Guide pratiche per ricordarsi dei farmaci, per te o per una persona cara.",
+      "body": "",
+      "faq": []
+    },
+    "guide_remember": {
+      "title": "Come ricordarsi di prendere i farmaci: 12 consigli semplici",
+      "description": "12 consigli pratici per ricordarsi i farmaci ogni giorno: legali a un'abitudine, usa un portapillole, una sveglia che suona in silenzioso e un diario semplice.",
+      "h1": "Come ricordarsi di prendere i farmaci: 12 consigli semplici",
+      "lead": "Dimenticare una dose capita spesso, e non è una questione di trascuratezza. Questi consigli ti aiutano a creare un'abitudine che regge anche nei giorni pieni.",
+      "body": "<h2>1. Collegalo a qualcosa che fai già</h2><p>Prendi il farmaco subito dopo qualcosa che fai ogni giorno senza pensarci: lavarti i denti, il primo caffè o la colazione. La vecchia abitudine ti ricorda la nuova.</p><h2>2. Tienilo dove lo vedi</h2><p>Metti il farmaco vicino allo spazzolino o alla macchina del caffè, se può essere conservato lì. Lontano dagli occhi, lontano dalla mente. Tienilo lontano dai bambini e fuori dal bagno umido quando l'etichetta lo dice.</p><h2>3. Usa un portapillole settimanale</h2><p>Un portapillole con uno scomparto per giorno mostra a colpo d'occhio se la dose di oggi è stata presa. Riempilo ogni settimana lo stesso giorno.</p><h2>4. Imposta un promemoria che non puoi perdere</h2><p>Una notifica normale si scorre via facilmente o passa inosservata quando il telefono è in silenzioso. Usa un promemoria che suona come una sveglia finché non lo confermi.</p><h2>5. Segna ogni dose quando la prendi</h2><p>La domanda «L'ho già presa?» è il motivo principale per cui si raddoppia o si salta una dose. Spunta su carta o tocca Preso in un'app nel momento in cui la prendi.</p><h2>6. Riconosci ogni farmaco a vista</h2><p>Fai una foto a ogni pillola e scatola. Quando la farmacia cambia marca, la pillola può avere un aspetto diverso: aggiorna la foto.</p><h2>7. Prepara un piano per i fusi orari</h2><p>Prima di partire, chiedi al farmacista come spostare gli orari. Poi imposta i promemoria sui nuovi orari.</p><h2>8. Porta con te un giorno di scorta</h2><p>Tieni i farmaci per un giorno in borsa o in auto, per le volte in cui non rientri a casa in tempo.</p><h2>9. Stampa uno schema</h2><p>Una tabella stampata sul frigo aiuta tutta la famiglia. Usa il nostro <a href=\"{L}/tools/medication-schedule-maker/\">schema dei farmaci da stampare</a> gratuito.</p><h2>10. Organizza le dosi ogni tot ore</h2><p>Se prendi un farmaco ogni 6 o 8 ore, scrivi gli orari esatti. Il <a href=\"{L}/tools/dose-time-calculator/\">calcolo degli orari delle dosi</a> fa i conti per te.</p><h2>11. Chiedi aiuto quando diventa complicato</h2><p>Se prendi molti farmaci, chiedi al farmacista di rivedere la tua terapia. Spesso può semplificare gli orari.</p><h2>12. Sii gentile con te stesso</h2><p>Se salti una dose, leggi il foglietto illustrativo o chiedi al farmacista cosa fare. Non raddoppiare la dose successiva, a meno che non te lo dicano.</p>",
+      "faq": [
+        [
+          "Qual è il modo più semplice per ricordarsi le pillole?",
+          "Collega la dose a un'abitudine quotidiana, tieni il farmaco dove lo vedi e usa un promemoria che suona finché non lo confermi."
+        ],
+        [
+          "Cosa devo fare se ho dimenticato una dose?",
+          "Leggi il foglietto illustrativo o chiedi al farmacista. La risposta cambia da farmaco a farmaco."
+        ]
+      ]
+    },
+    "guide_iphone": {
+      "title": "Promemoria farmaci su iPhone che suonano in silenzioso",
+      "description": "Passo dopo passo: imposta i promemoria farmaci su iPhone con l'app Salute o un'app come Medinder, e assicurati che suonino quando l'iPhone è in silenzioso.",
+      "h1": "Come impostare i promemoria farmaci su iPhone",
+      "lead": "L'iPhone può ricordarti di prendere i farmaci in diversi modi. Ecco come funziona ciascuno e come evitare che il promemoria resti muto.",
+      "body": "<h2>Opzione 1: l'app Salute</h2><ol><li>Apri l'app Salute e tocca Sfoglia (o Cerca), poi Farmaci.</li><li>Tocca Aggiungi un farmaco e segui i passaggi per inserire nome, tipo e orari.</li><li>Per ricevere un altro avviso se dimentichi, scorri fino alle opzioni e attiva i promemoria successivi.</li><li>Per sentire i promemoria quando l'iPhone è silenziato o in Full immersion, tocca Avvisi critici nelle opzioni e attivali per i tuoi farmaci.</li></ol><p>L'app Salute è gratuita e già installata. I promemoria arrivano come notifiche.</p><h2>Opzione 2: un'app promemoria pillole che suona come una sveglia</h2><p>Medinder usa il sistema di sveglie di Apple su iOS 26. Il promemoria riempie lo schermo e suona come la sveglia dell'app Orologio, con un grande pulsante Preso e la possibilità di posticipare. Suona anche in modalità silenziosa e in Full immersion.</p><ol><li>Installa Medinder e aggiungi il farmaco con il suo nome e, se vuoi, una foto.</li><li>Scegli orari, giorni oppure ogni tot ore.</li><li>Consenti le sveglie quando Medinder lo chiede.</li><li>Quando suona, tocca Preso. Medinder salva l'ora.</li></ol><h2>Opzione 3: le sveglie dell'app Orologio</h2><p>Puoi impostare una normale sveglia nell'app Orologio e darle il nome del farmaco. Suona in silenzioso, ma non tiene traccia di cosa hai preso.</p><h2>Perché i promemoria non suonano in silenzioso?</h2><p>Le notifiche normali seguono l'interruttore suoneria/silenzioso e la Full immersion. Solo le sveglie e gli avvisi critici passano. Se ti affidi ai promemoria, usa uno di questi due.</p><h2>Verifica che i promemoria funzionino</h2><ul><li>Imposta un promemoria di prova tra due minuti e metti il telefono in silenzioso.</li><li>Nelle Impostazioni dell'iPhone, controlla che notifiche e sveglie siano consentite per l'app che usi.</li><li>Controlla il volume in Impostazioni › Suoni e feedback aptico, perché le sveglie usano il volume della suoneria.</li></ul>",
+      "faq": [
+        [
+          "L'iPhone può ricordarmi di prendere i farmaci?",
+          "Sì. L'app Salute ha i promemoria per i farmaci, e app come Medinder possono suonare come una sveglia a ogni orario di assunzione."
+        ],
+        [
+          "Come faccio a far suonare i promemoria farmaci in silenzioso?",
+          "Attiva gli Avvisi critici per i farmaci nell'app Salute, oppure usa un'app che sfrutta le sveglie dell'iPhone, come Medinder su iOS 26."
+        ]
+      ]
+    },
+    "guide_elderly": {
+      "title": "Promemoria farmaci per anziani: guida pratica per i figli",
+      "description": "Come aiutare un genitore anziano a ricordare i farmaci senza sostituirti: abitudini semplici, promemoria che suonano, schema stampato e controlli rispettosi.",
+      "h1": "Promemoria farmaci per genitori anziani",
+      "lead": "Aiutare un genitore con i farmaci funziona meglio quando è lui a decidere. Questi passi rendono tutto semplice e rispettoso.",
+      "body": "<h2>Inizia con una chiacchierata</h2><p>Chiedi cosa è difficile: ricordarsi, distinguere le pillole o sapere se una dose è stata presa. La risposta ti dice cosa sistemare. Lascia che sia il tuo genitore a scegliere cosa lo aiuta.</p><h2>Rendi i farmaci facili da distinguere</h2><p>Scrivi il nome a lettere grandi su ogni scatola, oppure fai una foto a ogni pillola. Quando la farmacia cambia marca, guardate insieme la nuova pillola.</p><h2>Scegli promemoria che riesce a sentire</h2><p>Molti anziani tengono il telefono in silenzioso senza volerlo. Un promemoria che suona come una sveglia, con un solo grande pulsante, è più facile di una piccola notifica. Medinder è nato per questo: testo grande, parole semplici e un pulsante Preso.</p><h2>Rendi facile rispondere a «L'ho presa?»</h2><p>Il dubbio porta a saltare o raddoppiare le dosi. Un portapillole o un'app che registra l'ora di ogni dose risponde alla domanda con un'occhiata.</p><h2>Metti uno schema stampato sul frigo</h2><p>Una tabella su carta aiuta anche chi viene in visita e chi assiste. Creane una con lo <a href=\"{L}/tools/medication-schedule-maker/\">schema dei farmaci da stampare</a> gratuito.</p><h2>Fatti sentire senza prendere il controllo</h2><p>Una breve telefonata alla stessa ora ogni settimana per guardare insieme la settimana funziona meglio dei controlli quotidiani. Festeggiate una buona settimana.</p><h2>Chiedi al farmacista</h2><p>Chiedi una revisione della terapia se il tuo genitore prende molti farmaci. Spesso il farmacista può semplificare gli orari o proporre confezioni in blister.</p>",
+      "faq": [
+        [
+          "Qual è il miglior promemoria farmaci per una persona anziana?",
+          "Uno che possa sentire e capire: un promemoria che suona come una sveglia, con testo grande e un solo pulsante chiaro, più un modo per vedere cosa è stato preso."
+        ],
+        [
+          "Come posso essere sicuro che mio padre o mia madre abbia preso i farmaci?",
+          "Usa un portapillole da guardare insieme, oppure un'app che registra l'ora di ogni dose. Mettetevi d'accordo, così il tuo genitore resta lui a decidere."
+        ]
+      ]
+    }
+  },
+  "aso": {
+    "name": "Medinder: Promemoria Farmaci",
+    "subtitle": "Pillole, sveglia e diario",
+    "keywords": "medicina,medicinale,pastiglia,compressa,dose,terapia,anziano,orario,vitamina,assunzione,allarme,cura"
+  },
+  "keywords": {
+    "primary": [
+      "promemoria farmaci",
+      "app promemoria pillole",
+      "app per ricordare le medicine"
+    ],
+    "secondary": [
+      "sveglia medicine",
+      "promemoria medicinali",
+      "diario farmaci",
+      "promemoria farmaci anziani",
+      "promemoria farmaci iphone"
+    ],
+    "long_tail": [
+      "promemoria farmaci che suona in silenzioso",
+      "farmaco ogni 8 ore orari",
+      "schema farmaci da stampare",
+      "come ricordarsi di prendere le medicine",
+      "promemoria farmaci per genitori anziani",
+      "come impostare promemoria farmaci su iphone"
+    ]
+  }
+}

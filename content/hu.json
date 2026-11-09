@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "dir": "ltr",
+  "native": "Magyar",
+  "ui": {
+    "skip": "Ugrás a tartalomra",
+    "nav_home": "Kezdőlap",
+    "nav_tools": "Ingyenes eszközök",
+    "nav_guides": "Útmutatók",
+    "nav_support": "Segítség",
+    "download": "Letöltés az App Store-ból",
+    "download_short": "Az app letöltése",
+    "requires": "iOS 26 vagy újabb rendszerű iPhone-ra.",
+    "language": "Nyelv",
+    "footer_privacy": "Adatvédelmi irányelvek",
+    "footer_support": "Segítség",
+    "footer_note": "A Medinder emlékeztető app. Nem ad orvosi tanácsot. Mindig kövesse orvosa vagy gyógyszerésze utasításait.",
+    "updated": "Utoljára frissítve",
+    "read_more": "Az útmutató elolvasása",
+    "open_tool": "Az eszköz megnyitása",
+    "faq_title": "Kérdések és válaszok",
+    "cta_title": "Soha többé „bevettem már?”",
+    "cta_text": "A Medinder addig csörög, amíg meg nem koppintja a Bevéve gombot, és megmutatja, mit és mikor vett be.",
+    "breadcrumb_home": "Kezdőlap",
+    "related": "Ez is érdekelheti",
+    "not_found_title": "Az oldal nem található",
+    "not_found_text": "Ez az oldal nem létezik. Térjen vissza a kezdőlapra.",
+    "soon": "Hamarosan az App Store-ban"
+  },
+  "pages": {
+    "home": {
+      "title": "Medinder – gyógyszer emlékeztető és gyógyszernapló",
+      "description": "A Medinder egyszerű gyógyszer emlékeztető app iPhone-ra. Ébresztőként csörög, némítva is. Látja, mit és mikor vett be. Nincs fiók, minden a telefonon marad.",
+      "h1": "A gyógyszer emlékeztető, amely addig csörög, amíg be nem veszi",
+      "lead": "A Medinder egyszerű gyógyszer emlékeztető alkalmazás iPhone-ra. Ébresztőként csörög akkor is, ha a telefon le van némítva, és pontosan feljegyzi minden bevett adagját.",
+      "body": "<section class=\"features\"><h2>Minden, ami kell, semmi, ami nem</h2><ul class=\"cards\"><li><h3>Ébresztőként csörög</h3><p>Az emlékeztetők néma módban és Fókusz alatt is csörögnek, nagy Bevéve gombbal és szundival. Biztosan meghallja.</p></li><li><h3>Bevettem már? Egy pillantás</h3><p>A Ma képernyő minden adagot mutat azzal az időponttal, amikor bevette. A naptár minden korábbi napot mutat.</p></li><li><h3>Az Ön gyógyszere, az Ön szavaival</h3><p>Írja be azt a nevet, amelyet használ, és adjon hozzá fényképet a tablettáról vagy a dobozról, hogy mindig tudja, melyik melyik.</p></li><li><h3>Bármilyen beosztás</h3><p>Időpontok minden nap, kiválasztott napokon, néhány naponta, néhány óránként, vagy csak ha szükséges.</p></li><li><h3>Nagy, tiszta és nyugodt</h3><p>Nagy betűk, nagy gombok, egyszerű szavak. Bárki használhatja segítség nélkül.</p></li><li><h3>Alapból védi az adatait</h3><p>Nincs fiók és nincs reklám. Minden, amit beír, az iPhone-ján marad.</p></li></ul></section><section><h2>Három lépésben kész</h2><ol class=\"steps\"><li><strong>Adjon hozzá egy gyógyszert.</strong> Írja be a nevét, és ha szeretné, készítsen fényképet.</li><li><strong>Válassza ki, mikor.</strong> Adja meg az időpontokat és a napokat, vagy hogy hány óránként.</li><li><strong>Koppintson a Bevéve gombra, amikor csörög.</strong> A Medinder elmenti az időpontot, így nem kell fejben tartania.</li></ol></section><section><h2>Ezenkívül</h2><ul class=\"ticks\"><li>Widget a kezdőképernyőre és a zárolási képernyőre, Bevéve gombbal</li><li>Mérések, például vérnyomás, pulzus és testsúly, pontosan úgy mentve, ahogy beírja</li><li>Lépések és más értékek az Egészség appból, élőben mutatva és soha el nem mentve</li><li>Minden beírt adat exportálása és biztonsági mentése</li><li>18 nyelv</li></ul></section><section class=\"note\"><h2>Ha nem fizet tovább, az emlékeztetők akkor is csörögnek</h2><p>A Medinder előfizetés, egyértelmű árral, amelyet fizetés előtt lát az App Store-ban. A már beállított emlékeztetők akkor is működnek, ha az előfizetés lejár. A gyógyszer emlékeztetők túl fontosak ahhoz, hogy kikapcsoljuk őket.</p></section>",
+      "faq": [
+        [
+          "Csörög a Medinder, ha az iPhone le van némítva?",
+          "Igen. A Medinder az Apple iOS 26-os ébresztőrendszerét használja, így az emlékeztetők néma módban és Fókusz alatt is csörögnek, ugyanúgy, mint az Óra app ébresztései."
+        ],
+        [
+          "Jó a Medinder idősebbeknek?",
+          "Igen. 60 év felettieknek készült: nagy betűk, nagy gombok, egyszerű szavak és képernyőnként egy fő teendő."
+        ],
+        [
+          "Kell hozzá fiók?",
+          "Nem. Nincs regisztráció és nincs bejelentkezés. Minden, amit beír, az iPhone-ján marad."
+        ],
+        [
+          "Ad a Medinder orvosi tanácsot?",
+          "Nem. A Medinder soha nem mondja meg, mit vagy mennyit vegyen be. Az Ön által választott időpontokban emlékezteti, és feljegyzi, amit bevettnek jelöl."
+        ],
+        [
+          "Követhetem azokat a gyógyszereket is, amelyeket csak szükség esetén szedek?",
+          "Igen. Adja hozzá „Ha szükséges” beállítással, és koppintson a Bevéve gombra minden alkalommal, amikor beveszi. A Medinder elmenti az időpontot."
+        ],
+        [
+          "Mennyibe kerül a Medinder?",
+          "A Medinder előfizetés. Az Ön országára érvényes árat fizetés előtt látja az App Store-ban és az appban, a vásárlást pedig bármikor visszaállíthatja."
+        ]
+      ]
+    },
+    "privacy": {
+      "title": "Adatvédelmi irányelvek – Medinder",
+      "description": "Hogyan kezeli a Medinder az adatait: nincs fiók, nincs reklám, nincs követés. A gyógyszereivel és egészségével kapcsolatos adatok az iPhone-ján maradnak.",
+      "h1": "Adatvédelmi irányelvek",
+      "lead": "Röviden: minden, amit beír, az iPhone-ján marad. Nincs fiókrendszerünk, reklámunk és analitikánk, és soha nem látjuk a gyógyszer- vagy egészségügyi adatait.",
+      "body": "<h2>Mit tárol a Medinder</h2><p>A gyógyszerei, fényképei, beosztásai, a bevettnek jelölt adagok, a jegyzetek és a mérések csak az iPhone-ján, az appon belül vannak tárolva. A widget ugyanazokat az adatokat olvassa ugyanazon a telefonon. Nincs olyan szerverünk, amely megkapná ezeket az adatokat.</p><h2>Egészség app</h2><p>Ha engedélyezi, a Medinder kiolvassa a lépéseket, a pulzust, a testsúlyt és a vérnyomást az Egészség appból, hogy megmutassa őket. Ezeket az értékeket élőben olvassa, a Medinder soha nem menti el őket, soha nem kerülnek biztonsági mentésbe, és soha nem küldi el őket sehova. A Medinder semmit nem ír az Egészség appba.</p><h2>Kamera és fényképek</h2><p>Ha fényképet készít egy gyógyszerről, a kép csak az iPhone-ján lesz tárolva.</p><h2>Vásárlások</h2><p>A fizetést az Apple kezeli. Annak ellenőrzésére, hogy az előfizetése aktív-e, a Medinder a RevenueCat előfizetés-kezelő szolgáltatást használja. A RevenueCat egy névtelen appazonosítót és vásárlási adatokat kap, például hogy melyik előfizetést és mikor vásárolta. Soha nem kapja meg a gyógyszer-, mérési vagy egészségügyi adatait. Lásd a <a href=\"https://www.revenuecat.com/privacy\">RevenueCat adatvédelmi irányelveit</a>.</p><h2>Nincs követés, nincs reklám, nincs analitika</h2><p>A Medinderben nincs reklám, nincs követés és nincs analitika. Nem adjuk el és nem osztjuk meg az adatait.</p><h2>Biztonsági mentések és exportálás</h2><p>Az appban exportálhatja az adatait, vagy biztonsági mentés fájlt készíthet. Ez a fájl a telefonján jön létre, és csak oda kerül, ahová Ön küldi vagy menti. Ha használja az iPhone biztonsági mentését (iCloud vagy számítógép), az Apple a mentésbe az app adatait is belefoglalhatja, mint bármely appét; ezt Ön szabályozza az iPhone beállításaiban.</p><h2>Emlékeztetők</h2><p>Az emlékeztetők és ébresztők az iPhone-ján vannak ütemezve. Nem mennek át semmilyen szerveren.</p><h2>Az adatok törlése</h2><p>Törölje az appot, és ezzel minden, a Medinder által az iPhone-ján tárolt adat törlődik. Mivel soha nem kapjuk meg a gyógyszeradatait, nálunk nincs mit törölni.</p><h2>Gyermekek</h2><p>A Medinder nem 13 év alatti gyermekeknek készült.</p><h2>Ez a weboldal</h2><p>Ez a weboldal nem használ sütiket és nem követ. Az oldalon lévő ingyenes eszközök a böngészőjében futnak; amit beléjük ír, azt nem küldjük el sehova.</p><h2>Változások</h2><p>Ha ezek az irányelvek változnak, frissítjük ezt az oldalt és a lenti dátumot.</p><h2>Kapcsolat</h2><p>Adatvédelmi kérdések: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "faq": []
+    },
+    "support": {
+      "title": "Segítség – Medinder gyógyszer emlékeztető",
+      "description": "Segítség a Medinderhez: emlékeztetők, vásárlások, biztonsági mentések és más. Írjon nekünk e-mailt, és amint tudunk, válaszolunk. Minden levelet ember olvas.",
+      "h1": "Segítség",
+      "lead": "Segítség kell, vagy van egy ötlete? Írjon nekünk e-mailt. Minden üzenetet egy valódi ember olvas el.",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">E-mail: {EMAIL}</a></p><p>Kérjük, írja meg, milyen iPhone-ja van, és mire számított. Egy képernyőkép sokat segít.</p>",
+      "faq": [
+        [
+          "Nem csörgött az emlékeztetőm. Mit tegyek?",
+          "Nyissa meg a Medindert, és lépjen a Beállításokba. Az Emlékeztetők résznél látja, hogy a Medinder csöröghet-e, bekapcsolhatja az emlékeztetőket, és a Próba-emlékeztető gombbal meghallgathat egyet. Ha az emlékeztetők ki vannak kapcsolva, koppintson a Beállítások megnyitása gombra, és engedélyezze az ébresztőket és az értesítéseket a Medinder számára."
+        ],
+        [
+          "Hogyan állíthatom vissza a vásárlásomat egy új iPhone-on?",
+          "Jelentkezzen be ugyanazzal az Apple-fiókkal, nyissa meg a Medindert, lépjen a Beállításokba, és koppintson a Vásárlás visszaállítása gombra."
+        ],
+        [
+          "Hogyan mondhatom le az előfizetésemet?",
+          "Az előfizetéseket az Apple kezeli. Nyissa meg a Beállítások appot az iPhone-on, koppintson a nevére, majd az Előfizetések elemre, és válassza a Medindert. Lemondás után az emlékeztetők továbbra is csörögnek."
+        ],
+        [
+          "Hogyan vihetem át az adataimat egy új iPhone-ra?",
+          "A Medinder Beállításaiban koppintson a Biztonsági mentés készítése gombra, és őrizze meg a fájlt, például az iCloud Drive-on, vagy küldje el magának e-mailben. Az új iPhone-on nyissa meg a Medinder Beállításait, és koppintson a Biztonsági mentés visszaállítása gombra. Az egész iPhone-t is visszaállíthatja egy iCloud- vagy számítógépes mentésből."
+        ],
+        [
+          "Hogyan exportálhatom az előzményeimet vagy a méréseimet?",
+          "A Medinder Beállításaiban koppintson az Adataim exportálása gombra. Kap egy fájlt, amelyet elmenthet, vagy megmutathat az orvosának."
+        ],
+        [
+          "Milyen nyelveken érhető el a Medinder?",
+          "Angol, arab, kínai (hagyományos), holland, finn, francia, német, magyar, olasz, japán, koreai, lengyel, portugál, orosz, spanyol, thai, török és vietnami."
+        ],
+        [
+          "Működik a Medinder Androidon vagy Apple Watchon?",
+          "Még nem. A Medinder iOS 26 vagy újabb rendszerű iPhone-ra készült."
+        ]
+      ]
+    },
+    "tools": {
+      "title": "Ingyenes eszközök: gyógyszer beosztás és adagolási idők",
+      "description": "Ingyenes, biztonságos eszközök: nyomtatható gyógyszer beosztás és adagolási időpontok 4, 6, 8 vagy 12 óránként. Semmi, amit beír, nem hagyja el a böngészőt.",
+      "h1": "Ingyenes eszközök a gyógyszerekhez",
+      "lead": "Egyszerű eszközök, amelyek a böngészőjében futnak. Semmit nem küldünk el és nem mentünk el abból, amit beír.",
+      "body": "",
+      "faq": []
+    },
+    "dose_calculator": {
+      "title": "Adagolási idő kalkulátor – 8 óránként, 6 vagy 12 óránként",
+      "description": "Ingyenes adagolási idő kalkulátor: adja meg az első adag idejét és hány óránként szedi, és látja a nap összes időpontját. 4, 6, 8 vagy 12 óránként.",
+      "h1": "Adagolási idő kalkulátor",
+      "lead": "Adja meg az első adag időpontját és azt, hogy hány óránként szedi a gyógyszert. Megkapja a nap összes adagjának pontos idejét.",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Első adag<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Hány óránként<select id=\"every\"><option value=\"4\">4 óránként</option><option value=\"6\">6 óránként</option><option value=\"8\" selected>8 óránként</option><option value=\"12\">12 óránként</option><option value=\"24\">24 óránként</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Ez az eszköz csak az órákat számolja ki. A gyógyszerét mindig úgy szedje, ahogy orvosa, gyógyszerésze vagy a betegtájékoztató mondja.</p><h2>Hogyan működik</h2><p>Egy nap 24 órából áll. Ha egy gyógyszert 8 óránként szed, az napi 3 adag: például 8:00, 16:00 és 0:00. 6 óránként 4 adag, 4 óránként 6 adag, 12 óránként pedig 2 adag.</p><h2>Tippek az éjszakai adagokhoz</h2><ul><li>Úgy válassza meg az első adag idejét, hogy az éjszakai adag akkorra essen, amikor általában ébren van, ha az utasítások ezt megengedik.</li><li>Kérdezze meg gyógyszerészét, hogy az időpontok kicsit eltolhatók-e az alvásához.</li><li>Használjon olyan ébresztőt, amely némított telefonon is csörög, hogy az éjszakai adag ne maradjon ki.</li></ul><p>A Medinder automatikusan emlékeztethet néhány óránként, és némítva is csörög.</p>",
+      "js": {
+        "doses": "Napi {n} adag",
+        "dose": "{n}. adag",
+        "next_day": "másnap"
+      },
+      "faq": [
+        [
+          "Mikor kell bevenni a 8 óránként szedett gyógyszert?",
+          "Ha az első adag 8:00-kor van, 8 óránként ez 8:00, 16:00 és 0:00 (éjfél). Ha az első adag 7:00-kor van, akkor 7:00, 15:00 és 23:00."
+        ],
+        [
+          "Mikor kell bevenni a 6 óránként szedett gyógyszert?",
+          "6:00-tól kezdve 6 óránként ez 6:00, 12:00, 18:00 és 0:00."
+        ],
+        [
+          "Mit jelent a napi kétszer?",
+          "Gyakran nagyjából 12 óránként, például 8:00 és 20:00. Nézze meg a betegtájékoztatót, vagy kérdezze meg gyógyszerészét, mert egyes gyógyszereknek saját szabályai vannak."
+        ]
+      ]
+    },
+    "schedule_maker": {
+      "title": "Nyomtatható gyógyszer beosztás készítő – ingyenes",
+      "description": "Készítsen egy perc alatt nyomtatható gyógyszer beosztást. Adja meg a gyógyszereket és az időpontokat, és nyomtasson heti táblázatot kipipálható négyzetekkel.",
+      "h1": "Nyomtatható gyógyszer beosztás készítő",
+      "lead": "Adja meg a gyógyszereit és az időpontokat, majd nyomtasson heti táblázatot, minden adaghoz egy kipipálható négyzettel. Jó a hűtőre, egy idősotthonba vagy egy segítő családtagnak.",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Gyógyszer hozzáadása</button><label>A táblázat címe<input type=\"text\" id=\"chart-title\" value=\"Gyógyszereim\"></label><button type=\"button\" class=\"button\" id=\"print\">Táblázat nyomtatása</button></form><div class=\"chart\" id=\"chart\"></div><h2>Hogyan használja a táblázatot</h2><ol><li>Minden gyógyszert úgy írjon be, ahogy a dobozán áll, hogy bárki megtalálja a megfelelőt.</li><li>Minden adaghoz adjon meg egy időpontot. Egy reggel és este szedett gyógyszernek két időpontja van.</li><li>Nyomtassa ki, és pipálja ki a négyzetet minden alkalommal, amikor bevesz egy adagot.</li></ol><p>Inkább a telefonját használná? A Medinder ezt elvégzi Ön helyett: minden időpontban csörög, és elmenti, mikor koppintott a Bevéve gombra.</p>",
+      "js": {
+        "name": "Gyógyszer",
+        "name_ph": "például Metformin 500 mg",
+        "times": "Időpontok",
+        "add_time": "Időpont hozzáadása",
+        "remove": "Eltávolítás",
+        "time": "Időpont"
+      },
+      "faq": [
+        [
+          "Mit tartalmazzon egy gyógyszer beosztás?",
+          "Minden gyógyszer nevét úgy, ahogy a dobozon áll, a hatáserősséget, ha többféle is van, és minden adag időpontját. Egy négyzet minden napra segít látni, mit vett már be."
+        ],
+        [
+          "Elmentődnek az adataim?",
+          "Nem. A táblázat a böngészőjében készül. Semmit nem küldünk el és nem tárolunk abból, amit beír."
+        ]
+      ]
+    },
+    "guides": {
+      "title": "Útmutatók: hogy soha ne felejtse el a gyógyszerét",
+      "description": "Egyszerű útmutatók arról, hogyan ne felejtse el a gyógyszerét: napi szokások, gyógyszer emlékeztető beállítása iPhone-on és segítség idős szülőknek.",
+      "h1": "Útmutatók",
+      "lead": "Gyakorlati útmutatók ahhoz, hogy ne felejtse el a gyógyszert, sem saját magának, sem annak, akiről gondoskodik.",
+      "body": "",
+      "faq": []
+    },
+    "guide_remember": {
+      "title": "Hogyan ne felejtsem el bevenni a gyógyszert? 12 tipp",
+      "description": "12 gyakorlati tipp, hogy minden nap emlékezzen a gyógyszerére: kösse egy szokáshoz, használjon gyógyszeradagolót, némítva is csörgő ébresztőt és naplót.",
+      "h1": "Hogyan ne felejtse el bevenni a gyógyszerét: 12 egyszerű tipp",
+      "lead": "Egy adag elfelejtése nagyon gyakori, és nem hanyagság. Ezek a tippek segítenek olyan rutint kialakítani, amely a sűrű napokon is működik.",
+      "body": "<h2>1. Kösse valamihez, amit már úgyis csinál</h2><p>Vegye be a gyógyszert közvetlenül valami után, amit minden nap gondolkodás nélkül megtesz: fogmosás, az első kávé vagy a reggeli után. A régi szokás emlékezteti az újra.</p><h2>2. Tartsa ott, ahol látja</h2><p>Tegye a gyógyszert a fogkefe vagy a kávéfőző mellé, ha ott tárolható. Amit nem lát, azt elfelejti. Tartsa gyermekektől távol, és ne a párás fürdőszobában, ha a címke így kéri.</p><h2>3. Használjon heti gyógyszeradagolót</h2><p>A napokra osztott gyógyszeradagoló egy pillantással megmutatja, hogy a mai adag elfogyott-e már. Minden héten ugyanazon a napon töltse fel.</p><h2>4. Állítson be olyan emlékeztetőt, amelyet nem lehet elszalasztani</h2><p>Egy sima értesítést könnyű elhúzni, vagy nem észrevenni, ha a telefon le van némítva. Használjon olyan emlékeztetőt, amely ébresztőként csörög, amíg nem nyugtázza.</p><h2>5. Jegyezzen fel minden adagot, amikor beveszi</h2><p>A „bevettem már?” kérdés a fő oka annak, hogy valaki duplán veszi be, vagy kihagyja az adagot. Pipálja ki papíron, vagy koppintson a Bevéve gombra egy appban abban a pillanatban, amikor beveszi.</p><h2>6. Ismerje fel látásra minden gyógyszerét</h2><p>Fényképezze le minden tablettáját és dobozát. Ha a gyógyszertár másik gyártó termékét adja, a tabletta másképp nézhet ki, ezért frissítse a képet.</p><h2>7. Legyen terve az időzónákra utazáskor</h2><p>Utazás előtt kérdezze meg gyógyszerészét, hogyan tolja el az időpontokat. Utána állítsa be az emlékeztetőket az új időpontokra.</p><h2>8. Tegyen el egy tartaléknapot</h2><p>Tartson egynapi gyógyszert a táskájában vagy az autóban azokra a napokra, amikor nem ér haza időben.</p><h2>9. Készítsen nyomtatott beosztást</h2><p>A hűtőn lévő nyomtatott táblázat mindenkinek segít a háztartásban. Használja ingyenes <a href=\"{L}/tools/medication-schedule-maker/\">gyógyszer beosztás készítőnket</a>.</p><h2>10. Tervezze meg a néhány óránkénti adagokat</h2><p>Ha egy gyógyszert 6 vagy 8 óránként szed, írja le a pontos időpontokat. Az <a href=\"{L}/tools/dose-time-calculator/\">adagolási idő kalkulátor</a> kiszámolja Ön helyett.</p><h2>11. Kérjen segítséget, ha bonyolulttá válik</h2><p>Ha sok gyógyszert szed, kérje meg gyógyszerészét, hogy nézze át a gyógyszereit. Gyakran le tudja egyszerűsíteni az időpontokat.</p><h2>12. Legyen türelmes magával</h2><p>Ha kihagyott egy adagot, nézze meg a betegtájékoztatót, vagy kérdezze meg gyógyszerészét, mi a teendő. Ne vegyen be dupla adagot, hacsak nem ezt mondták Önnek.</p>",
+      "faq": [
+        [
+          "Mi a legegyszerűbb módja, hogy ne felejtsem el a gyógyszert?",
+          "Kösse az adagot egy napi szokáshoz, tartsa a gyógyszert szem előtt, és használjon olyan emlékeztetőt, amely addig csörög, amíg nem nyugtázza."
+        ],
+        [
+          "Mit tegyek, ha elfelejtettem bevenni egy adagot?",
+          "Olvassa el a betegtájékoztatót, vagy kérdezze meg gyógyszerészét. A válasz minden gyógyszernél más."
+        ]
+      ]
+    },
+    "guide_iphone": {
+      "title": "Gyógyszer emlékeztető beállítása iPhone-on (némítva is szól)",
+      "description": "Lépésről lépésre: gyógyszer emlékeztető iPhone-on az Egészség appal vagy egy olyan appal, mint a Medinder, és hogy némított telefonon is csörögjön.",
+      "h1": "Hogyan állítson be gyógyszer emlékeztetőt iPhone-on",
+      "lead": "Az iPhone többféleképpen is emlékeztetheti a gyógyszerére. Megmutatjuk, hogyan működik mindegyik, és hogyan biztosíthatja, hogy az emlékeztető ne legyen némítva.",
+      "body": "<h2>1. lehetőség: az Egészség app</h2><ol><li>Nyissa meg az Egészség appot, koppintson a Tallózás (vagy Keresés), majd a Gyógyszerek elemre.</li><li>Koppintson a gyógyszer hozzáadására, és kövesse a lépéseket a név, a típus és a beosztás megadásához.</li><li>Ha szeretné, hogy újra emlékeztesse, ha elfelejti, görgessen le a beállításokhoz, és kapcsolja be a további emlékeztetőket.</li><li>Ha némított iPhone-on vagy Fókusz alatt is hallani szeretné az emlékeztetőket, a beállításoknál kapcsolja be a kritikus figyelmeztetéseket a gyógyszereihez.</li></ol><p>Az Egészség app ingyenes és be van építve. Az emlékeztetők értesítésként érkeznek.</p><h2>2. lehetőség: gyógyszer emlékeztető app, amely ébresztőként csörög</h2><p>A Medinder az Apple iOS 26-os ébresztőrendszerét használja. Az emlékeztető kitölti a képernyőt, és úgy csörög, mint az Óra app ébresztője, nagy Bevéve gombbal és szundival. Néma módban és Fókusz alatt is csörög.</p><ol><li>Telepítse a Medindert, és adja hozzá gyógyszerét a nevével, ha szeretné, fényképpel.</li><li>Válassza ki az időpontokat, a napokat, vagy hogy hány óránként.</li><li>Engedélyezze az ébresztőket, amikor a Medinder kéri.</li><li>Amikor csörög, koppintson a Bevéve gombra. A Medinder elmenti az időpontot.</li></ol><h2>3. lehetőség: ébresztők az Óra appban</h2><p>Beállíthat egy sima ébresztőt az Óra appban, és elnevezheti a gyógyszeréről. Némítva is csörög, de nem jegyzi fel, mit vett be.</p><h2>Miért nem csörögnek az emlékeztetők némítva?</h2><p>A sima értesítések követik a csengő/néma kapcsolót és a Fókuszt. Csak az ébresztők és a kritikus figyelmeztetések törnek át. Ha az emlékeztetőkre hagyatkozik, ezek egyikét használja.</p><h2>Ellenőrizze, hogy működnek-e az emlékeztetők</h2><ul><li>Állítson be egy próba-emlékeztetőt két perccel későbbre, és némítsa le a telefont.</li><li>Az iPhone Beállításaiban ellenőrizze, hogy a használt app számára engedélyezve vannak-e az értesítések és az ébresztők.</li><li>Ellenőrizze a hangerőt a Beállításokban a hangoknál, mert az ébresztők a csengőhang hangerejét használják.</li></ul>",
+      "faq": [
+        [
+          "Tud az iPhone emlékeztetni a gyógyszer bevételére?",
+          "Igen. Az Egészség appban vannak gyógyszer emlékeztetők, az olyan appok pedig, mint a Medinder, ébresztőként csöröghetnek minden adag idején."
+        ],
+        [
+          "Hogyan csörögjön a gyógyszer emlékeztető némítva is?",
+          "Kapcsolja be a kritikus figyelmeztetéseket a gyógyszerekhez az Egészség appban, vagy használjon olyan appot, amely az iPhone ébresztőit használja, például a Medindert iOS 26-on."
+        ]
+      ]
+    },
+    "guide_elderly": {
+      "title": "Gyógyszer emlékeztető idős szülőknek: gyakorlati útmutató",
+      "description": "Hogyan segíthet idős szülőjének emlékezni a gyógyszerére úgy, hogy ne vegye át az irányítást: egyszerű rutin, csörgő emlékeztetők, nyomtatott beosztás.",
+      "h1": "Gyógyszer emlékeztető idős szülőknek",
+      "lead": "A szülő gyógyszerszedésében úgy lehet a legjobban segíteni, ha ő maga dönt továbbra is. Ezek a lépések egyszerűek és tiszteletteljesek.",
+      "body": "<h2>Kezdje egy beszélgetéssel</h2><p>Kérdezze meg, mi nehéz: az emlékezés, a tabletták megkülönböztetése, vagy annak tudása, hogy bevette-e az adagot. A válaszból kiderül, min kell segíteni. Hagyja, hogy a szülője válassza ki, mi segít.</p><h2>Legyenek könnyen megkülönböztethetők a gyógyszerek</h2><p>Írja rá a nevet nagy betűkkel minden dobozra, vagy fényképezze le minden tablettát. Ha a gyógyszertár másik gyártó termékét adja, nézzék meg együtt az új tablettát.</p><h2>Olyan emlékeztetőt válasszon, amelyet hall</h2><p>Sok idős ember véletlenül némítva tartja a telefonját. Egy ébresztőként csörgő emlékeztető egyetlen nagy gombbal könnyebb, mint egy apró értesítés. A Medinder erre készült: nagy betűk, egyszerű szavak és egy Bevéve gomb.</p><h2>Legyen könnyű megválaszolni: „bevettem már?”</h2><p>A bizonytalanság kihagyott vagy dupla adagokhoz vezet. Egy gyógyszeradagoló vagy egy app, amely feljegyzi minden adag idejét, egy pillantással megválaszolja a kérdést.</p><h2>Tegyen nyomtatott beosztást a hűtőre</h2><p>A papíros táblázat a látogatóknak és a gondozóknak is segít. Készítsen egyet az ingyenes <a href=\"{L}/tools/medication-schedule-maker/\">gyógyszer beosztás készítővel</a>.</p><h2>Kísérje figyelemmel, de ne vegye át az irányítást</h2><p>Egy rövid hívás minden héten ugyanabban az időben, hogy együtt átnézzék a hetet, jobban működik, mint a napi ellenőrzés. Örüljenek együtt egy jó hétnek.</p><h2>Kérdezze meg a gyógyszerészt</h2><p>Kérjen gyógyszer-áttekintést, ha a szülője sok gyógyszert szed. A gyógyszerészek gyakran le tudják egyszerűsíteni az időpontokat, vagy buborékcsomagolást javasolhatnak.</p>",
+      "faq": [
+        [
+          "Mi a legjobb gyógyszer emlékeztető egy idős embernek?",
+          "Olyan, amelyet hall és ért: egy ébresztőként csörgő emlékeztető nagy betűkkel és egy egyértelmű gombbal, valamint egy mód arra, hogy lássa, mit vett már be."
+        ],
+        [
+          "Hogyan lehetek biztos benne, hogy a szülőm bevette a gyógyszerét?",
+          "Használjanak gyógyszeradagolót, amelyet együtt megnézhetnek, vagy egy appot, amely feljegyzi minden adag idejét. Ebben állapodjon meg a szülőjével, hogy továbbra is ő döntsön."
+        ]
+      ]
+    }
+  },
+  "aso": {
+    "name": "Medinder: Gyógyszeremlékeztető",
+    "subtitle": "Ébresztő és gyógyszernapló",
+    "keywords": "gyógyszer,emlékeztető,tabletta,adag,időpont,idős,riasztás,egészség,vérnyomás,vitamin,bevétel,kezelés"
+  },
+  "keywords": {
+    "primary": [
+      "gyógyszer emlékeztető",
+      "gyógyszer emlékeztető app",
+      "gyógyszernapló app"
+    ],
+    "secondary": [
+      "gyógyszerszedés emlékeztető",
+      "tabletta emlékeztető",
+      "gyógyszer ébresztő",
+      "gyógyszer emlékeztető időseknek",
+      "gyógyszer emlékeztető iphone"
+    ],
+    "long_tail": [
+      "gyógyszer emlékeztető ami némítva is csörög",
+      "8 óránként gyógyszer mikor vegyem be",
+      "nyomtatható gyógyszer beosztás",
+      "hogyan ne felejtsem el bevenni a gyógyszert",
+      "gyógyszer emlékeztető idős szülőknek",
+      "gyógyszer emlékeztető beállítása iphone-on"
+    ]
+  }
+}

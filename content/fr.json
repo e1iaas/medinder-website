@@ -1,0 +1,255 @@
+{
+  "lang": "fr",
+  "dir": "ltr",
+  "native": "Français",
+  "ui": {
+    "skip": "Aller au contenu",
+    "nav_home": "Accueil",
+    "nav_tools": "Outils gratuits",
+    "nav_guides": "Guides",
+    "nav_support": "Aide",
+    "download": "Télécharger dans l'App Store",
+    "download_short": "Obtenir l'app",
+    "requires": "Pour iPhone avec iOS 26 ou plus récent.",
+    "language": "Langue",
+    "footer_privacy": "Confidentialité",
+    "footer_support": "Aide",
+    "footer_note": "Medinder est une app de rappel. Elle ne donne aucun conseil médical. Suivez toujours les consignes de votre médecin ou de votre pharmacien.",
+    "updated": "Dernière mise à jour",
+    "read_more": "Lire le guide",
+    "open_tool": "Ouvrir l'outil",
+    "faq_title": "Questions fréquentes",
+    "cta_title": "Fini le « Est-ce que je l'ai pris ? »",
+    "cta_text": "Medinder sonne jusqu'à ce que vous touchiez Pris, et vous montre ce que vous avez pris et à quelle heure.",
+    "breadcrumb_home": "Accueil",
+    "related": "À lire aussi",
+    "not_found_title": "Page introuvable",
+    "not_found_text": "Cette page n'existe pas. Revenez à la page d'accueil.",
+    "soon": "Bientôt sur l'App Store"
+  },
+  "pages": {
+    "home": {
+      "title": "Medinder – Rappel médicament et pilulier pour iPhone",
+      "description": "Medinder, l'application de rappel de médicaments simple pour iPhone. Le rappel sonne comme un réveil, même en silencieux. Sans compte, données sur l'iPhone.",
+      "h1": "Le rappel de médicaments qui sonne jusqu'à la prise",
+      "lead": "Medinder est une application de rappel de médicaments simple pour iPhone. Elle sonne comme un réveil, même quand le téléphone est en silencieux, et garde une trace claire de chaque prise.",
+      "body": "<section class=\"features\"><h2>L'essentiel, rien de plus</h2><ul class=\"cards\"><li><h3>Sonne comme un réveil</h3><p>Les rappels sonnent même en mode silencieux et en Concentration, avec un grand bouton Pris et un rappel plus tard. Vous l'entendrez.</p></li><li><h3>L'ai-je pris ? Un coup d'œil suffit</h3><p>L'écran Aujourd'hui montre chaque prise avec l'heure où vous l'avez prise. Le calendrier montre tous les jours précédents.</p></li><li><h3>Vos médicaments, vos mots</h3><p>Écrivez le nom que vous utilisez et ajoutez une photo du comprimé ou de la boîte. Vous savez toujours lequel est lequel.</p></li><li><h3>Tous les horaires</h3><p>Des heures chaque jour, certains jours de la semaine, tous les quelques jours, toutes les quelques heures, ou seulement en cas de besoin.</p></li><li><h3>Grand, clair et calme</h3><p>Grands caractères, grands boutons, mots simples. Conçu pour que chacun puisse s'en servir sans aide.</p></li><li><h3>Privé dès le départ</h3><p>Pas de compte, pas de publicité. Tout ce que vous saisissez reste sur votre iPhone.</p></li></ul></section><section><h2>Prêt en trois étapes</h2><ol class=\"steps\"><li><strong>Ajoutez un médicament.</strong> Écrivez son nom et prenez une photo si vous le souhaitez.</li><li><strong>Choisissez quand.</strong> Les heures et les jours, ou toutes les quelques heures.</li><li><strong>Touchez Pris quand ça sonne.</strong> Medinder enregistre l'heure, vous n'avez plus à vous en souvenir.</li></ol></section><section><h2>Également inclus</h2><ul class=\"ticks\"><li>Un widget pour l'écran d'accueil et l'écran verrouillé, avec un bouton Pris</li><li>Des mesures comme la tension, le pouls et le poids, enregistrées telles que vous les saisissez</li><li>Les pas et d'autres valeurs de l'app Santé, affichés en direct et jamais enregistrés</li><li>Export et sauvegarde de tout ce que vous avez saisi</li><li>18 langues</li></ul></section><section class=\"note\"><h2>Si vous arrêtez de payer, vos rappels continuent de sonner</h2><p>Medinder est un abonnement, avec un prix clair affiché dans l'App Store avant de payer. Les rappels déjà créés continuent de fonctionner même si votre abonnement prend fin. Un rappel de médicament est trop important pour être coupé.</p></section>",
+      "faq": [
+        [
+          "Medinder sonne-t-il quand mon iPhone est en silencieux ?",
+          "Oui. Medinder utilise le système d'alarmes d'Apple sur iOS 26. Les rappels sonnent même en mode silencieux et en Concentration, comme les alarmes de l'app Horloge."
+        ],
+        [
+          "Medinder convient-il aux seniors ?",
+          "Oui. Il a été conçu pour les plus de 60 ans : grands caractères, grands boutons, mots simples et une seule action principale par écran."
+        ],
+        [
+          "Faut-il créer un compte ?",
+          "Non. Pas d'inscription, pas d'identifiant. Tout ce que vous saisissez reste sur votre iPhone."
+        ],
+        [
+          "Medinder donne-t-il des conseils médicaux ?",
+          "Non. Medinder ne vous dit jamais quoi prendre ni combien. Il vous rappelle aux heures que vous choisissez et note ce que vous marquez comme pris."
+        ],
+        [
+          "Puis-je suivre un médicament que je prends seulement en cas de besoin ?",
+          "Oui. Ajoutez-le « En cas de besoin » et touchez Pris à chaque prise. Medinder enregistre l'heure."
+        ],
+        [
+          "Combien coûte Medinder ?",
+          "Medinder est un abonnement. Le prix pour votre pays est affiché dans l'App Store et dans l'app avant de payer, et vous pouvez restaurer votre achat à tout moment."
+        ]
+      ]
+    },
+    "privacy": {
+      "title": "Politique de confidentialité – Medinder",
+      "description": "Comment Medinder traite vos données : pas de compte, pas de publicité, aucun pistage. Vos données de médicaments restent sur votre iPhone, chez vous.",
+      "h1": "Politique de confidentialité",
+      "lead": "En bref : tout ce que vous saisissez reste sur votre iPhone. Pas de compte, pas de publicité, pas de statistiques, et nous ne voyons jamais vos données de médicaments ou de santé.",
+      "body": "<h2>Ce que Medinder enregistre</h2><p>Vos médicaments, photos, horaires, les prises marquées comme prises, vos notes et vos mesures sont enregistrés uniquement sur votre iPhone, dans l'app. Le widget lit les mêmes données sur le même téléphone. Nous n'avons aucun serveur qui reçoit ces données.</p><h2>Santé</h2><p>Si vous l'autorisez, Medinder lit les pas, le pouls, le poids et la tension dans l'app Santé pour les afficher. Ces valeurs sont lues en direct. Medinder ne les enregistre jamais, ne les met jamais dans les sauvegardes et ne les envoie nulle part. Medinder n'écrit rien dans l'app Santé.</p><h2>Appareil photo et photos</h2><p>Si vous prenez un médicament en photo, la photo est enregistrée uniquement sur votre iPhone.</p><h2>Achats</h2><p>Les paiements sont gérés par Apple. Pour vérifier si votre abonnement est actif, Medinder utilise RevenueCat, un service d'abonnement. RevenueCat reçoit un identifiant d'app anonyme et des informations d'achat, par exemple quel abonnement vous avez acheté et quand. Il ne reçoit jamais vos données de médicaments, de mesures ou de santé. Voir la <a href=\"https://www.revenuecat.com/privacy\">politique de confidentialité de RevenueCat</a>.</p><h2>Pas de pistage, pas de publicité, pas de statistiques</h2><p>Medinder ne contient aucune publicité, aucun pistage et aucune statistique. Nous ne vendons ni ne partageons vos données.</p><h2>Sauvegardes et exports</h2><p>Vous pouvez exporter vos données ou créer un fichier de sauvegarde depuis l'app. Ce fichier est créé sur votre téléphone et va uniquement là où vous choisissez de l'envoyer ou de l'enregistrer. Si vous utilisez la sauvegarde de l'iPhone (iCloud ou ordinateur), Apple peut inclure les données de l'app dans cette sauvegarde, comme pour toute app ; vous gérez cela dans les réglages de votre iPhone.</p><h2>Rappels</h2><p>Les rappels et alarmes sont programmés sur votre iPhone. Ils ne passent par aucun serveur.</p><h2>Supprimer vos données</h2><p>Supprimez l'app pour effacer toutes les données que Medinder a enregistrées sur votre iPhone. Comme nous ne recevons jamais vos données de médicaments, nous n'avons rien à supprimer de notre côté.</p><h2>Enfants</h2><p>Medinder ne s'adresse pas aux enfants de moins de 13 ans.</p><h2>Ce site web</h2><p>Ce site n'utilise ni cookies ni pistage. Les outils gratuits de ce site fonctionnent dans votre navigateur ; ce que vous y saisissez n'est envoyé nulle part.</p><h2>Modifications</h2><p>Si cette politique change, nous mettrons à jour cette page et la date ci-dessous.</p><h2>Contact</h2><p>Questions sur la confidentialité : <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "faq": []
+    },
+    "support": {
+      "title": "Aide – Medinder, rappel de médicaments",
+      "description": "Besoin d'aide avec Medinder ? Rappels, achats, sauvegardes et plus. Écrivez-nous par e-mail, nous vous répondrons dès que possible. Une vraie personne lit tout.",
+      "h1": "Aide",
+      "lead": "Besoin d'aide ou une idée ? Écrivez-nous. Une vraie personne lit chaque message.",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Écrire à {EMAIL}</a></p><p>Indiquez-nous le modèle de votre iPhone et ce que vous attendiez. Une capture d'écran aide beaucoup.</p>",
+      "faq": [
+        [
+          "Mon rappel n'a pas sonné. Que faire ?",
+          "Ouvrez Medinder et allez dans Réglages. Sous Rappels, vous voyez si Medinder a le droit de sonner, vous pouvez activer les rappels et toucher Rappel test pour en entendre un. Si les rappels sont désactivés, touchez Ouvrir Réglages et autorisez les alarmes et les notifications pour Medinder."
+        ],
+        [
+          "Comment restaurer mon achat sur un nouvel iPhone ?",
+          "Connectez-vous avec le même compte Apple, ouvrez Medinder, allez dans Réglages et touchez Restaurer l'achat."
+        ],
+        [
+          "Comment résilier mon abonnement ?",
+          "Les abonnements sont gérés par Apple. Ouvrez l'app Réglages de votre iPhone, touchez votre nom, puis Abonnements, et choisissez Medinder. Vos rappels continuent de sonner après la résiliation."
+        ],
+        [
+          "Comment transférer mes données sur un nouvel iPhone ?",
+          "Dans les Réglages de Medinder, touchez Enregistrer une sauvegarde et gardez le fichier, par exemple dans iCloud Drive ou en vous l'envoyant par e-mail. Sur le nouvel iPhone, ouvrez Réglages dans Medinder et touchez Restaurer une sauvegarde. Vous pouvez aussi restaurer tout votre iPhone depuis une sauvegarde iCloud ou ordinateur."
+        ],
+        [
+          "Comment exporter mon historique ou mes mesures ?",
+          "Dans les Réglages de Medinder, touchez Exporter mes données. Vous obtenez un fichier à partager avec votre médecin ou à garder."
+        ],
+        [
+          "Quelles langues Medinder propose-t-il ?",
+          "Anglais, arabe, chinois (traditionnel), néerlandais, finnois, français, allemand, hongrois, italien, japonais, coréen, polonais, portugais, russe, espagnol, thaï, turc et vietnamien."
+        ],
+        [
+          "Medinder fonctionne-t-il sur Android ou Apple Watch ?",
+          "Pas encore. Medinder est fait pour iPhone avec iOS 26 ou plus récent."
+        ]
+      ]
+    },
+    "tools": {
+      "title": "Outils médicaments gratuits – Planning et horaires de prise",
+      "description": "Outils gratuits et privés : planning de médicaments à imprimer et heures de prise toutes les 4, 6, 8 ou 12 heures. Rien ne quitte votre navigateur.",
+      "h1": "Outils gratuits pour vos médicaments",
+      "lead": "Des outils simples qui fonctionnent dans votre navigateur. Rien de ce que vous saisissez n'est envoyé ni enregistré.",
+      "body": "",
+      "faq": []
+    },
+    "dose_calculator": {
+      "title": "Calcul des heures de prise – toutes les 4, 6, 8 ou 12 heures",
+      "description": "Calcul gratuit des heures de prise : indiquez la première prise et l'écart en heures, et voyez toutes les prises du jour. Toutes les 4, 6, 8 ou 12 h.",
+      "h1": "Calculer les heures de prise",
+      "lead": "Indiquez l'heure de votre première prise et le nombre d'heures entre deux prises. Vous obtenez l'heure de chaque prise de la journée.",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Première prise<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Toutes les<select id=\"every\"><option value=\"4\">4 heures</option><option value=\"6\">6 heures</option><option value=\"8\" selected>8 heures</option><option value=\"12\">12 heures</option><option value=\"24\">24 heures</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Cet outil fait seulement le calcul des heures. Prenez toujours votre médicament comme l'indiquent votre médecin, votre pharmacien ou la notice.</p><h2>Comment ça marche</h2><p>Une journée compte 24 heures. Si vous prenez un médicament toutes les 8 heures, cela fait 3 prises par jour : par exemple 8 h, 16 h et 0 h. Toutes les 6 heures, c'est 4 prises, toutes les 4 heures, 6 prises, et toutes les 12 heures, 2 prises.</p><h2>Conseils pour les prises de nuit</h2><ul><li>Choisissez une première prise qui place la prise de nuit à un moment où vous êtes souvent réveillé, si vos consignes le permettent.</li><li>Demandez à votre pharmacien si les heures peuvent être un peu décalées pour respecter votre sommeil.</li><li>Utilisez une alarme qui sonne même en silencieux, pour ne pas manquer une prise de nuit.</li></ul><p>Medinder peut vous rappeler automatiquement toutes les quelques heures et sonne même en silencieux.</p>",
+      "js": {
+        "doses": "{n} prises par jour",
+        "dose": "Prise {n}",
+        "next_day": "le lendemain"
+      },
+      "faq": [
+        [
+          "Quelles heures pour une prise toutes les 8 heures ?",
+          "Si votre première prise est à 8 h, toutes les 8 heures donne 8 h, 16 h et 0 h (minuit). Si votre première prise est à 7 h, cela donne 7 h, 15 h et 23 h."
+        ],
+        [
+          "Quelles heures pour une prise toutes les 6 heures ?",
+          "En commençant à 6 h, toutes les 6 heures donne 6 h, 12 h, 18 h et 0 h."
+        ],
+        [
+          "Que veut dire deux fois par jour ?",
+          "Souvent, cela veut dire environ toutes les 12 heures, par exemple 8 h et 20 h. Vérifiez la notice ou demandez à votre pharmacien, car certains médicaments ont leurs propres règles."
+        ]
+      ]
+    },
+    "schedule_maker": {
+      "title": "Planning de médicaments à imprimer gratuit (tableau de prise)",
+      "description": "Créez en une minute un planning de médicaments à imprimer. Ajoutez chaque médicament et ses heures, puis imprimez un tableau de la semaine à cocher. Gratuit.",
+      "h1": "Créer un planning de médicaments à imprimer",
+      "lead": "Ajoutez vos médicaments et leurs heures, puis imprimez un tableau de la semaine avec une case à cocher pour chaque prise. Idéal sur le frigo, en maison de retraite ou pour un proche qui aide.",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Ajouter un médicament</button><label>Titre du tableau<input type=\"text\" id=\"chart-title\" value=\"Mes médicaments\"></label><button type=\"button\" class=\"button\" id=\"print\">Imprimer le tableau</button></form><div class=\"chart\" id=\"chart\"></div><h2>Comment utiliser le tableau</h2><ol><li>Écrivez chaque médicament comme sur la boîte, pour que chacun trouve le bon.</li><li>Ajoutez une heure par prise. Un médicament pris matin et soir a deux heures.</li><li>Imprimez-le et cochez la case à chaque prise.</li></ol><p>Vous préférez votre téléphone ? Medinder le fait pour vous, sonne à chaque heure et enregistre l'heure où vous avez touché Pris.</p>",
+      "js": {
+        "name": "Médicament",
+        "name_ph": "par exemple Metformine 500 mg",
+        "times": "Heures",
+        "add_time": "Ajouter une heure",
+        "remove": "Supprimer",
+        "time": "Heure"
+      },
+      "faq": [
+        [
+          "Que doit contenir un planning de médicaments ?",
+          "Le nom de chaque médicament tel qu'il est écrit sur la boîte, le dosage si vous en avez plusieurs, et l'heure de chaque prise. Une case à cocher par jour vous aide à voir ce que vous avez pris."
+        ],
+        [
+          "Mes informations sont-elles enregistrées ?",
+          "Non. Le tableau est créé dans votre navigateur. Rien de ce que vous saisissez n'est envoyé ni enregistré."
+        ]
+      ]
+    },
+    "guides": {
+      "title": "Guides rappel médicament – ne plus oublier une prise",
+      "description": "Des guides simples pour ne plus oublier vos médicaments : habitudes du quotidien, rappels de médicaments sur iPhone et aide à un parent âgé. Clairs, pratiques.",
+      "h1": "Guides",
+      "lead": "Des guides pratiques pour penser à vos médicaments, pour vous ou pour un proche.",
+      "body": "",
+      "faq": []
+    },
+    "guide_remember": {
+      "title": "Comment ne plus oublier ses médicaments : 12 conseils simples",
+      "description": "12 conseils pratiques pour ne plus oublier vos médicaments : liez la prise à une habitude, utilisez un pilulier, une alarme qui sonne en silencieux et un suivi.",
+      "h1": "Comment ne plus oublier ses médicaments : 12 conseils simples",
+      "lead": "Oublier une prise arrive très souvent, et ce n'est pas de la négligence. Ces conseils vous aident à créer une routine qui tient même les jours chargés.",
+      "body": "<h2>1. Liez la prise à une habitude</h2><p>Prenez votre médicament juste après un geste que vous faites chaque jour sans y penser : vous brosser les dents, votre premier café ou le petit-déjeuner. L'ancienne habitude vous rappelle la nouvelle.</p><h2>2. Gardez-le bien en vue</h2><p>Posez le médicament à côté de la brosse à dents ou de la cafetière, s'il peut être rangé là. Loin des yeux, loin du cœur. Gardez-le hors de portée des enfants et hors d'une salle de bain humide si l'étiquette le demande.</p><h2>3. Utilisez un pilulier semainier</h2><p>Un pilulier avec une case par jour montre d'un coup d'œil si la prise du jour est faite. Remplissez-le le même jour chaque semaine.</p><h2>4. Choisissez un rappel impossible à manquer</h2><p>Une notification normale se balaie facilement ou passe inaperçue quand le téléphone est en silencieux. Utilisez un rappel qui sonne comme un réveil jusqu'à ce que vous le confirmiez.</p><h2>5. Notez chaque prise au moment où vous la prenez</h2><p>La question « Est-ce que je l'ai déjà pris ? » est la raison principale des prises doublées ou oubliées. Cochez sur papier ou touchez Pris dans une app dès que vous le prenez.</p><h2>6. Reconnaissez chaque médicament de vue</h2><p>Prenez en photo chaque comprimé et chaque boîte. Quand la pharmacie change de marque, le comprimé peut avoir un autre aspect : mettez la photo à jour.</p><h2>7. Prévoyez vos horaires en voyage</h2><p>Avant de partir, demandez à votre pharmacien comment décaler vos heures. Puis réglez vos rappels sur les nouvelles heures.</p><h2>8. Emportez un jour de réserve</h2><p>Gardez les médicaments d'une journée dans votre sac ou votre voiture, pour les jours où vous ne rentrez pas à l'heure.</p><h2>9. Imprimez un planning</h2><p>Un tableau imprimé sur le frigo aide toute la maison. Utilisez notre <a href=\"{L}/tools/medication-schedule-maker/\">planning de médicaments à imprimer</a> gratuit.</p><h2>10. Préparez les prises toutes les quelques heures</h2><p>Si vous prenez un médicament toutes les 6 ou 8 heures, notez les heures exactes. Le <a href=\"{L}/tools/dose-time-calculator/\">calcul des heures de prise</a> fait le calcul pour vous.</p><h2>11. Demandez de l'aide quand ça devient compliqué</h2><p>Si vous prenez beaucoup de médicaments, demandez à votre pharmacien de faire le point sur votre traitement. Il peut souvent simplifier les horaires.</p><h2>12. Soyez indulgent avec vous-même</h2><p>Si vous oubliez une prise, lisez la notice ou demandez à votre pharmacien quoi faire. Ne doublez pas la prise suivante sauf si on vous l'a dit.</p>",
+      "faq": [
+        [
+          "Quel est le moyen le plus simple de ne pas oublier ses comprimés ?",
+          "Liez la prise à une habitude quotidienne, gardez le médicament bien en vue, et utilisez un rappel qui sonne jusqu'à ce que vous le confirmiez."
+        ],
+        [
+          "Que faire si j'ai oublié une prise ?",
+          "Lisez la notice ou demandez à votre pharmacien. La réponse est différente pour chaque médicament."
+        ]
+      ]
+    },
+    "guide_iphone": {
+      "title": "Rappel médicament sur iPhone : qui sonne même en silencieux",
+      "description": "Pas à pas : créer des rappels de médicaments sur iPhone avec l'app Santé ou une app comme Medinder, et vérifier qu'ils sonnent quand l'iPhone est en silencieux.",
+      "h1": "Comment créer des rappels de médicaments sur iPhone",
+      "lead": "Votre iPhone peut vous rappeler de prendre vos médicaments de plusieurs façons. Voici comment chacune fonctionne, et comment éviter que le rappel soit muet.",
+      "body": "<h2>Option 1 : l'app Santé</h2><ol><li>Ouvrez l'app Santé et touchez Parcourir (ou Rechercher), puis Médicaments.</li><li>Touchez Ajouter un médicament et suivez les étapes pour indiquer le nom, la forme et l'horaire.</li><li>Pour recevoir un nouveau rappel si vous oubliez, faites défiler jusqu'aux options et activez les rappels de suivi.</li><li>Pour entendre les rappels quand l'iPhone est en silencieux ou en Concentration, touchez Alertes critiques dans les options et activez-les pour vos médicaments.</li></ol><p>L'app Santé est gratuite et déjà installée. Les rappels arrivent sous forme de notifications.</p><h2>Option 2 : une app de rappel de médicaments qui sonne comme un réveil</h2><p>Medinder utilise le système d'alarmes d'Apple sur iOS 26. Le rappel remplit l'écran et sonne comme une alarme de l'app Horloge, avec un grand bouton Pris et un rappel plus tard. Il sonne même en mode silencieux et en Concentration.</p><ol><li>Installez Medinder et ajoutez votre médicament par son nom, avec une photo si vous le souhaitez.</li><li>Choisissez les heures, les jours ou toutes les quelques heures.</li><li>Autorisez les alarmes quand Medinder le demande.</li><li>Quand ça sonne, touchez Pris. Medinder enregistre l'heure.</li></ol><h2>Option 3 : les alarmes de l'app Horloge</h2><p>Vous pouvez créer une alarme ordinaire dans l'app Horloge et lui donner le nom de votre médicament. Elle sonne en silencieux, mais elle ne garde pas de trace de ce que vous avez pris.</p><h2>Pourquoi les rappels ne sonnent-ils pas en silencieux ?</h2><p>Les notifications normales suivent le mode sonnerie/silencieux et la Concentration. Seules les alarmes et les alertes critiques passent. Si vous comptez sur vos rappels, utilisez l'une des deux.</p><h2>Vérifiez que vos rappels fonctionnent</h2><ul><li>Créez un rappel test dans deux minutes et mettez le téléphone en silencieux.</li><li>Dans les Réglages de l'iPhone, vérifiez que les notifications et les alarmes sont autorisées pour l'app que vous utilisez.</li><li>Vérifiez le volume dans Réglages › Sons et vibrations, car les alarmes utilisent le volume de la sonnerie.</li></ul>",
+      "faq": [
+        [
+          "L'iPhone peut-il me rappeler de prendre mes médicaments ?",
+          "Oui. L'app Santé propose des rappels de médicaments, et des apps comme Medinder peuvent sonner comme un réveil à chaque heure de prise."
+        ],
+        [
+          "Comment faire sonner un rappel de médicament en silencieux ?",
+          "Activez les Alertes critiques pour les médicaments dans l'app Santé, ou utilisez une app qui se sert des alarmes de l'iPhone, comme Medinder sur iOS 26."
+        ]
+      ]
+    },
+    "guide_elderly": {
+      "title": "Rappel médicament pour personne âgée : guide pratique",
+      "description": "Aider un parent âgé à penser à ses médicaments sans tout décider pour lui : routines simples, rappels qui sonnent, planning imprimé et échanges respectueux.",
+      "h1": "Rappels de médicaments pour un parent âgé",
+      "lead": "Aider un parent avec ses médicaments marche mieux quand il garde la main. Ces étapes restent simples et respectueuses.",
+      "body": "<h2>Commencez par en parler</h2><p>Demandez ce qui est difficile : se souvenir, distinguer les comprimés, ou savoir si une prise a été faite. La réponse vous dit quoi améliorer. Laissez votre parent choisir ce qui l'aide.</p><h2>Rendez les médicaments faciles à distinguer</h2><p>Écrivez le nom en grandes lettres sur chaque boîte, ou prenez chaque comprimé en photo. Quand la pharmacie change de marque, regardez ensemble le nouveau comprimé.</p><h2>Choisissez des rappels qu'il entend</h2><p>Beaucoup de personnes âgées laissent leur téléphone en silencieux sans le vouloir. Un rappel qui sonne comme un réveil, avec un seul grand bouton, est plus simple qu'une petite notification. Medinder a été conçu pour cela : grands caractères, mots simples et un bouton Pris.</p><h2>Répondez facilement à « Est-ce que je l'ai pris ? »</h2><p>Le doute mène à des prises oubliées ou doublées. Un pilulier ou une app qui note l'heure de chaque prise répond à la question d'un coup d'œil.</p><h2>Affichez un planning imprimé sur le frigo</h2><p>Un tableau papier aide aussi les visiteurs et les aidants. Créez-en un avec le <a href=\"{L}/tools/medication-schedule-maker/\">planning de médicaments à imprimer</a> gratuit.</p><h2>Prenez des nouvelles sans tout contrôler</h2><p>Un court appel à la même heure chaque semaine pour regarder la semaine ensemble marche mieux que des vérifications chaque jour. Félicitez-le pour une bonne semaine.</p><h2>Demandez au pharmacien</h2><p>Demandez un bilan de médication si votre parent prend beaucoup de médicaments. Le pharmacien peut souvent simplifier les horaires ou proposer une préparation en piluliers.</p>",
+      "faq": [
+        [
+          "Quel est le meilleur rappel de médicaments pour une personne âgée ?",
+          "Un rappel qu'elle entend et comprend : qui sonne comme un réveil, avec de grands caractères et un seul bouton clair, et un moyen de voir ce qui a été pris."
+        ],
+        [
+          "Comment être sûr que mon parent a pris ses médicaments ?",
+          "Utilisez un pilulier que vous pouvez regarder ensemble, ou une app qui note l'heure de chaque prise. Mettez-vous d'accord avec votre parent pour qu'il garde la main."
+        ]
+      ]
+    }
+  },
+  "aso": {
+    "name": "Medinder: Rappel Médicament",
+    "subtitle": "Pilulier, alarme et suivi",
+    "keywords": "pilule,comprimé,traitement,prise,dose,ordonnance,senior,vitamine,horaire,santé,journal,oubli,cachet"
+  },
+  "keywords": {
+    "primary": [
+      "rappel médicament",
+      "application rappel médicament",
+      "pilulier application"
+    ],
+    "secondary": [
+      "pilulier électronique",
+      "alarme médicament",
+      "suivi prise de médicaments",
+      "rappel médicament personne âgée",
+      "rappel médicament iphone"
+    ],
+    "long_tail": [
+      "rappel médicament qui sonne en silencieux",
+      "médicament toutes les 8 heures horaires",
+      "planning médicaments à imprimer",
+      "comment ne pas oublier ses médicaments",
+      "rappel médicament pour parent âgé",
+      "comment mettre un rappel médicament sur iphone"
+    ]
+  }
+}

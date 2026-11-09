@@ -1,0 +1,255 @@
+{
+  "lang": "es",
+  "dir": "ltr",
+  "native": "Español",
+  "ui": {
+    "skip": "Ir al contenido",
+    "nav_home": "Inicio",
+    "nav_tools": "Herramientas gratis",
+    "nav_guides": "Guías",
+    "nav_support": "Ayuda",
+    "download": "Descargar en el App Store",
+    "download_short": "Descargar la app",
+    "requires": "Para iPhone con iOS 26 o posterior.",
+    "language": "Idioma",
+    "footer_privacy": "Política de privacidad",
+    "footer_support": "Ayuda",
+    "footer_note": "Medinder es una app de recordatorios. No da consejos médicos. Sigue siempre las indicaciones de tu médico o farmacéutico.",
+    "updated": "Última actualización",
+    "read_more": "Leer la guía",
+    "open_tool": "Abrir la herramienta",
+    "faq_title": "Preguntas y respuestas",
+    "cta_title": "Olvídate de «¿Ya me la tomé?»",
+    "cta_text": "Medinder suena hasta que tocas Tomado y te muestra qué tomaste y a qué hora.",
+    "breadcrumb_home": "Inicio",
+    "related": "También te puede interesar",
+    "not_found_title": "Página no encontrada",
+    "not_found_text": "Esta página no existe. Vuelve a la página de inicio.",
+    "soon": "Muy pronto en el App Store"
+  },
+  "pages": {
+    "home": {
+      "title": "Medinder – Recordatorio de medicamentos y pastillero iPhone",
+      "description": "Medinder es una app sencilla de recordatorio de pastillas para iPhone. Suena como una alarma, incluso en silencio. Sin cuenta: tus datos quedan en tu iPhone.",
+      "h1": "El recordatorio de pastillas que suena hasta que las tomas",
+      "lead": "Medinder es una app sencilla de recordatorio de medicamentos para iPhone. Suena como una alarma, incluso con el teléfono en silencio, y guarda un registro claro de cada toma.",
+      "body": "<section class=\"features\"><h2>Todo lo que necesitas, nada más</h2><ul class=\"cards\"><li><h3>Suena como una alarma</h3><p>Los recordatorios suenan aunque el iPhone esté en silencio o en Concentración, con un botón Tomado grande y opción de posponer. Lo vas a oír.</p></li><li><h3>¿Me la tomé? Un vistazo basta</h3><p>La pantalla Hoy muestra cada toma con la hora en que la tomaste. El calendario muestra todos los días anteriores.</p></li><li><h3>Tus medicamentos, con tus palabras</h3><p>Escribe el nombre que tú usas y añade una foto de la pastilla o de la caja, para saber siempre cuál es cuál.</p></li><li><h3>Cualquier horario</h3><p>Horas fijas cada día, días de la semana elegidos, cada pocos días, cada pocas horas o solo cuando haga falta.</p></li><li><h3>Grande, claro y tranquilo</h3><p>Letra grande, botones grandes, palabras sencillas. Hecho para que cualquiera lo use sin ayuda.</p></li><li><h3>Privado desde el principio</h3><p>Sin cuenta y sin anuncios. Todo lo que escribes se queda en tu iPhone.</p></li></ul></section><section><h2>Listo en tres pasos</h2><ol class=\"steps\"><li><strong>Añade un medicamento.</strong> Escribe su nombre y toma una foto si quieres.</li><li><strong>Elige cuándo.</strong> Las horas y los días, o cada pocas horas.</li><li><strong>Toca Tomado cuando suene.</strong> Medinder guarda la hora, así no tienes que recordarla.</li></ol></section><section><h2>También incluye</h2><ul class=\"ticks\"><li>Un widget para la pantalla de inicio y la pantalla bloqueada con botón Tomado</li><li>Mediciones como presión arterial, pulso y peso, guardadas tal como las escribes</li><li>Pasos y otros valores de la app Salud, mostrados en directo y nunca guardados</li><li>Exportación y copia de seguridad de todo lo que escribiste</li><li>18 idiomas</li></ul></section><section class=\"note\"><h2>Si dejas de pagar, tus recordatorios siguen sonando</h2><p>Medinder es una suscripción con un precio claro, que ves en el App Store antes de pagar. Los recordatorios que ya creaste siguen funcionando aunque termine tu suscripción. Un recordatorio de medicamentos es demasiado importante para apagarlo.</p></section>",
+      "faq": [
+        [
+          "¿Medinder suena si mi iPhone está en silencio?",
+          "Sí. Medinder usa el sistema de alarmas de Apple en iOS 26, así que los recordatorios suenan aunque el iPhone esté en silencio o en Concentración, igual que las alarmas de la app Reloj."
+        ],
+        [
+          "¿Medinder es bueno para personas mayores?",
+          "Sí. Está hecho para personas de más de 60 años: letra grande, botones grandes, palabras sencillas y una sola acción principal en cada pantalla."
+        ],
+        [
+          "¿Necesito una cuenta?",
+          "No. No hay registro ni inicio de sesión. Todo lo que escribes se queda en tu iPhone."
+        ],
+        [
+          "¿Medinder da consejos médicos?",
+          "No. Medinder nunca te dice qué tomar ni cuánto. Te avisa a las horas que eliges y registra lo que marcas como tomado."
+        ],
+        [
+          "¿Puedo registrar un medicamento que tomo solo cuando hace falta?",
+          "Sí. Añádelo como «Cuando haga falta» y toca Tomado cada vez que lo tomes. Medinder guarda la hora."
+        ],
+        [
+          "¿Cuánto cuesta Medinder?",
+          "Medinder es una suscripción. El precio para tu país aparece en el App Store y en la app antes de pagar, y puedes restaurar tu compra en cualquier momento."
+        ]
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad – Medinder",
+      "description": "Cómo trata Medinder tus datos: sin cuenta, sin anuncios y sin rastreo. Los datos de tus medicamentos se quedan siempre en tu iPhone, no en un servidor.",
+      "h1": "Política de privacidad",
+      "lead": "En resumen: todo lo que escribes se queda en tu iPhone. No tenemos cuentas, anuncios ni estadísticas, y nunca vemos tus datos de medicamentos o de salud.",
+      "body": "<h2>Qué guarda Medinder</h2><p>Tus medicamentos, fotos, horarios, las tomas que marcas como tomadas, notas y mediciones se guardan solo en tu iPhone, dentro de la app. El widget lee los mismos datos en el mismo teléfono. No tenemos ningún servidor que reciba estos datos.</p><h2>Salud</h2><p>Si lo permites, Medinder lee los pasos, el pulso, el peso y la presión arterial de la app Salud para mostrarlos en la app. Estos valores se leen en directo y Medinder nunca los guarda, nunca los incluye en las copias de seguridad y nunca los envía a ningún sitio. Medinder no escribe nada en la app Salud.</p><h2>Cámara y fotos</h2><p>Si haces una foto de un medicamento, la foto se guarda solo en tu iPhone.</p><h2>Compras</h2><p>Los pagos los gestiona Apple. Para comprobar si tu suscripción está activa, Medinder usa RevenueCat, un servicio de suscripciones. RevenueCat recibe un ID de app anónimo y datos de la compra, como qué suscripción compraste y cuándo. Nunca recibe tus datos de medicamentos, mediciones o salud. Consulta la <a href=\"https://www.revenuecat.com/privacy\">política de privacidad de RevenueCat</a>.</p><h2>Sin rastreo, sin anuncios, sin estadísticas</h2><p>Medinder no tiene anuncios, rastreo ni estadísticas. No vendemos ni compartimos tus datos.</p><h2>Copias de seguridad y exportación</h2><p>Desde la app puedes exportar tus datos o crear un archivo de copia de seguridad. Ese archivo se crea en tu teléfono y solo va adonde tú decidas enviarlo o guardarlo. Si usas la copia de seguridad del iPhone (iCloud o computadora), Apple puede incluir los datos de la app en esa copia, como con cualquier app; esto lo controlas tú en los ajustes de tu iPhone.</p><h2>Recordatorios</h2><p>Los recordatorios y las alarmas se programan en tu iPhone. No pasan por ningún servidor.</p><h2>Borrar tus datos</h2><p>Elimina la app para borrar todos los datos que Medinder guarda en tu iPhone. Como nunca recibimos tus datos de medicamentos, no tenemos nada que borrar por nuestra parte.</p><h2>Niños</h2><p>Medinder no está dirigido a menores de 13 años.</p><h2>Este sitio web</h2><p>Este sitio no usa cookies ni rastreo. Las herramientas gratuitas de este sitio funcionan en tu navegador; lo que escribes en ellas no se envía a ningún sitio.</p><h2>Cambios</h2><p>Si esta política cambia, actualizaremos esta página y la fecha de abajo.</p><h2>Contacto</h2><p>Preguntas sobre privacidad: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "faq": []
+    },
+    "support": {
+      "title": "Ayuda – Medinder, recordatorio de medicamentos",
+      "description": "Ayuda con Medinder: recordatorios, compras, copias de seguridad y más. Escríbenos por email y te responderemos lo antes posible. Te lee una persona real.",
+      "h1": "Ayuda",
+      "lead": "¿Necesitas ayuda o tienes una idea? Escríbenos. Una persona real lee cada mensaje.",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Escribir a {EMAIL}</a></p><p>Cuéntanos qué modelo de iPhone tienes y qué esperabas que pasara. Una captura de pantalla ayuda mucho.</p>",
+      "faq": [
+        [
+          "Mi recordatorio no sonó. ¿Qué hago?",
+          "Abre Medinder y ve a Ajustes. En Recordatorios puedes ver si Medinder tiene permiso para sonar, activar los recordatorios y tocar Probar recordatorio para oír uno. Si los recordatorios están desactivados, toca Abrir Ajustes y permite alarmas y notificaciones para Medinder."
+        ],
+        [
+          "¿Cómo restauro mi compra en un iPhone nuevo?",
+          "Inicia sesión con la misma cuenta de Apple, abre Medinder, ve a Ajustes y toca Restaurar compra."
+        ],
+        [
+          "¿Cómo cancelo mi suscripción?",
+          "Las suscripciones las gestiona Apple. Abre la app Ajustes del iPhone, toca tu nombre, luego Suscripciones, y elige Medinder. Tus recordatorios siguen sonando después de cancelar."
+        ],
+        [
+          "¿Cómo paso mis datos a un iPhone nuevo?",
+          "En los Ajustes de Medinder, toca Guardar una copia y conserva el archivo, por ejemplo en iCloud Drive o enviándotelo por email. En el iPhone nuevo, abre Ajustes en Medinder y toca Restaurar una copia. También puedes restaurar todo tu iPhone desde una copia de seguridad de iCloud o de la computadora."
+        ],
+        [
+          "¿Cómo exporto mi historial o mis mediciones?",
+          "En los Ajustes de Medinder, toca Exportar mis datos. Obtienes un archivo que puedes compartir con tu médico o guardar."
+        ],
+        [
+          "¿En qué idiomas está Medinder?",
+          "Inglés, árabe, chino (tradicional), neerlandés, finés, francés, alemán, húngaro, italiano, japonés, coreano, polaco, portugués, ruso, español, tailandés, turco y vietnamita."
+        ],
+        [
+          "¿Medinder funciona en Android o Apple Watch?",
+          "Todavía no. Medinder es para iPhone con iOS 26 o posterior."
+        ]
+      ]
+    },
+    "tools": {
+      "title": "Herramientas gratis – Horario de medicamentos y de tomas",
+      "description": "Herramientas gratis y privadas: crea un horario de medicamentos para imprimir y calcula las tomas cada 4, 6, 8 o 12 horas. Nada sale de tu navegador.",
+      "h1": "Herramientas gratis para tus medicamentos",
+      "lead": "Herramientas sencillas que funcionan en tu navegador. Nada de lo que escribes se envía ni se guarda.",
+      "body": "",
+      "faq": []
+    },
+    "dose_calculator": {
+      "title": "Calculadora de tomas – cada 4, 6, 8 o 12 horas",
+      "description": "Calculadora gratis de horarios de tomas: pon la hora de la primera toma y cada cuántas horas, y ve todas las tomas del día. Sirve para cada 4, 6, 8 o 12 horas.",
+      "h1": "Calculadora de horarios de tomas",
+      "lead": "Escribe la hora de tu primera toma y cada cuántas horas tomas el medicamento. Verás la hora de cada toma del día.",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Primera toma<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Cada<select id=\"every\"><option value=\"4\">4 horas</option><option value=\"6\">6 horas</option><option value=\"8\" selected>8 horas</option><option value=\"12\">12 horas</option><option value=\"24\">24 horas</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Esta herramienta solo hace la cuenta de las horas. Toma siempre tu medicamento como te indique tu médico, tu farmacéutico o el prospecto.</p><h2>Cómo funciona</h2><p>Un día tiene 24 horas. Si tomas un medicamento cada 8 horas, son 3 tomas al día: por ejemplo a las 8:00, a las 16:00 y a las 0:00. Cada 6 horas son 4 tomas, cada 4 horas son 6 tomas y cada 12 horas son 2 tomas.</p><h2>Consejos para las tomas de noche</h2><ul><li>Elige una hora para la primera toma que deje la toma de noche cuando sueles estar despierto, si tus indicaciones lo permiten.</li><li>Pregunta a tu farmacéutico si puedes mover un poco las horas para respetar tu sueño.</li><li>Usa una alarma que suene aunque el teléfono esté en silencio, para no perder la toma de la noche.</li></ul><p>Medinder puede recordártelo cada pocas horas de forma automática y suena incluso en silencio.</p>",
+      "js": {
+        "doses": "{n} tomas al día",
+        "dose": "Toma {n}",
+        "next_day": "día siguiente"
+      },
+      "faq": [
+        [
+          "¿Qué horas son cada 8 horas?",
+          "Si tu primera toma es a las 8:00, cada 8 horas es a las 8:00, 16:00 y 0:00 (medianoche). Si tu primera toma es a las 7:00, es a las 7:00, 15:00 y 23:00."
+        ],
+        [
+          "¿Qué horas son cada 6 horas?",
+          "Empezando a las 6:00, cada 6 horas es a las 6:00, 12:00, 18:00 y 0:00."
+        ],
+        [
+          "¿Qué significa dos veces al día?",
+          "Muchas veces significa más o menos cada 12 horas, por ejemplo a las 8:00 y a las 20:00. Revisa el prospecto o pregunta a tu farmacéutico, porque algunos medicamentos tienen sus propias reglas."
+        ]
+      ]
+    },
+    "schedule_maker": {
+      "title": "Horario de medicamentos para imprimir gratis (tabla)",
+      "description": "Crea en un minuto un horario de medicamentos para imprimir. Añade cada medicamento y sus horas, e imprime una tabla semanal con casillas para marcar. Gratis.",
+      "h1": "Crea un horario de medicamentos para imprimir",
+      "lead": "Añade tus medicamentos y sus horas, e imprime una tabla semanal con una casilla para marcar cada toma. Ideal para el refrigerador, una residencia o un familiar que ayuda.",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Añadir medicamento</button><label>Título de la tabla<input type=\"text\" id=\"chart-title\" value=\"Mis medicamentos\"></label><button type=\"button\" class=\"button\" id=\"print\">Imprimir tabla</button></form><div class=\"chart\" id=\"chart\"></div><h2>Cómo usar la tabla</h2><ol><li>Escribe cada medicamento como aparece en la caja, para que cualquiera encuentre el correcto.</li><li>Añade una hora por cada toma. Un medicamento que tomas por la mañana y por la noche lleva dos horas.</li><li>Imprímela y marca la casilla cada vez que tomes una dosis.</li></ol><p>¿Prefieres el teléfono? Medinder lo hace por ti, suena a cada hora y guarda la hora en que tocaste Tomado.</p>",
+      "js": {
+        "name": "Medicamento",
+        "name_ph": "por ejemplo Metformina 500 mg",
+        "times": "Horas",
+        "add_time": "Añadir hora",
+        "remove": "Quitar",
+        "time": "Hora"
+      },
+      "faq": [
+        [
+          "¿Qué debe incluir un horario de medicamentos?",
+          "El nombre de cada medicamento tal como aparece en la caja, la dosis si tienes más de una, y la hora de cada toma. Una casilla por día te ayuda a ver lo que ya tomaste."
+        ],
+        [
+          "¿Se guarda mi información?",
+          "No. La tabla se crea en tu navegador. Nada de lo que escribes se envía ni se guarda."
+        ]
+      ]
+    },
+    "guides": {
+      "title": "Guías de recordatorio de medicamentos – no olvides tu toma",
+      "description": "Guías sencillas para acordarte de tus medicamentos: hábitos diarios, recordatorios de medicamentos en el iPhone y cómo ayudar a un padre o una madre mayor.",
+      "h1": "Guías",
+      "lead": "Guías prácticas para acordarte de tus medicamentos, para ti o para alguien a quien cuidas.",
+      "body": "",
+      "faq": []
+    },
+    "guide_remember": {
+      "title": "Cómo acordarse de tomar los medicamentos: 12 consejos",
+      "description": "12 consejos prácticos para acordarte de tus medicamentos cada día: únelos a una rutina, usa un pastillero, una alarma que suene en silencio y un registro fácil.",
+      "h1": "Cómo acordarse de tomar los medicamentos: 12 consejos sencillos",
+      "lead": "Olvidar una toma es muy común y no es por descuido. Estos consejos te ayudan a crear una rutina que funcione también en los días más ocupados.",
+      "body": "<h2>1. Únelo a algo que ya haces</h2><p>Toma tu medicamento justo después de algo que haces cada día sin pensar: lavarte los dientes, tu primer café o el desayuno. El hábito de siempre te recuerda el nuevo.</p><h2>2. Déjalo donde lo veas</h2><p>Pon el medicamento junto al cepillo de dientes o la cafetera, si se puede guardar ahí. Lo que no se ve, se olvida. Mantenlo fuera del alcance de los niños y fuera de un baño húmedo cuando la etiqueta lo indique.</p><h2>3. Usa un pastillero semanal</h2><p>Un pastillero con un compartimento por día te muestra de un vistazo si ya tomaste la dosis de hoy. Llénalo el mismo día cada semana.</p><h2>4. Pon un recordatorio imposible de ignorar</h2><p>Una notificación normal se desliza fácilmente o pasa desapercibida si el teléfono está en silencio. Usa un recordatorio que suene como una alarma hasta que lo confirmes.</p><h2>5. Anota cada toma en el momento</h2><p>La pregunta «¿Ya me la tomé?» es la razón principal por la que la gente toma doble o se salta una toma. Márcala en papel o toca Tomado en una app en cuanto la tomes.</p><h2>6. Reconoce cada medicamento a simple vista</h2><p>Haz una foto de cada pastilla y de cada caja. Cuando la farmacia cambia de marca, la pastilla puede verse distinta: actualiza la foto.</p><h2>7. Planifica los horarios de viaje</h2><p>Antes de viajar, pregunta a tu farmacéutico cómo ajustar tus horas. Luego pon tus recordatorios en las nuevas horas.</p><h2>8. Lleva un día de reserva</h2><p>Guarda los medicamentos de un día en tu bolso o en el auto, para los días en que no llegues a casa a tiempo.</p><h2>9. Imprime un horario</h2><p>Una tabla impresa en el refrigerador ayuda a toda la casa. Usa nuestro <a href=\"{L}/tools/medication-schedule-maker/\">horario de medicamentos para imprimir</a> gratis.</p><h2>10. Organiza las tomas cada pocas horas</h2><p>Si tomas un medicamento cada 6 u 8 horas, escribe las horas exactas. La <a href=\"{L}/tools/dose-time-calculator/\">calculadora de horarios de tomas</a> hace la cuenta por ti.</p><h2>11. Pide ayuda cuando se complique</h2><p>Si tomas muchos medicamentos, pide a tu farmacéutico una revisión de tu medicación. Muchas veces puede simplificar los horarios.</p><h2>12. Sé amable contigo</h2><p>Si olvidas una toma, lee el prospecto o pregunta a tu farmacéutico qué hacer. No dupliques la siguiente dosis salvo que te lo indiquen.</p>",
+      "faq": [
+        [
+          "¿Cuál es la forma más fácil de acordarse de tomar las pastillas?",
+          "Une la toma a un hábito diario, deja el medicamento donde lo veas y usa un recordatorio que suene hasta que lo confirmes."
+        ],
+        [
+          "¿Qué hago si olvidé una toma?",
+          "Lee el prospecto o pregunta a tu farmacéutico. La respuesta es distinta para cada medicamento."
+        ]
+      ]
+    },
+    "guide_iphone": {
+      "title": "Recordatorio de medicamentos en iPhone que suena en silencio",
+      "description": "Paso a paso: pon recordatorios de medicamentos en el iPhone con la app Salud o una app como Medinder, y asegúrate de que suenen con el iPhone en silencio.",
+      "h1": "Cómo poner recordatorios de medicamentos en el iPhone",
+      "lead": "Tu iPhone puede recordarte tomar tus medicamentos de varias formas. Así funciona cada una, y así te aseguras de que el recordatorio no quede en silencio.",
+      "body": "<h2>Opción 1: la app Salud</h2><ol><li>Abre la app Salud y toca Explorar (o Buscar) y luego Medicamentos.</li><li>Toca la opción para añadir un medicamento y sigue los pasos para escribir el nombre, el tipo y el horario.</li><li>Para recibir otro aviso si se te olvida, desplázate hasta las opciones y activa los recordatorios de seguimiento.</li><li>Para oír los recordatorios con el iPhone en silencio o en Concentración, toca Avisos críticos en las opciones y actívalos para tus medicamentos.</li></ol><p>La app Salud es gratis y ya viene instalada. Los recordatorios llegan como notificaciones.</p><h2>Opción 2: una app de recordatorio de pastillas que suena como una alarma</h2><p>Medinder usa el sistema de alarmas de Apple en iOS 26. El recordatorio ocupa toda la pantalla y suena como una alarma de la app Reloj, con un botón Tomado grande y opción de posponer. Suena aunque el iPhone esté en silencio o en Concentración.</p><ol><li>Instala Medinder y añade tu medicamento por su nombre, con una foto si quieres.</li><li>Elige las horas, los días o cada pocas horas.</li><li>Permite las alarmas cuando Medinder te lo pida.</li><li>Cuando suene, toca Tomado. Medinder guarda la hora.</li></ol><h2>Opción 3: alarmas de la app Reloj</h2><p>Puedes poner una alarma normal en la app Reloj y ponerle el nombre de tu medicamento. Suena en silencio, pero no guarda un registro de lo que tomaste.</p><h2>¿Por qué los recordatorios no suenan en silencio?</h2><p>Las notificaciones normales respetan el modo silencio y Concentración. Solo las alarmas y los avisos críticos se oyen igual. Si dependes de tus recordatorios, usa una de esas dos opciones.</p><h2>Comprueba que tus recordatorios funcionan</h2><ul><li>Pon un recordatorio de prueba para dentro de dos minutos y pon el teléfono en silencio.</li><li>En los Ajustes del iPhone, comprueba que las notificaciones y las alarmas están permitidas para la app que usas.</li><li>Revisa el volumen en Ajustes › Sonidos y vibraciones, porque las alarmas usan el volumen del timbre.</li></ul>",
+      "faq": [
+        [
+          "¿El iPhone puede recordarme tomar mis medicamentos?",
+          "Sí. La app Salud tiene recordatorios de medicamentos, y apps como Medinder pueden sonar como una alarma a cada hora de toma."
+        ],
+        [
+          "¿Cómo hago que los recordatorios de medicamentos suenen en silencio?",
+          "Activa los Avisos críticos para medicamentos en la app Salud, o usa una app que use las alarmas del iPhone, como Medinder en iOS 26."
+        ]
+      ]
+    },
+    "guide_elderly": {
+      "title": "Recordatorio de medicamentos para personas mayores: guía",
+      "description": "Cómo ayudar a tu padre o tu madre mayor a acordarse de sus medicamentos sin quitarle el control: rutinas simples, alarmas, horario impreso y apoyo con respeto.",
+      "h1": "Recordatorios de medicamentos para padres mayores",
+      "lead": "Ayudar a un padre o una madre con sus medicamentos funciona mejor cuando sigue decidiendo él o ella. Estos pasos son sencillos y respetuosos.",
+      "body": "<h2>Empieza con una conversación</h2><p>Pregunta qué le cuesta: acordarse, distinguir las pastillas o saber si ya tomó una dosis. La respuesta te dice qué mejorar. Deja que elija lo que le ayuda.</p><h2>Haz que los medicamentos se distingan fácilmente</h2><p>Escribe el nombre en letras grandes en cada caja o haz una foto de cada pastilla. Cuando la farmacia cambie de marca, miren juntos la nueva pastilla.</p><h2>Elige recordatorios que pueda oír</h2><p>Muchas personas mayores tienen el teléfono en silencio sin darse cuenta. Un recordatorio que suena como una alarma, con un solo botón grande, es más fácil que una notificación pequeña. Medinder está pensado para eso: letra grande, palabras sencillas y un botón Tomado.</p><h2>Que «¿Ya me la tomé?» tenga respuesta fácil</h2><p>La duda lleva a saltarse tomas o a tomar doble. Un pastillero o una app que guarda la hora de cada toma responde la pregunta de un vistazo.</p><h2>Pon un horario impreso en el refrigerador</h2><p>Una tabla en papel también ayuda a visitas y cuidadores. Crea una con el <a href=\"{L}/tools/medication-schedule-maker/\">horario de medicamentos para imprimir</a> gratis.</p><h2>Acompaña sin tomar el control</h2><p>Una llamada corta a la misma hora cada semana para repasar la semana juntos funciona mejor que controlar cada día. Celebra una buena semana.</p><h2>Pregunta al farmacéutico</h2><p>Pide una revisión de la medicación si tu padre o tu madre toma muchos medicamentos. El farmacéutico muchas veces puede simplificar los horarios o sugerir blísteres preparados.</p>",
+      "faq": [
+        [
+          "¿Cuál es el mejor recordatorio de medicamentos para una persona mayor?",
+          "Uno que pueda oír y entender: un recordatorio que suene como una alarma, con letra grande y un solo botón claro, y una forma de ver lo que ya tomó."
+        ],
+        [
+          "¿Cómo puedo saber si mi padre o mi madre tomó sus medicamentos?",
+          "Usa un pastillero que puedan mirar juntos, o una app que guarde la hora de cada toma. Acuérdalo con él o con ella para que siga decidiendo."
+        ]
+      ]
+    }
+  },
+  "aso": {
+    "name": "Medinder: Pastillero y Alarma",
+    "subtitle": "Recordatorio de medicamentos",
+    "keywords": "pastilla,medicina,dosis,toma,tratamiento,horario,receta,mayor,anciano,vitamina,control,aviso,píldora"
+  },
+  "keywords": {
+    "primary": [
+      "recordatorio de medicamentos",
+      "app para tomar pastillas",
+      "pastillero app"
+    ],
+    "secondary": [
+      "alarma para medicamentos",
+      "recordatorio de pastillas",
+      "control de medicamentos",
+      "recordatorio de medicamentos para adultos mayores",
+      "recordatorio de medicamentos iphone"
+    ],
+    "long_tail": [
+      "recordatorio de medicamentos que suene en silencio",
+      "medicamento cada 8 horas horario",
+      "horario de medicamentos para imprimir",
+      "cómo acordarse de tomar los medicamentos",
+      "recordatorio de medicamentos para padres mayores",
+      "cómo poner recordatorio de medicamentos en iphone"
+    ]
+  }
+}

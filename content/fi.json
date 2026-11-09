@@ -1,0 +1,255 @@
+{
+  "lang": "fi",
+  "dir": "ltr",
+  "native": "Suomi",
+  "ui": {
+    "skip": "Siirry sisältöön",
+    "nav_home": "Etusivu",
+    "nav_tools": "Ilmaiset työkalut",
+    "nav_guides": "Oppaat",
+    "nav_support": "Tuki",
+    "download": "Lataa App Storesta",
+    "download_short": "Hanki appi",
+    "requires": "iPhonelle, jossa on iOS 26 tai uudempi.",
+    "language": "Kieli",
+    "footer_privacy": "Tietosuojakäytäntö",
+    "footer_support": "Tuki",
+    "footer_note": "Medinder on muistutussovellus. Se ei anna lääketieteellisiä neuvoja. Noudata aina lääkärin tai apteekin ohjeita.",
+    "updated": "Päivitetty viimeksi",
+    "read_more": "Lue opas",
+    "open_tool": "Avaa työkalu",
+    "faq_title": "Kysymyksiä ja vastauksia",
+    "cta_title": "Ei enää ”otinko jo lääkkeeni?”",
+    "cta_text": "Medinder soi, kunnes napautat Otettu, ja näyttää, mitä otit ja milloin.",
+    "breadcrumb_home": "Etusivu",
+    "related": "Saatat pitää myös näistä",
+    "not_found_title": "Sivua ei löytynyt",
+    "not_found_text": "Tätä sivua ei ole. Palaa etusivulle.",
+    "soon": "Pian App Storessa"
+  },
+  "pages": {
+    "home": {
+      "title": "Medinder – lääkemuistutus ja lääkeherätys iPhonelle",
+      "description": "Medinder on helppo lääkemuistutus iPhonelle. Se soi kuin herätys, myös äänettömällä. Napauta Otettu ja näe, mitä otit. Ei tiliä, tiedot pysyvät puhelimessa.",
+      "h1": "Lääkemuistutus, joka soi, kunnes otat lääkkeen",
+      "lead": "Medinder on helppo lääkemuistutussovellus iPhonelle. Se soi kuin herätyskello, vaikka puhelin olisi äänettömällä, ja pitää selkeää kirjaa jokaisesta otetusta annoksesta.",
+      "body": "<section class=\"features\"><h2>Kaikki tarpeellinen, ei mitään turhaa</h2><ul class=\"cards\"><li><h3>Soi kuin herätys</h3><p>Muistutukset soivat äänettömällä ja Keskittymisen aikana. Niissä on iso Otettu-painike ja torkku. Kuulet sen varmasti.</p></li><li><h3>Otinko jo? Yksi vilkaisu</h3><p>Tänään-näkymä näyttää jokaisen annoksen ja kellonajan, jolloin otit sen. Kalenteri näyttää kaikki aiemmat päivät.</p></li><li><h3>Sinun lääkkeesi, sinun sanasi</h3><p>Kirjoita nimi, jota itse käytät, ja lisää kuva tabletista tai pakkauksesta. Tiedät aina, mikä on mikä.</p></li><li><h3>Mikä tahansa aikataulu</h3><p>Kellonajat joka päivä, valitut viikonpäivät, muutaman päivän välein, muutaman tunnin välein tai vain tarvittaessa.</p></li><li><h3>Iso, selkeä ja rauhallinen</h3><p>Isot tekstit, isot painikkeet, selkeät sanat. Kuka tahansa voi käyttää sitä ilman apua.</p></li><li><h3>Yksityinen alusta asti</h3><p>Ei tiliä eikä mainoksia. Kaikki, mitä kirjoitat, pysyy iPhonessasi.</p></li></ul></section><section><h2>Valmis kolmessa vaiheessa</h2><ol class=\"steps\"><li><strong>Lisää lääke.</strong> Kirjoita sen nimi ja ota kuva, jos haluat.</li><li><strong>Valitse milloin.</strong> Valitse kellonajat ja päivät tai muutaman tunnin välein.</li><li><strong>Napauta Otettu, kun se soi.</strong> Medinder tallentaa ajan, joten sinun ei tarvitse muistaa.</li></ol></section><section><h2>Lisäksi mukana</h2><ul class=\"ticks\"><li>Koti- ja lukitusnäytön widget, jossa on Otettu-painike</li><li>Mittaukset, kuten verenpaine, syke ja paino, tallennettuna juuri niin kuin kirjoitit</li><li>Askeleet ja muut arvot Apple Healthista, näytetään suoraan eikä niitä tallenneta</li><li>Kaikkien tietojesi vienti ja varmuuskopio</li><li>18 kieltä</li></ul></section><section class=\"note\"><h2>Jos lopetat maksamisen, muistutuksesi soivat edelleen</h2><p>Medinder on tilaus, jonka selkeä hinta näkyy App Storessa ennen maksua. Jo asettamasi muistutukset toimivat, vaikka tilauksesi päättyisi. Lääkemuistutukset ovat liian tärkeitä sammutettaviksi.</p></section>",
+      "faq": [
+        [
+          "Soiko Medinder, kun iPhone on äänettömällä?",
+          "Kyllä. Medinder käyttää Applen herätysjärjestelmää iOS 26:ssa, joten muistutukset soivat äänettömällä ja Keskittymisen aikana, aivan kuten Kello-apin herätykset."
+        ],
+        [
+          "Sopiiko Medinder ikäihmisille?",
+          "Kyllä. Se on tehty yli 60-vuotiaille: isot tekstit, isot painikkeet, selkeät sanat ja yksi päätoiminto kussakin näkymässä."
+        ],
+        [
+          "Tarvitsenko tilin?",
+          "Et. Rekisteröitymistä tai kirjautumista ei ole. Kaikki, mitä kirjoitat, pysyy iPhonessasi."
+        ],
+        [
+          "Antaako Medinder lääketieteellisiä neuvoja?",
+          "Ei. Medinder ei koskaan kerro, mitä tai kuinka paljon sinun pitää ottaa. Se muistuttaa sinua valitsemiisi aikoihin ja tallentaa sen, minkä merkitset otetuksi."
+        ],
+        [
+          "Voinko seurata lääkettä, jota otan vain tarvittaessa?",
+          "Kyllä. Lisää se ”Tarpeen mukaan” -lääkkeeksi ja napauta Otettu aina, kun otat sen. Medinder tallentaa ajan."
+        ],
+        [
+          "Mitä Medinder maksaa?",
+          "Medinder on tilaus. Maasi hinta näkyy App Storessa ja sovelluksessa ennen maksua, ja voit palauttaa oston milloin tahansa."
+        ]
+      ]
+    },
+    "privacy": {
+      "title": "Tietosuojakäytäntö – Medinder",
+      "description": "Näin Medinder käsittelee tietojasi: ei tiliä, ei mainoksia, ei seurantaa. Lääketietosi pysyvät iPhonessasi, eikä niitä lähetetä mihinkään. Lue lyhyt selitys.",
+      "h1": "Tietosuojakäytäntö",
+      "lead": "Lyhyesti: kaikki, mitä kirjoitat, pysyy iPhonessasi. Meillä ei ole käyttäjätilejä, mainoksia eikä analytiikkaa, emmekä koskaan näe lääke- tai terveystietojasi.",
+      "body": "<h2>Mitä Medinder tallentaa</h2><p>Lääkkeesi, kuvat, aikataulut, otetuksi merkitsemäsi annokset, muistiinpanot ja mittaukset tallennetaan vain iPhoneesi, sovelluksen sisälle. Widget lukee samoja tietoja samassa puhelimessa. Meillä ei ole palvelinta, joka vastaanottaisi näitä tietoja.</p><h2>Apple Health</h2><p>Jos annat luvan, Medinder lukee askeleet, sykkeen, painon ja verenpaineen Apple Healthista näyttääkseen ne sovelluksessa. Arvot luetaan suoraan, eikä Medinder koskaan tallenna niitä, lisää niitä varmuuskopioihin tai lähetä niitä mihinkään. Medinder ei kirjoita mitään Apple Healthiin.</p><h2>Kamera ja kuvat</h2><p>Jos otat kuvan lääkkeestä, kuva tallennetaan vain iPhoneesi.</p><h2>Ostot</h2><p>Maksut hoitaa Apple. Tarkistaakseen, onko tilauksesi voimassa, Medinder käyttää RevenueCat-tilauspalvelua. RevenueCat saa nimettömän sovellustunnuksen ja ostotietoja, kuten minkä tilauksen ostit ja milloin. Se ei koskaan saa lääke-, mittaus- tai terveystietojasi. Katso <a href=\"https://www.revenuecat.com/privacy\">RevenueCatin tietosuojakäytäntö</a>.</p><h2>Ei seurantaa, ei mainoksia, ei analytiikkaa</h2><p>Medinderissä ei ole mainoksia, seurantaa eikä analytiikkaa. Emme myy tai jaa tietojasi.</p><h2>Varmuuskopiot ja viennit</h2><p>Voit viedä tietosi tai tehdä varmuuskopiotiedoston sovelluksessa. Tiedosto luodaan puhelimessasi, ja se menee vain sinne, minne itse lähetät tai tallennat sen. Jos käytät iPhonen varmuuskopiointia (iCloud tai tietokone), Apple voi sisällyttää sovelluksen tiedot varmuuskopioon kuten minkä tahansa sovelluksen. Tätä hallitset itse iPhonen asetuksista.</p><h2>Muistutukset</h2><p>Muistutukset ja herätykset ajastetaan iPhonessasi. Ne eivät kulje minkään palvelimen kautta.</p><h2>Tietojen poistaminen</h2><p>Poista sovellus, niin kaikki Medinderin iPhoneesi tallentamat tiedot poistuvat. Koska emme koskaan saa lääketietojasi, meidän puolellamme ei ole mitään poistettavaa.</p><h2>Lapset</h2><p>Medinder ei ole tarkoitettu alle 13-vuotiaille lapsille.</p><h2>Tämä verkkosivusto</h2><p>Tämä verkkosivusto ei käytä evästeitä eikä seurantaa. Sivuston ilmaiset työkalut toimivat selaimessasi, eikä niihin kirjoittamaasi lähetetä mihinkään.</p><h2>Muutokset</h2><p>Jos tämä käytäntö muuttuu, päivitämme tämän sivun ja alla olevan päivämäärän.</p><h2>Yhteystiedot</h2><p>Kysymyksiä tietosuojasta: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "faq": []
+    },
+    "support": {
+      "title": "Tuki – Medinder lääkemuistutus",
+      "description": "Apua Medinderin käyttöön: muistutukset, ostot, varmuuskopiot ja muuta. Lähetä meille sähköpostia, niin vastaamme niin pian kuin voimme. Ihminen lukee viestit.",
+      "h1": "Tuki",
+      "lead": "Tarvitsetko apua tai onko sinulla idea? Lähetä meille sähköpostia. Oikea ihminen lukee jokaisen viestin.",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Sähköposti {EMAIL}</a></p><p>Kerro meille iPhonesi malli ja mitä odotit tapahtuvan. Kuvakaappaus auttaa paljon.</p>",
+      "faq": [
+        [
+          "Muistutukseni ei soinut. Mitä teen?",
+          "Avaa Medinder ja siirry kohtaan Asetukset. Muistutukset-kohdassa näet, saako Medinder soida. Siellä voit laittaa muistutukset päälle ja kuulla muistutuksen napauttamalla Testimuistutus. Jos muistutukset ovat pois päältä, napauta Avaa Asetukset ja salli Medinderille herätykset ja ilmoitukset."
+        ],
+        [
+          "Miten palautan oston uudessa iPhonessa?",
+          "Kirjaudu samalla Apple-tilillä, avaa Medinder, siirry kohtaan Asetukset ja napauta Palauta osto."
+        ],
+        [
+          "Miten peruutan tilauksen?",
+          "Tilauksia hallinnoi Apple. Avaa iPhonen Asetukset-appi, napauta nimeäsi, sitten Tilaukset, ja valitse Medinder. Muistutuksesi soivat edelleen peruutuksen jälkeen."
+        ],
+        [
+          "Miten siirrän tietoni uuteen iPhoneen?",
+          "Napauta Medinderin asetuksissa Tallenna varmuuskopio ja säilytä tiedosto esimerkiksi iCloud Drivessa tai lähetä se itsellesi sähköpostilla. Avaa uudessa iPhonessa Medinderin Asetukset ja napauta Palauta varmuuskopio. Voit myös palauttaa koko iPhonesi iCloud- tai tietokonevarmuuskopiosta."
+        ],
+        [
+          "Miten vien historian tai mittaukset?",
+          "Napauta Medinderin asetuksissa Vie tietoni. Saat tiedoston, jonka voit jakaa lääkärillesi tai tallentaa."
+        ],
+        [
+          "Mitä kieliä Medinder tukee?",
+          "Englanti, arabia, kiina (perinteinen), hollanti, suomi, ranska, saksa, unkari, italia, japani, korea, puola, portugali, venäjä, espanja, thai, turkki ja vietnam."
+        ],
+        [
+          "Toimiiko Medinder Androidilla tai Apple Watchilla?",
+          "Ei vielä. Medinder on iPhonelle, jossa on iOS 26 tai uudempi."
+        ]
+      ]
+    },
+    "tools": {
+      "title": "Ilmaiset työkalut: lääkelista ja lääkkeenottoajat",
+      "description": "Ilmaiset ja yksityiset työkalut: tee tulostettava lääkelista ja laske lääkkeenottoajat 4, 6, 8 tai 12 tunnin välein. Kirjoittamasi ei lähde selaimesta.",
+      "h1": "Ilmaiset lääketyökalut",
+      "lead": "Helppoja työkaluja, jotka toimivat selaimessasi. Mitään kirjoittamaasi ei lähetetä eikä tallenneta.",
+      "body": "",
+      "faq": []
+    },
+    "dose_calculator": {
+      "title": "Lääkkeenottoajat – 4, 6, 8 tai 12 tunnin välein",
+      "description": "Ilmainen laskuri lääkkeenottoajoille: kirjoita ensimmäisen annoksen aika ja annosväli tunteina, niin näet päivän kaikki ajat. 4, 6, 8 tai 12 tunnin välein.",
+      "h1": "Lääkkeenottoaikojen laskuri",
+      "lead": "Kirjoita ensimmäisen annoksen kellonaika ja montako tuntia annosten välillä on. Näet jokaisen annoksen kellonajan vuorokauden ajalta.",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Ensimmäinen annos<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Välein<select id=\"every\"><option value=\"4\">4 tuntia</option><option value=\"6\">6 tuntia</option><option value=\"8\" selected>8 tuntia</option><option value=\"12\">12 tuntia</option><option value=\"24\">24 tuntia</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Tämä työkalu laskee vain kellonajat. Ota lääkkeesi aina niin kuin lääkäri, apteekki tai pakkausseloste neuvoo.</p><h2>Näin se toimii</h2><p>Vuorokaudessa on 24 tuntia. Jos otat lääkkeen 8 tunnin välein, se tekee 3 annosta päivässä, esimerkiksi klo 8.00, 16.00 ja 0.00. 6 tunnin välein on 4 annosta, 4 tunnin välein 6 annosta ja 12 tunnin välein 2 annosta.</p><h2>Vinkkejä yöannoksiin</h2><ul><li>Valitse ensimmäinen aika niin, että yöannos osuu aikaan, jolloin olet yleensä hereillä, jos ohjeesi sallivat sen.</li><li>Kysy apteekista, voiko aikoja siirtää vähän, jotta ne sopivat uneesi.</li><li>Käytä herätystä, joka soi myös puhelimen ollessa äänettömällä, jotta yöannos ei jää väliin.</li></ul><p>Medinder voi muistuttaa sinua automaattisesti muutaman tunnin välein ja soi myös äänettömällä.</p>",
+      "js": {
+        "doses": "{n} annosta päivässä",
+        "dose": "Annos {n}",
+        "next_day": "seuraavana päivänä"
+      },
+      "faq": [
+        [
+          "Mitkä ovat ajat 8 tunnin välein?",
+          "Jos ensimmäinen annos on klo 8.00, 8 tunnin välein tarkoittaa klo 8.00, 16.00 ja 0.00 (keskiyö). Jos ensimmäinen annos on klo 7.00, ajat ovat 7.00, 15.00 ja 23.00."
+        ],
+        [
+          "Mitkä ovat ajat 6 tunnin välein?",
+          "Klo 6.00 alkaen 6 tunnin välein tarkoittaa klo 6.00, 12.00, 18.00 ja 0.00."
+        ],
+        [
+          "Mitä tarkoittaa kahdesti päivässä?",
+          "Usein se tarkoittaa noin 12 tunnin välein, esimerkiksi klo 8.00 ja 20.00. Tarkista pakkausseloste tai kysy apteekista, sillä joillakin lääkkeillä on omat ohjeensa."
+        ]
+      ]
+    },
+    "schedule_maker": {
+      "title": "Tulostettava lääkelista – tee ilmainen lääkeaikataulu",
+      "description": "Tee tulostettava lääkelista minuutissa. Lisää lääkkeet ja kellonajat, ja tulosta viikkoaikataulu, jossa on ruudut rastia varten. Ilmainen ja yksityinen.",
+      "h1": "Tulostettava lääkelista",
+      "lead": "Lisää lääkkeesi ja kellonajat, ja tulosta viikkotaulukko, jossa on ruutu jokaiselle annokselle. Sopii jääkaapin oveen, hoivakotiin tai auttavalle läheiselle.",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Lisää lääke</button><label>Listan otsikko<input type=\"text\" id=\"chart-title\" value=\"Lääkkeeni\"></label><button type=\"button\" class=\"button\" id=\"print\">Tulosta lista</button></form><div class=\"chart\" id=\"chart\"></div><h2>Näin käytät listaa</h2><ol><li>Kirjoita jokainen lääke niin kuin se lukee pakkauksessa, jotta kuka tahansa löytää oikean.</li><li>Lisää yksi kellonaika jokaiselle annokselle. Aamulla ja illalla otettava lääke saa kaksi aikaa.</li><li>Tulosta lista ja rastita ruutu aina, kun otat annoksen.</li></ol><p>Käytätkö mieluummin puhelinta? Medinder tekee tämän puolestasi, soi joka kellonaikana ja tallentaa ajan, jolloin napautit Otettu.</p>",
+      "js": {
+        "name": "Lääke",
+        "name_ph": "esimerkiksi Metformin 500 mg",
+        "times": "Kellonajat",
+        "add_time": "Lisää aika",
+        "remove": "Poista",
+        "time": "Aika"
+      },
+      "faq": [
+        [
+          "Mitä lääkelistassa pitäisi olla?",
+          "Jokaisen lääkkeen nimi niin kuin se lukee pakkauksessa, vahvuus jos sinulla on useampi, ja jokaisen annoksen kellonaika. Ruutu jokaiselle päivälle auttaa näkemään, mitä olet ottanut."
+        ],
+        [
+          "Tallennetaanko tietoni?",
+          "Ei. Lista tehdään selaimessasi. Mitään kirjoittamaasi ei lähetetä eikä tallenneta."
+        ]
+      ]
+    },
+    "guides": {
+      "title": "Oppaat: näin muistat ottaa lääkkeet joka päivä",
+      "description": "Selkeitä oppaita lääkkeiden muistamiseen: päivittäiset tavat, lääkemuistutuksen asettaminen iPhonessa ja ikääntyvän vanhemman auttaminen arjessa.",
+      "h1": "Oppaat",
+      "lead": "Käytännön oppaita lääkkeiden muistamiseen, itsellesi tai läheisellesi.",
+      "body": "",
+      "faq": []
+    },
+    "guide_remember": {
+      "title": "Miten muistaa ottaa lääkkeet: 12 helppoa vinkkiä",
+      "description": "12 käytännön vinkkiä lääkkeiden muistamiseen joka päivä: liitä ne rutiiniin, käytä dosettia, aseta äänettömälläkin soiva herätys ja pidä yksinkertaista kirjaa.",
+      "h1": "Miten muistaa ottaa lääkkeet: 12 helppoa vinkkiä",
+      "lead": "Annoksen unohtaminen on hyvin yleistä, eikä se johdu huolimattomuudesta. Nämä vinkit auttavat rakentamaan rutiinin, joka toimii kiireisinäkin päivinä.",
+      "body": "<h2>1. Liitä se johonkin, mitä jo teet</h2><p>Ota lääke heti jonkin sellaisen jälkeen, mitä teet joka päivä ajattelematta: hampaiden pesu, aamun ensimmäinen kahvi tai aamiainen. Vanha tapa muistuttaa uudesta.</p><h2>2. Pidä se näkyvillä</h2><p>Laita lääke hammasharjan tai kahvinkeittimen viereen, jos sitä saa säilyttää siellä. Poissa silmistä, poissa mielestä. Pidä se lasten ulottumattomissa ja poissa kosteasta kylpyhuoneesta, jos pakkauksessa niin lukee.</p><h2>3. Käytä viikkodosettia</h2><p>Dosetti, jossa on lokero jokaiselle päivälle, näyttää yhdellä silmäyksellä, onko päivän annos jo otettu. Täytä se joka viikko samana päivänä.</p><h2>4. Aseta muistutus, joka ei jää huomaamatta</h2><p>Tavallisen ilmoituksen pyyhkäisee helposti pois tai sen ohittaa, kun puhelin on äänettömällä. Käytä muistutusta, joka soi kuin herätys, kunnes kuittaat sen.</p><h2>5. Merkitse jokainen annos heti</h2><p>Kysymys ”otinko jo?” on suurin syy siihen, että annos jää väliin tai tulee otettua kahdesti. Rastita se paperille tai napauta sovelluksessa Otettu heti, kun otat lääkkeen.</p><h2>6. Tunnista jokainen lääke ulkonäöstä</h2><p>Ota kuva jokaisesta tabletista ja pakkauksesta. Kun apteekki vaihtaa valmistetta, tabletti voi näyttää erilaiselta, joten päivitä kuva.</p><h2>7. Suunnittele aikaerot matkoilla</h2><p>Kysy ennen matkaa apteekista, miten siirrät lääkkeenottoaikoja. Aseta sitten muistutukset uusiin aikoihin.</p><h2>8. Pakkaa yhden päivän vara</h2><p>Pidä yhden päivän lääkkeet laukussa tai autossa niitä päiviä varten, kun et ehdi ajoissa kotiin.</p><h2>9. Tee tulostettu lista</h2><p>Jääkaapin oveen tulostettu lista auttaa kaikkia kotona. Käytä ilmaista <a href=\"{L}/tools/medication-schedule-maker/\">lääkelistatyökaluamme</a>.</p><h2>10. Suunnittele muutaman tunnin välein otettavat annokset</h2><p>Jos otat lääkettä 6 tai 8 tunnin välein, kirjoita kellonajat ylös. <a href=\"{L}/tools/dose-time-calculator/\">Lääkkeenottoaikojen laskuri</a> laskee ne puolestasi.</p><h2>11. Pyydä apua, kun asiat mutkistuvat</h2><p>Jos sinulla on monta lääkettä, pyydä apteekista lääkityksen tarkistusta. Aikoja voi usein yksinkertaistaa.</p><h2>12. Ole lempeä itsellesi</h2><p>Jos annos unohtuu, katso pakkausselosteesta tai kysy apteekista, mitä tehdä. Älä ota seuraavaa annosta kaksinkertaisena, ellei sinua neuvota niin.</p>",
+      "faq": [
+        [
+          "Mikä on helpoin tapa muistaa ottaa lääkkeet?",
+          "Liitä annos päivittäiseen tapaan, pidä lääke näkyvillä ja käytä muistutusta, joka soi, kunnes kuittaat sen."
+        ],
+        [
+          "Mitä teen, jos unohdin annoksen?",
+          "Lue pakkausseloste tai kysy apteekista. Vastaus on jokaisella lääkkeellä erilainen."
+        ]
+      ]
+    },
+    "guide_iphone": {
+      "title": "Lääkemuistutus iPhoneen – myös äänettömällä soiva",
+      "description": "Vaihe vaiheelta: aseta lääkemuistutus iPhoneen Terveys-apilla tai Medinderin kaltaisella sovelluksella ja varmista, että se soi myös äänettömällä.",
+      "h1": "Lääkemuistutuksen asettaminen iPhonessa",
+      "lead": "iPhone voi muistuttaa lääkkeistä muutamalla tavalla. Näin kukin toimii, ja näin varmistat, ettei muistutus jää äänettömäksi.",
+      "body": "<h2>Tapa 1: Terveys-appi</h2><ol><li>Avaa Terveys-appi ja napauta Selaa (tai Haku), sitten Lääkkeet.</li><li>Napauta Lisää lääke ja anna nimi, tyyppi ja aikataulu ohjeiden mukaan.</li><li>Jos haluat uuden muistutuksen, kun unohdat, vieritä alas kohtaan Valinnat ja laita jatkomuistutukset päälle.</li><li>Jos haluat kuulla muistutukset, kun iPhone on äänettömällä tai Keskittyminen on päällä, napauta Valinnoissa Kriittiset ilmoitukset ja laita ne päälle lääkkeillesi.</li></ol><p>Terveys-appi on ilmainen ja valmiina iPhonessa. Muistutukset tulevat ilmoituksina.</p><h2>Tapa 2: Lääkemuistutussovellus, joka soi kuin herätys</h2><p>Medinder käyttää Applen herätysjärjestelmää iOS 26:ssa. Muistutus täyttää näytön ja soi kuin Kello-apin herätys, ja siinä on iso Otettu-painike ja torkku. Se soi äänettömällä ja Keskittymisen aikana.</p><ol><li>Asenna Medinder ja lisää lääkkeesi nimellä, halutessasi myös kuvalla.</li><li>Valitse kellonajat, päivät tai muutaman tunnin välein.</li><li>Salli herätykset, kun Medinder kysyy.</li><li>Kun se soi, napauta Otettu. Medinder tallentaa ajan.</li></ol><h2>Tapa 3: Kello-apin herätykset</h2><p>Voit asettaa Kello-appiin tavallisen herätyksen ja nimetä sen lääkkeesi mukaan. Se soi äänettömällä, mutta ei pidä kirjaa siitä, mitä otit.</p><h2>Miksi muistutukset eivät soi äänettömällä?</h2><p>Tavalliset ilmoitukset noudattavat soitto-/äänetön-kytkintä ja Keskittymistä. Vain herätykset ja kriittiset ilmoitukset pääsevät läpi. Jos luotat muistutuksiin, käytä jompaakumpaa.</p><h2>Tarkista, että muistutukset toimivat</h2><ul><li>Aseta testimuistutus kahden minuutin päähän ja laita puhelin äänettömälle.</li><li>Tarkista iPhonen Asetuksista, että ilmoitukset ja herätykset on sallittu käyttämällesi sovellukselle.</li><li>Tarkista äänenvoimakkuus kohdasta Asetukset › Äänet ja tuntokyky, koska herätykset käyttävät soittoäänen voimakkuutta.</li></ul>",
+      "faq": [
+        [
+          "Voiko iPhone muistuttaa lääkkeiden ottamisesta?",
+          "Kyllä. Terveys-apissa on lääkemuistutukset, ja Medinderin kaltaiset sovellukset voivat soida kuin herätys jokaisena lääkkeenottoaikana."
+        ],
+        [
+          "Miten saan lääkemuistutukset soimaan äänettömällä?",
+          "Laita Terveys-apissa lääkkeille kriittiset ilmoitukset päälle tai käytä sovellusta, joka käyttää iPhonen herätyksiä, kuten Medinderiä iOS 26:ssa."
+        ]
+      ]
+    },
+    "guide_elderly": {
+      "title": "Lääkemuistutus ikääntyvälle vanhemmalle: käytännön opas",
+      "description": "Näin autat ikääntyvää vanhempaa muistamaan lääkkeet ottamatta ohjia: helpot rutiinit, soivat muistutukset, tulostetut listat ja kunnioittavat yhteydenotot.",
+      "h1": "Lääkemuistutukset ikääntyvälle vanhemmalle",
+      "lead": "Vanhemman auttaminen lääkkeiden kanssa toimii parhaiten, kun hän päättää itse. Nämä vaiheet pitävät asiat yksinkertaisina ja kunnioittavina.",
+      "body": "<h2>Aloita keskustelulla</h2><p>Kysy, mikä on vaikeaa: muistaminen, tablettien erottaminen toisistaan vai sen tietäminen, onko annos jo otettu. Vastaus kertoo, mitä korjata. Anna vanhempasi valita, mikä auttaa.</p><h2>Tee lääkkeistä helppoja erottaa</h2><p>Kirjoita nimi isoin kirjaimin jokaiseen pakkaukseen tai ota kuva jokaisesta tabletista. Kun apteekki vaihtaa valmistetta, katsokaa uutta tablettia yhdessä.</p><h2>Valitse muistutus, jonka hän kuulee</h2><p>Monella ikäihmisellä puhelin on vahingossa äänettömällä. Muistutus, joka soi kuin herätys ja jossa on yksi iso painike, on helpompi kuin pieni ilmoitus. Medinder on tehty juuri tähän: isot tekstit, selkeät sanat ja Otettu-painike.</p><h2>Tee kysymykseen ”otinko jo?” helppo vastata</h2><p>Epävarmuus johtaa väliin jääneisiin tai tuplattuihin annoksiin. Dosetti tai sovellus, joka tallentaa jokaisen annoksen ajan, vastaa kysymykseen yhdellä silmäyksellä.</p><h2>Laita tulostettu lista jääkaapin oveen</h2><p>Paperilista auttaa myös vieraita ja hoitajia. Tee sellainen ilmaisella <a href=\"{L}/tools/medication-schedule-maker/\">lääkelistatyökalulla</a>.</p><h2>Pidä yhteyttä ottamatta ohjia</h2><p>Lyhyt puhelu kerran viikossa samaan aikaan, jolloin katsotte viikkoa yhdessä, toimii paremmin kuin päivittäinen tarkistaminen. Iloitkaa hyvästä viikosta.</p><h2>Kysy apteekista</h2><p>Pyydä lääkityksen tarkistusta, jos vanhemmallasi on monta lääkettä. Apteekki voi usein yksinkertaistaa aikoja tai ehdottaa annosjakelua.</p>",
+      "faq": [
+        [
+          "Mikä on paras lääkemuistutus ikäihmiselle?",
+          "Sellainen, jonka hän kuulee ja ymmärtää: muistutus, joka soi kuin herätys, jossa on isot tekstit ja yksi selkeä painike, sekä tapa nähdä, mitä on jo otettu."
+        ],
+        [
+          "Miten voin varmistaa, että vanhempani on ottanut lääkkeensä?",
+          "Käytä dosettia, jota voitte katsoa yhdessä, tai sovellusta, joka tallentaa jokaisen annoksen ajan. Sopikaa tästä yhdessä, jotta vanhempasi päättää itse."
+        ]
+      ]
+    }
+  },
+  "aso": {
+    "name": "Medinder: Lääkemuistutus",
+    "subtitle": "Lääkeherätys ja lääkeseuranta",
+    "keywords": "lääke,pilleri,tabletti,annos,muistuttaja,hälytys,aikataulu,ikäihminen,vitamiini,verenpaine,dosetti"
+  },
+  "keywords": {
+    "primary": [
+      "lääkemuistutus sovellus",
+      "lääkemuistuttaja",
+      "lääkesovellus"
+    ],
+    "secondary": [
+      "lääkeherätys",
+      "lääkkeiden muistutus",
+      "lääkemuistio",
+      "lääkemuistutus ikäihmisille",
+      "lääkemuistutus iphone"
+    ],
+    "long_tail": [
+      "lääkemuistutus joka soi äänettömällä",
+      "lääke 8 tunnin välein kellonajat",
+      "tulostettava lääkelista",
+      "miten muistaa ottaa lääkkeet",
+      "lääkemuistutus ikääntyvälle vanhemmalle",
+      "lääkemuistutus iphoneen"
+    ]
+  }
+}
