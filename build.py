@@ -153,19 +153,20 @@ def page(lang, key):
 <meta property="og:image" content="{SITE}/assets/og.png">
 <meta property="og:locale" content="{lang.replace("-", "_")}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#0A6E6E">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light">
 {banner}
 <link rel="icon" href="{BASE}/assets/icon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="{BASE}/assets/icon-180.png">
 <link rel="stylesheet" href="{BASE}/assets/style.css">
 {"".join(f'<script type="application/ld+json">{json.dumps(s, ensure_ascii=False)}</script>' for s in schema)}
 </head>
-<body>
+<body class="page-{key}">
 <a class="skip" href="#main">{esc(ui["skip"])}</a>
-<header class="top">
+<header class="top"><div class="bar">
 <a class="brand" href="{pre}/"><img src="{BASE}/assets/icon-64.png" width="32" height="32" alt="">Medind</a>
 <nav aria-label="main"><a href="{pre}/tools/">{esc(ui["nav_tools"])}</a><a href="{pre}/guides/">{esc(ui["nav_guides"])}</a><a href="{pre}/support/">{esc(ui["nav_support"])}</a></nav>
-</header>
+</div></header>
 <main id="main">
 {trail}
 <article class="{key}">
@@ -177,11 +178,11 @@ def page(lang, key):
 {related}
 {cta}
 </main>
-<footer>
+<footer><div class="foot">
+<div><a class="brand" href="{pre}/"><img src="{BASE}/assets/icon-64.png" width="32" height="32" alt="">Medind</a><p class="small">{esc(ui["footer_note"])}</p></div>
+<nav class="foot-links" aria-label="footer"><a href="{pre}/tools/">{esc(ui["nav_tools"])}</a><a href="{pre}/guides/">{esc(ui["nav_guides"])}</a><a href="{pre}/support/">{esc(ui["footer_support"])}</a><a href="{pre}/privacy/">{esc(ui["footer_privacy"])}</a><a href="mailto:{EMAIL}">{EMAIL}</a></nav>
 <details class="langs"><summary>{esc(ui["language"])}: {esc(c["native"])}</summary><ul>{langs}</ul></details>
-<p><a href="{pre}/privacy/">{esc(ui["footer_privacy"])}</a> · <a href="{pre}/support/">{esc(ui["footer_support"])}</a> · <a href="mailto:{EMAIL}">{EMAIL}</a></p>
-<p class="small">{esc(ui["footer_note"])}</p>
-</footer>
+</div></footer>
 {script}
 </body>
 </html>
