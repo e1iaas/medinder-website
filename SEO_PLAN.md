@@ -11,7 +11,7 @@ Being honest about speed: big terms like "pill reminder app" belong to Medisafe,
 | # | Step | Who |
 |---|---|---|
 | 1 | Buy **medinder.app** (and medinder.com to redirect to it). Both were unregistered on 2026-11-09. If you choose another domain, change `SITE` in `build.py`. | You |
-| 2 | Live on **GitHub Pages** at https://e1iaas.github.io/medinder-website/, rebuilt on every push to `main`. Once medinder.app is bought, add it as the custom domain in the repo's Pages settings and set `SITE` in `build.py` to `https://medinder.app`. | You |
+| 2 | Host on **Vercel**: in Vercel choose Add New → Project, import the GitHub repo `e1iaas/medinder-website` and press Deploy (settings come from `vercel.json`). Every push to `main` then goes live. When medinder.app is bought, add it under Project → Settings → Domains; the next deploy uses it for every link by itself. | You |
 | 3 | App Store Connect → App Information: **Privacy Policy URL** `https://medinder.app/privacy/`, **Support URL** `https://medinder.app/support/`, **Marketing URL** `https://medinder.app/`. Each language has its own pages (`/de/privacy/` and so on) if you want localized URLs per localization. | You |
 | 4 | Verify the domain in **Google Search Console** and **Bing Webmaster Tools** and submit `https://medinder.app/sitemap.xml`. Bing matters for AI search: ChatGPT search and Copilot use its index. In Bing, also turn on IndexNow. | You |
 | 5 | When the app is live, put its numeric ID in `APP_ID` in `build.py` and rebuild. That turns every "Coming soon" into a real App Store link and adds the Smart App Banner on iPhone. | Claude |

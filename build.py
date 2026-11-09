@@ -1,16 +1,18 @@
 """Builds the static website into public/ from content/<lang>.json. Run: python3 build.py"""
 import html
 import json
+import os
 import shutil
 from urllib.parse import urlsplit
 from pathlib import Path
 
-SITE = "https://e1iaas.github.io/medinder-website"  # change to "https://medinder.app" once the domain points here
+# On Vercel this is the production domain (the custom domain once one is added); locally medinder.app
+SITE = "https://" + os.environ.get("VERCEL_PROJECT_PRODUCTION_URL", "medinder.app")
 EMAIL = "eliastestdev@gmail.com"
 APP_ID = ""                             # App Store app ID (digits) once the app is live
 UPDATED = "2026-11-09"
 
-BASE = urlsplit(SITE).path.rstrip("/")  # "/medinder-website" on GitHub Pages, "" on an own domain
+BASE = urlsplit(SITE).path.rstrip("/")  # "" on a domain of its own; set if the site ever lives in a sub-folder
 ORIGIN = SITE[: len(SITE) - len(BASE)]
 
 ROOT = Path(__file__).parent
