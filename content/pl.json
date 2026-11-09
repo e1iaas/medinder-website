@@ -14,13 +14,13 @@
     "language": "Język",
     "footer_privacy": "Polityka prywatności",
     "footer_support": "Pomoc",
-    "footer_note": "Medinder to aplikacja do przypomnień. Nie udziela porad medycznych. Zawsze stosuj się do zaleceń lekarza lub farmaceuty.",
+    "footer_note": "Medind to aplikacja do przypomnień. Nie udziela porad medycznych. Zawsze stosuj się do zaleceń lekarza lub farmaceuty.",
     "updated": "Ostatnia aktualizacja",
     "read_more": "Przeczytaj poradnik",
     "open_tool": "Otwórz narzędzie",
     "faq_title": "Pytania i odpowiedzi",
     "cta_title": "Koniec z pytaniem „czy już wziąłem?”",
-    "cta_text": "Medinder dzwoni, dopóki nie stukniesz Przyjęto, i pokazuje, co i kiedy wziąłeś.",
+    "cta_text": "Medind dzwoni, dopóki nie stukniesz Przyjęto, i pokazuje, co i kiedy wziąłeś.",
     "breadcrumb_home": "Strona główna",
     "related": "Zobacz także",
     "not_found_title": "Nie znaleziono strony",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – przypomnienie o lekach i dzienniczek leków",
-      "description": "Medinder to prosta aplikacja do przypominania o lekach na iPhone’a. Dzwoni jak budzik, nawet w trybie cichym. Bez konta, dane zostają tylko w Twoim telefonie.",
+      "title": "Medind – przypomnienie o lekach i dzienniczek leków",
+      "description": "Medind to prosta aplikacja do przypominania o lekach na iPhone’a. Dzwoni jak budzik, nawet w trybie cichym. Bez konta, dane zostają tylko w Twoim telefonie.",
       "h1": "Przypomnienie o lekach, które dzwoni, aż je weźmiesz",
-      "lead": "Medinder to prosta aplikacja przypominająca o lekach na iPhone’a. Dzwoni jak budzik, nawet gdy telefon jest wyciszony, i zapisuje każdą przyjętą dawkę.",
-      "body": "<section class=\"features\"><h2>Wszystko, czego potrzebujesz, nic więcej</h2><ul class=\"cards\"><li><h3>Dzwoni jak budzik</h3><p>Przypomnienia dzwonią także w trybie cichym i w trybie Skupienie, z dużym przyciskiem Przyjęto i drzemką. Na pewno usłyszysz.</p></li><li><h3>Czy już wziąłem? Wystarczy spojrzeć</h3><p>Ekran Dziś pokazuje każdą dawkę z godziną, o której ją wziąłeś. Kalendarz pokazuje wszystkie wcześniejsze dni.</p></li><li><h3>Twoje leki, Twoimi słowami</h3><p>Wpisz nazwę, której używasz, i dodaj zdjęcie tabletki lub opakowania, żeby zawsze wiedzieć, który lek jest który.</p></li><li><h3>Dowolny harmonogram</h3><p>Godziny każdego dnia, wybrane dni tygodnia, co kilka dni, co kilka godzin albo tylko w razie potrzeby.</p></li><li><h3>Duże, czytelne i spokojne</h3><p>Duży tekst, duże przyciski, proste słowa. Każdy poradzi sobie bez pomocy.</p></li><li><h3>Prywatność od początku</h3><p>Bez konta i bez reklam. Wszystko, co wpiszesz, zostaje na Twoim iPhonie.</p></li></ul></section><section><h2>Gotowe w trzech krokach</h2><ol class=\"steps\"><li><strong>Dodaj lek.</strong> Wpisz jego nazwę i, jeśli chcesz, zrób zdjęcie.</li><li><strong>Wybierz, kiedy.</strong> Ustaw godziny i dni albo co ile godzin.</li><li><strong>Gdy zadzwoni, stuknij Przyjęto.</strong> Medinder zapisze godzinę, więc nie musisz pamiętać.</li></ol></section><section><h2>Do tego</h2><ul class=\"ticks\"><li>Widżet na ekran początkowy i ekran blokady z przyciskiem Przyjęto</li><li>Pomiary, takie jak ciśnienie, tętno i waga, zapisane dokładnie tak, jak je wpiszesz</li><li>Kroki i inne wartości z aplikacji Zdrowie, pokazywane na bieżąco i nigdy niezapisywane</li><li>Eksport i kopia zapasowa wszystkiego, co wpiszesz</li><li>18 języków</li></ul></section><section class=\"note\"><h2>Jeśli przestaniesz płacić, przypomnienia nadal dzwonią</h2><p>Medinder to subskrypcja z jasną ceną pokazaną w App Store, zanim zapłacisz. Przypomnienia, które już ustawiłeś, działają dalej, nawet gdy subskrypcja się skończy. Przypomnienia o lekach są zbyt ważne, żeby je wyłączać.</p></section>",
+      "lead": "Medind to prosta aplikacja przypominająca o lekach na iPhone’a. Dzwoni jak budzik, nawet gdy telefon jest wyciszony, i zapisuje każdą przyjętą dawkę.",
+      "body": "<section class=\"features\"><h2>Wszystko, czego potrzebujesz, nic więcej</h2><ul class=\"cards\"><li><h3>Dzwoni jak budzik</h3><p>Przypomnienia dzwonią także w trybie cichym i w trybie Skupienie, z dużym przyciskiem Przyjęto i drzemką. Na pewno usłyszysz.</p></li><li><h3>Czy już wziąłem? Wystarczy spojrzeć</h3><p>Ekran Dziś pokazuje każdą dawkę z godziną, o której ją wziąłeś. Kalendarz pokazuje wszystkie wcześniejsze dni.</p></li><li><h3>Twoje leki, Twoimi słowami</h3><p>Wpisz nazwę, której używasz, i dodaj zdjęcie tabletki lub opakowania, żeby zawsze wiedzieć, który lek jest który.</p></li><li><h3>Dowolny harmonogram</h3><p>Godziny każdego dnia, wybrane dni tygodnia, co kilka dni, co kilka godzin albo tylko w razie potrzeby.</p></li><li><h3>Duże, czytelne i spokojne</h3><p>Duży tekst, duże przyciski, proste słowa. Każdy poradzi sobie bez pomocy.</p></li><li><h3>Prywatność od początku</h3><p>Bez konta i bez reklam. Wszystko, co wpiszesz, zostaje na Twoim iPhonie.</p></li></ul></section><section><h2>Gotowe w trzech krokach</h2><ol class=\"steps\"><li><strong>Dodaj lek.</strong> Wpisz jego nazwę i, jeśli chcesz, zrób zdjęcie.</li><li><strong>Wybierz, kiedy.</strong> Ustaw godziny i dni albo co ile godzin.</li><li><strong>Gdy zadzwoni, stuknij Przyjęto.</strong> Medind zapisze godzinę, więc nie musisz pamiętać.</li></ol></section><section><h2>Do tego</h2><ul class=\"ticks\"><li>Widżet na ekran początkowy i ekran blokady z przyciskiem Przyjęto</li><li>Pomiary, takie jak ciśnienie, tętno i waga, zapisane dokładnie tak, jak je wpiszesz</li><li>Kroki i inne wartości z aplikacji Zdrowie, pokazywane na bieżąco i nigdy niezapisywane</li><li>Eksport i kopia zapasowa wszystkiego, co wpiszesz</li><li>18 języków</li></ul></section><section class=\"note\"><h2>Jeśli przestaniesz płacić, przypomnienia nadal dzwonią</h2><p>Medind to subskrypcja z jasną ceną pokazaną w App Store, zanim zapłacisz. Przypomnienia, które już ustawiłeś, działają dalej, nawet gdy subskrypcja się skończy. Przypomnienia o lekach są zbyt ważne, żeby je wyłączać.</p></section>",
       "faq": [
         [
-          "Czy Medinder dzwoni, gdy iPhone jest wyciszony?",
-          "Tak. Medinder korzysta z systemu alarmów Apple w iOS 26, więc przypomnienia dzwonią w trybie cichym i w trybie Skupienie, tak jak budziki w aplikacji Zegar."
+          "Czy Medind dzwoni, gdy iPhone jest wyciszony?",
+          "Tak. Medind korzysta z systemu alarmów Apple w iOS 26, więc przypomnienia dzwonią w trybie cichym i w trybie Skupienie, tak jak budziki w aplikacji Zegar."
         ],
         [
-          "Czy Medinder nadaje się dla seniorów?",
+          "Czy Medind nadaje się dla seniorów?",
           "Tak. Powstał z myślą o osobach po 60. roku życia: duży tekst, duże przyciski, proste słowa i jedna główna czynność na każdym ekranie."
         ],
         [
@@ -48,61 +48,61 @@
           "Nie. Nie ma rejestracji ani logowania. Wszystko, co wpiszesz, zostaje na Twoim iPhonie."
         ],
         [
-          "Czy Medinder udziela porad medycznych?",
-          "Nie. Medinder nigdy nie mówi, co ani ile brać. Przypomina o wybranych przez Ciebie godzinach i zapisuje to, co oznaczysz jako przyjęte."
+          "Czy Medind udziela porad medycznych?",
+          "Nie. Medind nigdy nie mówi, co ani ile brać. Przypomina o wybranych przez Ciebie godzinach i zapisuje to, co oznaczysz jako przyjęte."
         ],
         [
           "Czy mogę zapisywać leki brane tylko w razie potrzeby?",
-          "Tak. Dodaj lek jako „W razie potrzeby” i stuknij Przyjęto za każdym razem, gdy go weźmiesz. Medinder zapisze godzinę."
+          "Tak. Dodaj lek jako „W razie potrzeby” i stuknij Przyjęto za każdym razem, gdy go weźmiesz. Medind zapisze godzinę."
         ],
         [
-          "Ile kosztuje Medinder?",
-          "Medinder to subskrypcja. Cena dla Twojego kraju jest pokazana w App Store i w aplikacji, zanim zapłacisz, a zakup możesz przywrócić w każdej chwili."
+          "Ile kosztuje Medind?",
+          "Medind to subskrypcja. Cena dla Twojego kraju jest pokazana w App Store i w aplikacji, zanim zapłacisz, a zakup możesz przywrócić w każdej chwili."
         ]
       ]
     },
     "privacy": {
-      "title": "Polityka prywatności – Medinder",
-      "description": "Jak Medinder obchodzi się z Twoimi danymi: bez konta, bez reklam, bez śledzenia. Dane o Twoich lekach i zdrowiu zostają tylko na Twoim iPhonie.",
+      "title": "Polityka prywatności – Medind",
+      "description": "Jak Medind obchodzi się z Twoimi danymi: bez konta, bez reklam, bez śledzenia. Dane o Twoich lekach i zdrowiu zostają tylko na Twoim iPhonie.",
       "h1": "Polityka prywatności",
       "lead": "W skrócie: wszystko, co wpiszesz, zostaje na Twoim iPhonie. Nie mamy kont, reklam ani analityki i nigdy nie widzimy danych o Twoich lekach ani zdrowiu.",
-      "body": "<h2>Co przechowuje Medinder</h2><p>Twoje leki, zdjęcia, harmonogramy, dawki oznaczone jako przyjęte, notatki i pomiary są przechowywane tylko na Twoim iPhonie, w aplikacji. Widżet odczytuje te same dane na tym samym telefonie. Nie mamy serwera, który odbiera te dane.</p><h2>Zdrowie (Apple Health)</h2><p>Jeśli na to pozwolisz, Medinder odczytuje kroki, tętno, wagę i ciśnienie krwi z aplikacji Zdrowie, aby pokazać je w aplikacji. Te wartości są odczytywane na bieżąco i nigdy nie są zapisywane przez Medinder, nigdy nie trafiają do kopii zapasowych i nigdy nie są nigdzie wysyłane. Medinder nic nie zapisuje w aplikacji Zdrowie.</p><h2>Aparat i zdjęcia</h2><p>Jeśli zrobisz zdjęcie leku, zdjęcie jest przechowywane tylko na Twoim iPhonie.</p><h2>Zakupy</h2><p>Płatności obsługuje Apple. Aby sprawdzić, czy subskrypcja jest aktywna, Medinder korzysta z RevenueCat, usługi do obsługi subskrypcji. RevenueCat otrzymuje anonimowy identyfikator aplikacji i informacje o zakupie, na przykład którą subskrypcję kupiłeś i kiedy. Nigdy nie otrzymuje danych o Twoich lekach, pomiarach ani zdrowiu. Zobacz <a href=\"https://www.revenuecat.com/privacy\">politykę prywatności RevenueCat</a>.</p><h2>Bez śledzenia, bez reklam, bez analityki</h2><p>Medinder nie zawiera reklam, śledzenia ani analityki. Nie sprzedajemy ani nie udostępniamy Twoich danych.</p><h2>Kopie zapasowe i eksport</h2><p>W aplikacji możesz wyeksportować dane lub zrobić plik kopii zapasowej. Ten plik powstaje na Twoim telefonie i trafia tylko tam, gdzie sam go wyślesz lub zapiszesz. Jeśli używasz kopii zapasowej iPhone’a (iCloud lub komputer), Apple może dołączyć do niej dane aplikacji, tak jak w przypadku każdej aplikacji; decydujesz o tym w Ustawieniach iPhone’a.</p><h2>Przypomnienia</h2><p>Przypomnienia i alarmy są planowane na Twoim iPhonie. Nie przechodzą przez żaden serwer.</p><h2>Usuwanie danych</h2><p>Usuń aplikację, aby usunąć wszystkie dane zapisane przez Medinder na Twoim iPhonie. Ponieważ nigdy nie otrzymujemy danych o Twoich lekach, po naszej stronie nie ma czego usuwać.</p><h2>Dzieci</h2><p>Medinder nie jest przeznaczony dla dzieci poniżej 13 lat.</p><h2>Ta strona</h2><p>Ta strona nie używa plików cookie ani śledzenia. Darmowe narzędzia na tej stronie działają w Twojej przeglądarce; to, co w nie wpiszesz, nie jest nigdzie wysyłane.</p><h2>Zmiany</h2><p>Jeśli ta polityka się zmieni, zaktualizujemy tę stronę i datę poniżej.</p><h2>Kontakt</h2><p>Pytania o prywatność: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>Co przechowuje Medind</h2><p>Twoje leki, zdjęcia, harmonogramy, dawki oznaczone jako przyjęte, notatki i pomiary są przechowywane tylko na Twoim iPhonie, w aplikacji. Widżet odczytuje te same dane na tym samym telefonie. Nie mamy serwera, który odbiera te dane.</p><h2>Zdrowie (Apple Health)</h2><p>Jeśli na to pozwolisz, Medind odczytuje kroki, tętno, wagę i ciśnienie krwi z aplikacji Zdrowie, aby pokazać je w aplikacji. Te wartości są odczytywane na bieżąco i nigdy nie są zapisywane przez Medind, nigdy nie trafiają do kopii zapasowych i nigdy nie są nigdzie wysyłane. Medind nic nie zapisuje w aplikacji Zdrowie.</p><h2>Aparat i zdjęcia</h2><p>Jeśli zrobisz zdjęcie leku, zdjęcie jest przechowywane tylko na Twoim iPhonie.</p><h2>Zakupy</h2><p>Płatności obsługuje Apple. Aby sprawdzić, czy subskrypcja jest aktywna, Medind korzysta z RevenueCat, usługi do obsługi subskrypcji. RevenueCat otrzymuje anonimowy identyfikator aplikacji i informacje o zakupie, na przykład którą subskrypcję kupiłeś i kiedy. Nigdy nie otrzymuje danych o Twoich lekach, pomiarach ani zdrowiu. Zobacz <a href=\"https://www.revenuecat.com/privacy\">politykę prywatności RevenueCat</a>.</p><h2>Bez śledzenia, bez reklam, bez analityki</h2><p>Medind nie zawiera reklam, śledzenia ani analityki. Nie sprzedajemy ani nie udostępniamy Twoich danych.</p><h2>Kopie zapasowe i eksport</h2><p>W aplikacji możesz wyeksportować dane lub zrobić plik kopii zapasowej. Ten plik powstaje na Twoim telefonie i trafia tylko tam, gdzie sam go wyślesz lub zapiszesz. Jeśli używasz kopii zapasowej iPhone’a (iCloud lub komputer), Apple może dołączyć do niej dane aplikacji, tak jak w przypadku każdej aplikacji; decydujesz o tym w Ustawieniach iPhone’a.</p><h2>Przypomnienia</h2><p>Przypomnienia i alarmy są planowane na Twoim iPhonie. Nie przechodzą przez żaden serwer.</p><h2>Usuwanie danych</h2><p>Usuń aplikację, aby usunąć wszystkie dane zapisane przez Medind na Twoim iPhonie. Ponieważ nigdy nie otrzymujemy danych o Twoich lekach, po naszej stronie nie ma czego usuwać.</p><h2>Dzieci</h2><p>Medind nie jest przeznaczony dla dzieci poniżej 13 lat.</p><h2>Ta strona</h2><p>Ta strona nie używa plików cookie ani śledzenia. Darmowe narzędzia na tej stronie działają w Twojej przeglądarce; to, co w nie wpiszesz, nie jest nigdzie wysyłane.</p><h2>Zmiany</h2><p>Jeśli ta polityka się zmieni, zaktualizujemy tę stronę i datę poniżej.</p><h2>Kontakt</h2><p>Pytania o prywatność: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Pomoc – Medinder, przypomnienie o lekach",
-      "description": "Pomoc dotycząca Medinder: przypomnienia, zakupy, kopie zapasowe i więcej. Napisz do nas, a odpowiemy najszybciej, jak się da. Każdą wiadomość czyta człowiek.",
+      "title": "Pomoc – Medind, przypomnienie o lekach",
+      "description": "Pomoc dotycząca Medind: przypomnienia, zakupy, kopie zapasowe i więcej. Napisz do nas, a odpowiemy najszybciej, jak się da. Każdą wiadomość czyta człowiek.",
       "h1": "Pomoc",
       "lead": "Potrzebujesz pomocy albo masz pomysł? Napisz do nas. Każdą wiadomość czyta prawdziwy człowiek.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Napisz na {EMAIL}</a></p><p>Podaj model swojego iPhone’a i napisz, czego się spodziewałeś. Zrzut ekranu bardzo pomaga.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">Napisz na {EMAIL}</a></p><p>Podaj model swojego iPhone’a i napisz, czego się spodziewałeś. Zrzut ekranu bardzo pomaga.</p>",
       "faq": [
         [
           "Przypomnienie nie zadzwoniło. Co zrobić?",
-          "Otwórz Medinder i przejdź do Ustawień. W sekcji Przypomnienia zobaczysz, czy Medinder może dzwonić, możesz włączyć przypomnienia i stuknąć Wypróbuj przypomnienie, żeby je usłyszeć. Jeśli przypomnienia są wyłączone, stuknij Otwórz Ustawienia i zezwól aplikacji Medinder na alarmy i powiadomienia."
+          "Otwórz Medind i przejdź do Ustawień. W sekcji Przypomnienia zobaczysz, czy Medind może dzwonić, możesz włączyć przypomnienia i stuknąć Wypróbuj przypomnienie, żeby je usłyszeć. Jeśli przypomnienia są wyłączone, stuknij Otwórz Ustawienia i zezwól aplikacji Medind na alarmy i powiadomienia."
         ],
         [
           "Jak przywrócić zakup na nowym iPhonie?",
-          "Zaloguj się na to samo Konto Apple, otwórz Medinder, przejdź do Ustawień i stuknij Przywróć zakup."
+          "Zaloguj się na to samo Konto Apple, otwórz Medind, przejdź do Ustawień i stuknij Przywróć zakup."
         ],
         [
           "Jak anulować subskrypcję?",
-          "Subskrypcjami zarządza Apple. Otwórz aplikację Ustawienia na iPhonie, stuknij swoje imię i nazwisko, potem Subskrypcje, i wybierz Medinder. Po anulowaniu przypomnienia nadal dzwonią."
+          "Subskrypcjami zarządza Apple. Otwórz aplikację Ustawienia na iPhonie, stuknij swoje imię i nazwisko, potem Subskrypcje, i wybierz Medind. Po anulowaniu przypomnienia nadal dzwonią."
         ],
         [
           "Jak przenieść dane na nowy iPhone?",
-          "W Ustawieniach Medinder stuknij Zapisz kopię i zachowaj plik, na przykład na iCloud Drive, albo wyślij go sobie e-mailem. Na nowym iPhonie otwórz Ustawienia w Medinder i stuknij Przywróć kopię. Możesz też odtworzyć cały iPhone z kopii zapasowej w iCloud lub na komputerze."
+          "W Ustawieniach Medind stuknij Zapisz kopię i zachowaj plik, na przykład na iCloud Drive, albo wyślij go sobie e-mailem. Na nowym iPhonie otwórz Ustawienia w Medind i stuknij Przywróć kopię. Możesz też odtworzyć cały iPhone z kopii zapasowej w iCloud lub na komputerze."
         ],
         [
           "Jak wyeksportować historię lub pomiary?",
-          "W Ustawieniach Medinder stuknij Eksportuj moje dane. Dostaniesz plik, który możesz zapisać albo pokazać lekarzowi."
+          "W Ustawieniach Medind stuknij Eksportuj moje dane. Dostaniesz plik, który możesz zapisać albo pokazać lekarzowi."
         ],
         [
-          "W jakich językach jest Medinder?",
+          "W jakich językach jest Medind?",
           "Angielski, arabski, chiński (tradycyjny), niderlandzki, fiński, francuski, niemiecki, węgierski, włoski, japoński, koreański, polski, portugalski, rosyjski, hiszpański, tajski, turecki i wietnamski."
         ],
         [
-          "Czy Medinder działa na Androidzie lub Apple Watch?",
-          "Jeszcze nie. Medinder jest na iPhone’a z iOS 26 lub nowszym."
+          "Czy Medind działa na Androidzie lub Apple Watch?",
+          "Jeszcze nie. Medind jest na iPhone’a z iOS 26 lub nowszym."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Darmowy kalkulator godzin dawek: wpisz godzinę pierwszej dawki i odstęp, a zobaczysz wszystkie godziny na cały dzień. Dla leków co 4, 6, 8 lub 12 godzin.",
       "h1": "Kalkulator godzin dawek",
       "lead": "Wpisz godzinę pierwszej dawki i co ile godzin bierzesz lek. Zobaczysz godzinę każdej dawki w ciągu dnia.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Pierwsza dawka<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Co<select id=\"every\"><option value=\"4\">4 godziny</option><option value=\"6\">6 godzin</option><option value=\"8\" selected>8 godzin</option><option value=\"12\">12 godzin</option><option value=\"24\">24 godziny</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">To narzędzie tylko liczy godziny. Zawsze przyjmuj leki tak, jak zalecił lekarz, farmaceuta lub ulotka.</p><h2>Jak to działa</h2><p>Doba ma 24 godziny. Jeśli bierzesz lek co 8 godzin, to 3 dawki dziennie: na przykład 8:00, 16:00 i 0:00. Co 6 godzin to 4 dawki, co 4 godziny to 6 dawek, a co 12 godzin to 2 dawki.</p><h2>Wskazówki na dawki w nocy</h2><ul><li>Wybierz taką godzinę pierwszej dawki, żeby nocna dawka wypadała, gdy zwykle nie śpisz, jeśli zalecenia na to pozwalają.</li><li>Zapytaj farmaceutę, czy godziny można trochę przesunąć, żeby pasowały do Twojego snu.</li><li>Używaj alarmu, który dzwoni nawet przy wyciszonym telefonie, żeby nie przegapić nocnej dawki.</li></ul><p>Medinder może automatycznie przypominać co kilka godzin i dzwoni nawet w trybie cichym.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Pierwsza dawka<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Co<select id=\"every\"><option value=\"4\">4 godziny</option><option value=\"6\">6 godzin</option><option value=\"8\" selected>8 godzin</option><option value=\"12\">12 godzin</option><option value=\"24\">24 godziny</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">To narzędzie tylko liczy godziny. Zawsze przyjmuj leki tak, jak zalecił lekarz, farmaceuta lub ulotka.</p><h2>Jak to działa</h2><p>Doba ma 24 godziny. Jeśli bierzesz lek co 8 godzin, to 3 dawki dziennie: na przykład 8:00, 16:00 i 0:00. Co 6 godzin to 4 dawki, co 4 godziny to 6 dawek, a co 12 godzin to 2 dawki.</p><h2>Wskazówki na dawki w nocy</h2><ul><li>Wybierz taką godzinę pierwszej dawki, żeby nocna dawka wypadała, gdy zwykle nie śpisz, jeśli zalecenia na to pozwalają.</li><li>Zapytaj farmaceutę, czy godziny można trochę przesunąć, żeby pasowały do Twojego snu.</li><li>Używaj alarmu, który dzwoni nawet przy wyciszonym telefonie, żeby nie przegapić nocnej dawki.</li></ul><p>Medind może automatycznie przypominać co kilka godzin i dzwoni nawet w trybie cichym.</p>",
       "js": {
         "doses": "Dawek dziennie: {n}",
         "dose": "Dawka {n}",
@@ -145,7 +145,7 @@
       "description": "Zrób harmonogram leków do wydruku w minutę. Dodaj każdy lek i godziny, a potem wydrukuj tygodniową tabelkę z kratkami do odhaczania. Za darmo i prywatnie.",
       "h1": "Harmonogram przyjmowania leków do druku",
       "lead": "Dodaj swoje leki i godziny, a potem wydrukuj tygodniową tabelkę z kratką do odhaczenia przy każdej dawce. Przyda się na lodówkę, w domu opieki albo dla bliskiej osoby, która pomaga.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Dodaj lek</button><label>Tytuł tabelki<input type=\"text\" id=\"chart-title\" value=\"Moje leki\"></label><button type=\"button\" class=\"button\" id=\"print\">Drukuj tabelkę</button></form><div class=\"chart\" id=\"chart\"></div><h2>Jak korzystać z tabelki</h2><ol><li>Wpisz każdy lek tak, jak jest napisane na opakowaniu, żeby każdy mógł znaleźć właściwy.</li><li>Dodaj jedną godzinę dla każdej dawki. Lek brany rano i wieczorem ma dwie godziny.</li><li>Wydrukuj tabelkę i zaznaczaj kratkę za każdym razem, gdy weźmiesz dawkę.</li></ol><p>Wolisz telefon? Medinder zrobi to za Ciebie: zadzwoni o każdej godzinie i zapisze, kiedy stuknąłeś Przyjęto.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Dodaj lek</button><label>Tytuł tabelki<input type=\"text\" id=\"chart-title\" value=\"Moje leki\"></label><button type=\"button\" class=\"button\" id=\"print\">Drukuj tabelkę</button></form><div class=\"chart\" id=\"chart\"></div><h2>Jak korzystać z tabelki</h2><ol><li>Wpisz każdy lek tak, jak jest napisane na opakowaniu, żeby każdy mógł znaleźć właściwy.</li><li>Dodaj jedną godzinę dla każdej dawki. Lek brany rano i wieczorem ma dwie godziny.</li><li>Wydrukuj tabelkę i zaznaczaj kratkę za każdym razem, gdy weźmiesz dawkę.</li></ol><p>Wolisz telefon? Medind zrobi to za Ciebie: zadzwoni o każdej godzinie i zapisze, kiedy stuknąłeś Przyjęto.</p>",
       "js": {
         "name": "Lek",
         "name_ph": "na przykład Metformina 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "Jak ustawić przypomnienie o lekach na iPhonie (też po cichu)",
-      "description": "Krok po kroku: ustaw przypomnienia o lekach na iPhonie w aplikacji Zdrowie lub w aplikacji takiej jak Medinder i sprawdź, czy dzwonią przy wyciszonym telefonie.",
+      "description": "Krok po kroku: ustaw przypomnienia o lekach na iPhonie w aplikacji Zdrowie lub w aplikacji takiej jak Medind i sprawdź, czy dzwonią przy wyciszonym telefonie.",
       "h1": "Jak ustawić przypomnienia o lekach na iPhonie",
       "lead": "iPhone może przypominać o lekach na kilka sposobów. Oto jak działa każdy z nich i jak sprawić, żeby przypomnienie nie zostało wyciszone.",
-      "body": "<h2>Sposób 1: aplikacja Zdrowie</h2><ol><li>Otwórz aplikację Zdrowie i stuknij Przeglądaj (lub Szukaj), a potem Leki.</li><li>Stuknij Dodaj lek i postępuj zgodnie z krokami, aby wpisać nazwę, rodzaj i harmonogram.</li><li>Aby dostać ponowne przypomnienie, gdy zapomnisz, przewiń w dół do opcji i włącz przypomnienia uzupełniające.</li><li>Aby słyszeć przypomnienia, gdy iPhone jest wyciszony lub w trybie Skupienie, stuknij Alerty krytyczne w opcjach i włącz je dla swoich leków.</li></ol><p>Aplikacja Zdrowie jest darmowa i wbudowana. Przypomnienia przychodzą jako powiadomienia.</p><h2>Sposób 2: aplikacja przypominająca o lekach, która dzwoni jak budzik</h2><p>Medinder korzysta z systemu alarmów Apple w iOS 26. Przypomnienie wypełnia cały ekran i dzwoni jak budzik w aplikacji Zegar, z dużym przyciskiem Przyjęto i drzemką. Dzwoni w trybie cichym i w trybie Skupienie.</p><ol><li>Zainstaluj Medinder i dodaj lek po nazwie, ze zdjęciem, jeśli chcesz.</li><li>Wybierz godziny, dni albo co ile godzin.</li><li>Zezwól na alarmy, gdy Medinder o to poprosi.</li><li>Gdy zadzwoni, stuknij Przyjęto. Medinder zapisze godzinę.</li></ol><h2>Sposób 3: budziki w aplikacji Zegar</h2><p>Możesz ustawić zwykły budzik w aplikacji Zegar i nazwać go jak swój lek. Dzwoni w trybie cichym, ale nie zapisuje, co wziąłeś.</p><h2>Dlaczego przypomnienia nie dzwonią w trybie cichym?</h2><p>Zwykłe powiadomienia słuchają przełącznika dzwonek/cisza i trybu Skupienie. Przebijają się tylko alarmy i alerty krytyczne. Jeśli polegasz na przypomnieniach, używaj jednego z nich.</p><h2>Sprawdź, czy przypomnienia działają</h2><ul><li>Ustaw próbne przypomnienie za dwie minuty i wycisz telefon.</li><li>W Ustawieniach iPhone’a sprawdź, czy aplikacja, której używasz, ma zgodę na powiadomienia i alarmy.</li><li>Sprawdź głośność w Ustawieniach, w części o dźwiękach, bo alarmy używają głośności dzwonka.</li></ul>",
+      "body": "<h2>Sposób 1: aplikacja Zdrowie</h2><ol><li>Otwórz aplikację Zdrowie i stuknij Przeglądaj (lub Szukaj), a potem Leki.</li><li>Stuknij Dodaj lek i postępuj zgodnie z krokami, aby wpisać nazwę, rodzaj i harmonogram.</li><li>Aby dostać ponowne przypomnienie, gdy zapomnisz, przewiń w dół do opcji i włącz przypomnienia uzupełniające.</li><li>Aby słyszeć przypomnienia, gdy iPhone jest wyciszony lub w trybie Skupienie, stuknij Alerty krytyczne w opcjach i włącz je dla swoich leków.</li></ol><p>Aplikacja Zdrowie jest darmowa i wbudowana. Przypomnienia przychodzą jako powiadomienia.</p><h2>Sposób 2: aplikacja przypominająca o lekach, która dzwoni jak budzik</h2><p>Medind korzysta z systemu alarmów Apple w iOS 26. Przypomnienie wypełnia cały ekran i dzwoni jak budzik w aplikacji Zegar, z dużym przyciskiem Przyjęto i drzemką. Dzwoni w trybie cichym i w trybie Skupienie.</p><ol><li>Zainstaluj Medind i dodaj lek po nazwie, ze zdjęciem, jeśli chcesz.</li><li>Wybierz godziny, dni albo co ile godzin.</li><li>Zezwól na alarmy, gdy Medind o to poprosi.</li><li>Gdy zadzwoni, stuknij Przyjęto. Medind zapisze godzinę.</li></ol><h2>Sposób 3: budziki w aplikacji Zegar</h2><p>Możesz ustawić zwykły budzik w aplikacji Zegar i nazwać go jak swój lek. Dzwoni w trybie cichym, ale nie zapisuje, co wziąłeś.</p><h2>Dlaczego przypomnienia nie dzwonią w trybie cichym?</h2><p>Zwykłe powiadomienia słuchają przełącznika dzwonek/cisza i trybu Skupienie. Przebijają się tylko alarmy i alerty krytyczne. Jeśli polegasz na przypomnieniach, używaj jednego z nich.</p><h2>Sprawdź, czy przypomnienia działają</h2><ul><li>Ustaw próbne przypomnienie za dwie minuty i wycisz telefon.</li><li>W Ustawieniach iPhone’a sprawdź, czy aplikacja, której używasz, ma zgodę na powiadomienia i alarmy.</li><li>Sprawdź głośność w Ustawieniach, w części o dźwiękach, bo alarmy używają głośności dzwonka.</li></ul>",
       "faq": [
         [
           "Czy iPhone może przypominać o braniu leków?",
-          "Tak. Aplikacja Zdrowie ma przypomnienia o lekach, a aplikacje takie jak Medinder mogą dzwonić jak budzik o godzinie każdej dawki."
+          "Tak. Aplikacja Zdrowie ma przypomnienia o lekach, a aplikacje takie jak Medind mogą dzwonić jak budzik o godzinie każdej dawki."
         ],
         [
           "Jak sprawić, żeby przypomnienia o lekach dzwoniły w trybie cichym?",
-          "Włącz Alerty krytyczne dla leków w aplikacji Zdrowie albo używaj aplikacji, która korzysta z alarmów iPhone’a, takiej jak Medinder w iOS 26."
+          "Włącz Alerty krytyczne dla leków w aplikacji Zdrowie albo używaj aplikacji, która korzysta z alarmów iPhone’a, takiej jak Medind w iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "Jak pomóc starszemu rodzicowi pamiętać o lekach, nie odbierając mu kontroli: proste nawyki, dzwoniące przypomnienia, tabelki do druku i rozmowy z szacunkiem.",
       "h1": "Przypomnienia o lekach dla starszych rodziców",
       "lead": "Pomoc rodzicowi w braniu leków działa najlepiej, gdy to on dalej decyduje. Te kroki pomagają zachować prostotę i szacunek.",
-      "body": "<h2>Zacznij od rozmowy</h2><p>Zapytaj, co jest trudne: pamiętanie, odróżnianie tabletek czy wiedza, czy dawka została wzięta. Odpowiedź pokaże, co poprawić. Pozwól rodzicowi wybrać, co pomaga.</p><h2>Niech leki łatwo się odróżniają</h2><p>Napisz nazwę dużymi literami na każdym opakowaniu albo zrób zdjęcie każdej tabletki. Gdy apteka zmieni producenta, obejrzyjcie razem nową tabletkę.</p><h2>Wybierz przypomnienia, które rodzic usłyszy</h2><p>Wielu seniorów przypadkiem trzyma telefon wyciszony. Przypomnienie, które dzwoni jak budzik i ma jeden duży przycisk, jest łatwiejsze niż małe powiadomienie. Medinder powstał właśnie w tym celu: duży tekst, proste słowa i przycisk Przyjęto.</p><h2>Niech odpowiedź na „czy już wziąłem?” będzie prosta</h2><p>Wątpliwości prowadzą do pominiętych lub podwójnych dawek. Pudełko na leki albo aplikacja, która zapisuje godzinę każdej dawki, odpowiada na to pytanie jednym spojrzeniem.</p><h2>Powieś wydrukowany harmonogram na lodówce</h2><p>Papierowa tabelka pomaga też gościom i opiekunom. Zrób ją w darmowym <a href=\"{L}/tools/medication-schedule-maker/\">harmonogramie leków do druku</a>.</p><h2>Wspieraj, nie przejmując kontroli</h2><p>Krótki telefon o tej samej porze raz w tygodniu, żeby razem przejrzeć tydzień, działa lepiej niż codzienne sprawdzanie. Cieszcie się z dobrego tygodnia.</p><h2>Zapytaj farmaceutę</h2><p>Poproś o przegląd leków, jeśli rodzic bierze ich wiele. Farmaceuci często potrafią uprościć godziny albo zaproponować opakowania typu blister.</p>",
+      "body": "<h2>Zacznij od rozmowy</h2><p>Zapytaj, co jest trudne: pamiętanie, odróżnianie tabletek czy wiedza, czy dawka została wzięta. Odpowiedź pokaże, co poprawić. Pozwól rodzicowi wybrać, co pomaga.</p><h2>Niech leki łatwo się odróżniają</h2><p>Napisz nazwę dużymi literami na każdym opakowaniu albo zrób zdjęcie każdej tabletki. Gdy apteka zmieni producenta, obejrzyjcie razem nową tabletkę.</p><h2>Wybierz przypomnienia, które rodzic usłyszy</h2><p>Wielu seniorów przypadkiem trzyma telefon wyciszony. Przypomnienie, które dzwoni jak budzik i ma jeden duży przycisk, jest łatwiejsze niż małe powiadomienie. Medind powstał właśnie w tym celu: duży tekst, proste słowa i przycisk Przyjęto.</p><h2>Niech odpowiedź na „czy już wziąłem?” będzie prosta</h2><p>Wątpliwości prowadzą do pominiętych lub podwójnych dawek. Pudełko na leki albo aplikacja, która zapisuje godzinę każdej dawki, odpowiada na to pytanie jednym spojrzeniem.</p><h2>Powieś wydrukowany harmonogram na lodówce</h2><p>Papierowa tabelka pomaga też gościom i opiekunom. Zrób ją w darmowym <a href=\"{L}/tools/medication-schedule-maker/\">harmonogramie leków do druku</a>.</p><h2>Wspieraj, nie przejmując kontroli</h2><p>Krótki telefon o tej samej porze raz w tygodniu, żeby razem przejrzeć tydzień, działa lepiej niż codzienne sprawdzanie. Cieszcie się z dobrego tygodnia.</p><h2>Zapytaj farmaceutę</h2><p>Poproś o przegląd leków, jeśli rodzic bierze ich wiele. Farmaceuci często potrafią uprościć godziny albo zaproponować opakowania typu blister.</p>",
       "faq": [
         [
           "Jakie przypomnienie o lekach jest najlepsze dla starszej osoby?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Przypomnienie leków",
+    "name": "Medind: Przypomnienie leków",
     "subtitle": "Alarm i dzienniczek tabletek",
     "keywords": "lek,tabletka,dawka,harmonogram,budzik,senior,zdrowie,apteka,witamina,kalendarz,pigułka,lekarstwo"
   },

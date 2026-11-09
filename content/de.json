@@ -14,13 +14,13 @@
     "language": "Sprache",
     "footer_privacy": "Datenschutz",
     "footer_support": "Hilfe",
-    "footer_note": "Medinder ist eine Erinnerungs-App. Sie gibt keinen medizinischen Rat. Folgen Sie immer den Anweisungen Ihrer Ärztin, Ihres Arztes oder Ihrer Apotheke.",
+    "footer_note": "Medind ist eine Erinnerungs-App. Sie gibt keinen medizinischen Rat. Folgen Sie immer den Anweisungen Ihrer Ärztin, Ihres Arztes oder Ihrer Apotheke.",
     "updated": "Zuletzt aktualisiert",
     "read_more": "Zum Ratgeber",
     "open_tool": "Hilfe öffnen",
     "faq_title": "Fragen und Antworten",
     "cta_title": "Nie wieder „Habe ich sie schon genommen?“",
-    "cta_text": "Medinder klingelt, bis Sie auf Genommen tippen, und zeigt Ihnen, was Sie wann genommen haben.",
+    "cta_text": "Medind klingelt, bis Sie auf Genommen tippen, und zeigt Ihnen, was Sie wann genommen haben.",
     "breadcrumb_home": "Start",
     "related": "Das könnte Sie auch interessieren",
     "not_found_title": "Seite nicht gefunden",
@@ -29,80 +29,80 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – Tabletten-Erinnerung & Medikamenten-App fürs iPhone",
-      "description": "Medinder ist eine einfache Tabletten-Erinnerung fürs iPhone. Klingelt wie ein Wecker, auch lautlos. Tippen Sie auf Genommen. Kein Konto, alles bleibt bei Ihnen.",
+      "title": "Medind – Tabletten-Erinnerung & Medikamenten-App fürs iPhone",
+      "description": "Medind ist eine einfache Tabletten-Erinnerung fürs iPhone. Klingelt wie ein Wecker, auch lautlos. Tippen Sie auf Genommen. Kein Konto, alles bleibt bei Ihnen.",
       "h1": "Die Tabletten-Erinnerung, die klingelt, bis Sie sie nehmen",
-      "lead": "Medinder ist eine einfache Medikamenten-Erinnerung fürs iPhone. Sie klingelt wie ein Wecker, auch wenn Ihr iPhone auf lautlos steht, und zeigt übersichtlich jede Einnahme.",
-      "body": "<section class=\"features\"><h2>Alles, was Sie brauchen, nichts, was stört</h2><ul class=\"cards\"><li><h3>Klingelt wie ein Wecker</h3><p>Erinnerungen klingeln auch bei Stummschaltung und Fokus, mit großer Taste Genommen und Schlummern. Sie hören sie bestimmt.</p></li><li><h3>Schon genommen? Ein Blick genügt</h3><p>Der Bildschirm Heute zeigt jede Einnahme mit der Uhrzeit. Im Kalender sehen Sie alle Tage davor.</p></li><li><h3>Ihre Medikamente, Ihre Worte</h3><p>Geben Sie den Namen ein, den Sie benutzen, und fügen Sie ein Foto der Tablette oder Packung hinzu. So wissen Sie immer, welches welches ist.</p></li><li><h3>Jeder Einnahmeplan</h3><p>Feste Uhrzeiten, bestimmte Wochentage, alle paar Tage, alle paar Stunden oder nur bei Bedarf.</p></li><li><h3>Groß, klar und ruhig</h3><p>Große Schrift, große Tasten, einfache Worte. So kann jeder sie ohne Hilfe nutzen.</p></li><li><h3>Privat von Anfang an</h3><p>Kein Konto und keine Werbung. Alles, was Sie eingeben, bleibt auf Ihrem iPhone.</p></li></ul></section><section><h2>In drei Schritten eingerichtet</h2><ol class=\"steps\"><li><strong>Medikament hinzufügen.</strong> Namen eingeben und, wenn Sie möchten, ein Foto machen.</li><li><strong>Zeiten wählen.</strong> Uhrzeiten und Tage festlegen oder alle paar Stunden.</li><li><strong>Auf Genommen tippen, wenn es klingelt.</strong> Medinder speichert die Uhrzeit. Sie müssen sich nichts merken.</li></ol></section><section><h2>Außerdem dabei</h2><ul class=\"ticks\"><li>Ein Widget für Home-Bildschirm und Sperrbildschirm mit Taste Genommen</li><li>Messwerte wie Blutdruck, Puls und Gewicht, gespeichert wie eingegeben</li><li>Schritte und andere Werte aus Apple Health, live angezeigt und nie gespeichert</li><li>Export und Sicherung aller Ihrer Eingaben</li><li>18 Sprachen</li></ul></section><section class=\"note\"><h2>Wenn Sie nicht mehr zahlen, klingeln Ihre Erinnerungen weiter</h2><p>Medinder ist ein Abo mit klarem Preis, der Ihnen im App Store vor dem Bezahlen angezeigt wird. Erinnerungen, die Sie schon eingerichtet haben, funktionieren weiter, auch wenn Ihr Abo endet. Erinnerungen an Medikamente sind zu wichtig, um sie abzuschalten.</p></section>",
+      "lead": "Medind ist eine einfache Medikamenten-Erinnerung fürs iPhone. Sie klingelt wie ein Wecker, auch wenn Ihr iPhone auf lautlos steht, und zeigt übersichtlich jede Einnahme.",
+      "body": "<section class=\"features\"><h2>Alles, was Sie brauchen, nichts, was stört</h2><ul class=\"cards\"><li><h3>Klingelt wie ein Wecker</h3><p>Erinnerungen klingeln auch bei Stummschaltung und Fokus, mit großer Taste Genommen und Schlummern. Sie hören sie bestimmt.</p></li><li><h3>Schon genommen? Ein Blick genügt</h3><p>Der Bildschirm Heute zeigt jede Einnahme mit der Uhrzeit. Im Kalender sehen Sie alle Tage davor.</p></li><li><h3>Ihre Medikamente, Ihre Worte</h3><p>Geben Sie den Namen ein, den Sie benutzen, und fügen Sie ein Foto der Tablette oder Packung hinzu. So wissen Sie immer, welches welches ist.</p></li><li><h3>Jeder Einnahmeplan</h3><p>Feste Uhrzeiten, bestimmte Wochentage, alle paar Tage, alle paar Stunden oder nur bei Bedarf.</p></li><li><h3>Groß, klar und ruhig</h3><p>Große Schrift, große Tasten, einfache Worte. So kann jeder sie ohne Hilfe nutzen.</p></li><li><h3>Privat von Anfang an</h3><p>Kein Konto und keine Werbung. Alles, was Sie eingeben, bleibt auf Ihrem iPhone.</p></li></ul></section><section><h2>In drei Schritten eingerichtet</h2><ol class=\"steps\"><li><strong>Medikament hinzufügen.</strong> Namen eingeben und, wenn Sie möchten, ein Foto machen.</li><li><strong>Zeiten wählen.</strong> Uhrzeiten und Tage festlegen oder alle paar Stunden.</li><li><strong>Auf Genommen tippen, wenn es klingelt.</strong> Medind speichert die Uhrzeit. Sie müssen sich nichts merken.</li></ol></section><section><h2>Außerdem dabei</h2><ul class=\"ticks\"><li>Ein Widget für Home-Bildschirm und Sperrbildschirm mit Taste Genommen</li><li>Messwerte wie Blutdruck, Puls und Gewicht, gespeichert wie eingegeben</li><li>Schritte und andere Werte aus Apple Health, live angezeigt und nie gespeichert</li><li>Export und Sicherung aller Ihrer Eingaben</li><li>18 Sprachen</li></ul></section><section class=\"note\"><h2>Wenn Sie nicht mehr zahlen, klingeln Ihre Erinnerungen weiter</h2><p>Medind ist ein Abo mit klarem Preis, der Ihnen im App Store vor dem Bezahlen angezeigt wird. Erinnerungen, die Sie schon eingerichtet haben, funktionieren weiter, auch wenn Ihr Abo endet. Erinnerungen an Medikamente sind zu wichtig, um sie abzuschalten.</p></section>",
       "faq": [
         [
-          "Klingelt Medinder, wenn mein iPhone auf lautlos steht?",
-          "Ja. Medinder nutzt das Wecker-System von Apple für iOS 26. Erinnerungen klingeln also auch bei Stummschaltung und Fokus, genau wie die Wecker der Uhr-App."
+          "Klingelt Medind, wenn mein iPhone auf lautlos steht?",
+          "Ja. Medind nutzt das Wecker-System von Apple für iOS 26. Erinnerungen klingeln also auch bei Stummschaltung und Fokus, genau wie die Wecker der Uhr-App."
         ],
         [
-          "Ist Medinder für Senioren geeignet?",
-          "Ja. Medinder wurde für Menschen über 60 gemacht: große Schrift, große Tasten, einfache Worte und eine Hauptaktion pro Bildschirm."
+          "Ist Medind für Senioren geeignet?",
+          "Ja. Medind wurde für Menschen über 60 gemacht: große Schrift, große Tasten, einfache Worte und eine Hauptaktion pro Bildschirm."
         ],
         [
           "Brauche ich ein Konto?",
           "Nein. Es gibt keine Registrierung und keine Anmeldung. Alles, was Sie eingeben, bleibt auf Ihrem iPhone."
         ],
         [
-          "Gibt Medinder medizinischen Rat?",
-          "Nein. Medinder sagt Ihnen nie, was oder wie viel Sie nehmen sollen. Die App erinnert Sie zu den Zeiten, die Sie wählen, und speichert, was Sie als genommen markieren."
+          "Gibt Medind medizinischen Rat?",
+          "Nein. Medind sagt Ihnen nie, was oder wie viel Sie nehmen sollen. Die App erinnert Sie zu den Zeiten, die Sie wählen, und speichert, was Sie als genommen markieren."
         ],
         [
           "Kann ich Medikamente erfassen, die ich nur bei Bedarf nehme?",
-          "Ja. Legen Sie sie als „Nach Bedarf“ an und tippen Sie jedes Mal auf Genommen, wenn Sie sie nehmen. Medinder speichert die Uhrzeit."
+          "Ja. Legen Sie sie als „Nach Bedarf“ an und tippen Sie jedes Mal auf Genommen, wenn Sie sie nehmen. Medind speichert die Uhrzeit."
         ],
         [
-          "Was kostet Medinder?",
-          "Medinder ist ein Abo. Der Preis für Ihr Land steht im App Store und in der App, bevor Sie bezahlen. Sie können Ihren Kauf jederzeit wiederherstellen."
+          "Was kostet Medind?",
+          "Medind ist ein Abo. Der Preis für Ihr Land steht im App Store und in der App, bevor Sie bezahlen. Sie können Ihren Kauf jederzeit wiederherstellen."
         ]
       ]
     },
     "privacy": {
-      "title": "Datenschutzerklärung – Medinder",
-      "description": "So geht Medinder mit Ihren Daten um: kein Konto, keine Werbung, kein Tracking. Ihre Medikamentendaten bleiben auf Ihrem iPhone und werden nirgendwohin gesendet.",
+      "title": "Datenschutzerklärung – Medind",
+      "description": "So geht Medind mit Ihren Daten um: kein Konto, keine Werbung, kein Tracking. Ihre Medikamentendaten bleiben auf Ihrem iPhone und werden nirgendwohin gesendet.",
       "h1": "Datenschutzerklärung",
       "lead": "Kurz gesagt: Alles, was Sie eingeben, bleibt auf Ihrem iPhone. Wir haben kein Kontosystem, keine Werbung und keine Analyse, und wir sehen nie Ihre Medikamente oder Gesundheitsdaten.",
-      "body": "<h2>Was Medinder speichert</h2><p>Ihre Medikamente, Fotos, Einnahmepläne, die als genommen markierten Einnahmen, Notizen und Messwerte werden nur auf Ihrem iPhone gespeichert, in der App. Das Widget liest dieselben Daten auf demselben iPhone. Wir haben keinen Server, der diese Daten empfängt.</p><h2>Apple Health</h2><p>Wenn Sie es erlauben, liest Medinder Schritte, Puls, Gewicht und Blutdruck aus Apple Health, um sie in der App anzuzeigen. Diese Werte werden live gelesen und von Medinder nie gespeichert, nie in Sicherungen aufgenommen und nie irgendwohin gesendet. Medinder schreibt nichts in Apple Health.</p><h2>Kamera und Fotos</h2><p>Wenn Sie ein Foto eines Medikaments machen, wird das Foto nur auf Ihrem iPhone gespeichert.</p><h2>Käufe</h2><p>Zahlungen werden von Apple abgewickelt. Um zu prüfen, ob Ihr Abo aktiv ist, nutzt Medinder RevenueCat, einen Abo-Dienst. RevenueCat erhält eine anonyme App-ID und Kaufinformationen, zum Beispiel welches Abo Sie wann gekauft haben. RevenueCat erhält nie Ihre Medikamente, Messwerte oder Gesundheitsdaten. Siehe <a href=\"https://www.revenuecat.com/privacy\">Datenschutzerklärung von RevenueCat</a>.</p><h2>Kein Tracking, keine Werbung, keine Analyse</h2><p>Medinder enthält keine Werbung, kein Tracking und keine Analyse. Wir verkaufen Ihre Daten nicht und geben sie nicht weiter.</p><h2>Sicherungen und Exporte</h2><p>Sie können Ihre Daten exportieren oder in der App eine Sicherungsdatei erstellen. Diese Datei entsteht auf Ihrem iPhone und geht nur dorthin, wohin Sie sie senden oder wo Sie sie speichern. Wenn Sie ein iPhone-Backup nutzen (iCloud oder Computer), kann Apple die Daten der App wie bei jeder App in dieses Backup aufnehmen. Das steuern Sie selbst in den Einstellungen Ihres iPhone.</p><h2>Erinnerungen</h2><p>Erinnerungen und Wecker werden auf Ihrem iPhone geplant. Sie laufen über keinen Server.</p><h2>Ihre Daten löschen</h2><p>Löschen Sie die App, um alle Daten zu löschen, die Medinder auf Ihrem iPhone gespeichert hat. Da wir Ihre Medikamentendaten nie erhalten, gibt es bei uns nichts zu löschen.</p><h2>Kinder</h2><p>Medinder richtet sich nicht an Kinder unter 13 Jahren.</p><h2>Diese Website</h2><p>Diese Website verwendet keine Cookies und kein Tracking. Die kostenlosen Hilfen auf dieser Seite laufen in Ihrem Browser. Was Sie dort eingeben, wird nirgendwohin gesendet.</p><h2>Änderungen</h2><p>Wenn sich diese Erklärung ändert, aktualisieren wir diese Seite und das Datum unten.</p><h2>Kontakt</h2><p>Fragen zum Datenschutz: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>Was Medind speichert</h2><p>Ihre Medikamente, Fotos, Einnahmepläne, die als genommen markierten Einnahmen, Notizen und Messwerte werden nur auf Ihrem iPhone gespeichert, in der App. Das Widget liest dieselben Daten auf demselben iPhone. Wir haben keinen Server, der diese Daten empfängt.</p><h2>Apple Health</h2><p>Wenn Sie es erlauben, liest Medind Schritte, Puls, Gewicht und Blutdruck aus Apple Health, um sie in der App anzuzeigen. Diese Werte werden live gelesen und von Medind nie gespeichert, nie in Sicherungen aufgenommen und nie irgendwohin gesendet. Medind schreibt nichts in Apple Health.</p><h2>Kamera und Fotos</h2><p>Wenn Sie ein Foto eines Medikaments machen, wird das Foto nur auf Ihrem iPhone gespeichert.</p><h2>Käufe</h2><p>Zahlungen werden von Apple abgewickelt. Um zu prüfen, ob Ihr Abo aktiv ist, nutzt Medind RevenueCat, einen Abo-Dienst. RevenueCat erhält eine anonyme App-ID und Kaufinformationen, zum Beispiel welches Abo Sie wann gekauft haben. RevenueCat erhält nie Ihre Medikamente, Messwerte oder Gesundheitsdaten. Siehe <a href=\"https://www.revenuecat.com/privacy\">Datenschutzerklärung von RevenueCat</a>.</p><h2>Kein Tracking, keine Werbung, keine Analyse</h2><p>Medind enthält keine Werbung, kein Tracking und keine Analyse. Wir verkaufen Ihre Daten nicht und geben sie nicht weiter.</p><h2>Sicherungen und Exporte</h2><p>Sie können Ihre Daten exportieren oder in der App eine Sicherungsdatei erstellen. Diese Datei entsteht auf Ihrem iPhone und geht nur dorthin, wohin Sie sie senden oder wo Sie sie speichern. Wenn Sie ein iPhone-Backup nutzen (iCloud oder Computer), kann Apple die Daten der App wie bei jeder App in dieses Backup aufnehmen. Das steuern Sie selbst in den Einstellungen Ihres iPhone.</p><h2>Erinnerungen</h2><p>Erinnerungen und Wecker werden auf Ihrem iPhone geplant. Sie laufen über keinen Server.</p><h2>Ihre Daten löschen</h2><p>Löschen Sie die App, um alle Daten zu löschen, die Medind auf Ihrem iPhone gespeichert hat. Da wir Ihre Medikamentendaten nie erhalten, gibt es bei uns nichts zu löschen.</p><h2>Kinder</h2><p>Medind richtet sich nicht an Kinder unter 13 Jahren.</p><h2>Diese Website</h2><p>Diese Website verwendet keine Cookies und kein Tracking. Die kostenlosen Hilfen auf dieser Seite laufen in Ihrem Browser. Was Sie dort eingeben, wird nirgendwohin gesendet.</p><h2>Änderungen</h2><p>Wenn sich diese Erklärung ändert, aktualisieren wir diese Seite und das Datum unten.</p><h2>Kontakt</h2><p>Fragen zum Datenschutz: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Hilfe & Support – Medinder Tabletten-Erinnerung",
-      "description": "Hilfe zu Medinder: Erinnerungen, Käufe, Sicherungen und mehr. Schreiben Sie uns eine E-Mail, wir antworten so schnell wie möglich. Ein echter Mensch liest mit.",
+      "title": "Hilfe & Support – Medind Tabletten-Erinnerung",
+      "description": "Hilfe zu Medind: Erinnerungen, Käufe, Sicherungen und mehr. Schreiben Sie uns eine E-Mail, wir antworten so schnell wie möglich. Ein echter Mensch liest mit.",
       "h1": "Hilfe",
       "lead": "Brauchen Sie Hilfe oder haben Sie eine Idee? Schreiben Sie uns. Ein echter Mensch liest jede Nachricht.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">E-Mail an {EMAIL}</a></p><p>Bitte nennen Sie uns Ihr iPhone-Modell und was Sie erwartet haben. Ein Bildschirmfoto hilft sehr.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">E-Mail an {EMAIL}</a></p><p>Bitte nennen Sie uns Ihr iPhone-Modell und was Sie erwartet haben. Ein Bildschirmfoto hilft sehr.</p>",
       "faq": [
         [
           "Meine Erinnerung hat nicht geklingelt. Was kann ich tun?",
-          "Öffnen Sie Medinder und gehen Sie zu Einstellungen. Unter Erinnerungen sehen Sie, ob Medinder klingeln darf. Dort können Sie Erinnerungen einschalten und auf Test-Erinnerung tippen, um eine zu hören. Wenn Erinnerungen aus sind, tippen Sie auf Einstellungen öffnen und erlauben Sie Wecker und Mitteilungen für Medinder."
+          "Öffnen Sie Medind und gehen Sie zu Einstellungen. Unter Erinnerungen sehen Sie, ob Medind klingeln darf. Dort können Sie Erinnerungen einschalten und auf Test-Erinnerung tippen, um eine zu hören. Wenn Erinnerungen aus sind, tippen Sie auf Einstellungen öffnen und erlauben Sie Wecker und Mitteilungen für Medind."
         ],
         [
           "Wie stelle ich meinen Kauf auf einem neuen iPhone wieder her?",
-          "Melden Sie sich mit demselben Apple Account an, öffnen Sie Medinder, gehen Sie zu Einstellungen und tippen Sie auf Kauf wiederherstellen."
+          "Melden Sie sich mit demselben Apple Account an, öffnen Sie Medind, gehen Sie zu Einstellungen und tippen Sie auf Kauf wiederherstellen."
         ],
         [
           "Wie kündige ich mein Abo?",
-          "Abos werden von Apple verwaltet. Öffnen Sie die App Einstellungen auf Ihrem iPhone, tippen Sie auf Ihren Namen, dann auf Abonnements, und wählen Sie Medinder. Ihre Erinnerungen klingeln auch nach der Kündigung weiter."
+          "Abos werden von Apple verwaltet. Öffnen Sie die App Einstellungen auf Ihrem iPhone, tippen Sie auf Ihren Namen, dann auf Abonnements, und wählen Sie Medind. Ihre Erinnerungen klingeln auch nach der Kündigung weiter."
         ],
         [
           "Wie übertrage ich meine Daten auf ein neues iPhone?",
-          "Tippen Sie in den Einstellungen von Medinder auf Sicherung speichern und bewahren Sie die Datei auf, zum Beispiel in iCloud Drive oder per E-Mail an sich selbst. Öffnen Sie auf dem neuen iPhone in Medinder die Einstellungen und tippen Sie auf Sicherung wiederherstellen. Sie können auch Ihr ganzes iPhone aus einem iCloud- oder Computer-Backup wiederherstellen."
+          "Tippen Sie in den Einstellungen von Medind auf Sicherung speichern und bewahren Sie die Datei auf, zum Beispiel in iCloud Drive oder per E-Mail an sich selbst. Öffnen Sie auf dem neuen iPhone in Medind die Einstellungen und tippen Sie auf Sicherung wiederherstellen. Sie können auch Ihr ganzes iPhone aus einem iCloud- oder Computer-Backup wiederherstellen."
         ],
         [
           "Wie exportiere ich meinen Verlauf oder meine Messwerte?",
-          "Tippen Sie in den Einstellungen von Medinder auf Meine Daten exportieren. Sie erhalten eine Datei, die Sie Ihrer Ärztin oder Ihrem Arzt geben oder speichern können."
+          "Tippen Sie in den Einstellungen von Medind auf Meine Daten exportieren. Sie erhalten eine Datei, die Sie Ihrer Ärztin oder Ihrem Arzt geben oder speichern können."
         ],
         [
-          "Welche Sprachen unterstützt Medinder?",
+          "Welche Sprachen unterstützt Medind?",
           "Englisch, Arabisch, Chinesisch (traditionell), Niederländisch, Finnisch, Französisch, Deutsch, Ungarisch, Italienisch, Japanisch, Koreanisch, Polnisch, Portugiesisch, Russisch, Spanisch, Thai, Türkisch und Vietnamesisch."
         ],
         [
-          "Gibt es Medinder für Android oder die Apple Watch?",
-          "Noch nicht. Medinder gibt es für das iPhone ab iOS 26."
+          "Gibt es Medind für Android oder die Apple Watch?",
+          "Noch nicht. Medind gibt es für das iPhone ab iOS 26."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Kostenloser Rechner für Einnahmezeiten: erste Einnahme und Abstand in Stunden eingeben und alle Uhrzeiten des Tages sehen. Für alle 4, 6, 8 oder 12 Stunden.",
       "h1": "Einnahmezeiten-Rechner",
       "lead": "Geben Sie die Uhrzeit Ihrer ersten Einnahme ein und wie viele Stunden dazwischen liegen. Sie sehen dann die Uhrzeit jeder Einnahme am Tag.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Erste Einnahme<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Alle<select id=\"every\"><option value=\"4\">4 Stunden</option><option value=\"6\">6 Stunden</option><option value=\"8\" selected>8 Stunden</option><option value=\"12\">12 Stunden</option><option value=\"24\">24 Stunden</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Diese Hilfe rechnet nur die Uhrzeiten aus. Nehmen Sie Ihre Medikamente immer so, wie es Ihre Ärztin, Ihr Arzt, Ihre Apotheke oder der Beipackzettel sagt.</p><h2>So funktioniert es</h2><p>Ein Tag hat 24 Stunden. Wenn Sie ein Medikament alle 8 Stunden nehmen, sind das 3 Einnahmen am Tag, zum Beispiel um 8:00, 16:00 und 0:00 Uhr. Alle 6 Stunden sind 4 Einnahmen, alle 4 Stunden sind 6 Einnahmen und alle 12 Stunden sind 2 Einnahmen.</p><h2>Tipps für Einnahmen in der Nacht</h2><ul><li>Wählen Sie die erste Uhrzeit so, dass die Nacht-Einnahme in eine Zeit fällt, in der Sie meist wach sind, wenn Ihre Anweisungen das erlauben.</li><li>Fragen Sie in der Apotheke, ob die Zeiten etwas verschoben werden können, damit sie zu Ihrem Schlaf passen.</li><li>Nutzen Sie einen Wecker, der auch bei lautlosem Telefon klingelt, damit Sie keine Nacht-Einnahme verpassen.</li></ul><p>Medinder kann Sie automatisch alle paar Stunden erinnern und klingelt auch bei Stummschaltung.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Erste Einnahme<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Alle<select id=\"every\"><option value=\"4\">4 Stunden</option><option value=\"6\">6 Stunden</option><option value=\"8\" selected>8 Stunden</option><option value=\"12\">12 Stunden</option><option value=\"24\">24 Stunden</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Diese Hilfe rechnet nur die Uhrzeiten aus. Nehmen Sie Ihre Medikamente immer so, wie es Ihre Ärztin, Ihr Arzt, Ihre Apotheke oder der Beipackzettel sagt.</p><h2>So funktioniert es</h2><p>Ein Tag hat 24 Stunden. Wenn Sie ein Medikament alle 8 Stunden nehmen, sind das 3 Einnahmen am Tag, zum Beispiel um 8:00, 16:00 und 0:00 Uhr. Alle 6 Stunden sind 4 Einnahmen, alle 4 Stunden sind 6 Einnahmen und alle 12 Stunden sind 2 Einnahmen.</p><h2>Tipps für Einnahmen in der Nacht</h2><ul><li>Wählen Sie die erste Uhrzeit so, dass die Nacht-Einnahme in eine Zeit fällt, in der Sie meist wach sind, wenn Ihre Anweisungen das erlauben.</li><li>Fragen Sie in der Apotheke, ob die Zeiten etwas verschoben werden können, damit sie zu Ihrem Schlaf passen.</li><li>Nutzen Sie einen Wecker, der auch bei lautlosem Telefon klingelt, damit Sie keine Nacht-Einnahme verpassen.</li></ul><p>Medind kann Sie automatisch alle paar Stunden erinnern und klingelt auch bei Stummschaltung.</p>",
       "js": {
         "doses": "{n} Einnahmen am Tag",
         "dose": "Einnahme {n}",
@@ -145,7 +145,7 @@
       "description": "Erstellen Sie in einer Minute einen Medikamentenplan zum Ausdrucken. Medikamente und Uhrzeiten eingeben, Wochenplan mit Kästchen drucken. Kostenlos und privat.",
       "h1": "Medikamentenplan zum Ausdrucken erstellen",
       "lead": "Geben Sie Ihre Medikamente und Uhrzeiten ein und drucken Sie einen Wochenplan mit einem Kästchen zum Abhaken für jede Einnahme. Gut für den Kühlschrank, das Pflegeheim oder Angehörige, die helfen.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Medikament hinzufügen</button><label>Titel des Plans<input type=\"text\" id=\"chart-title\" value=\"Meine Medikamente\"></label><button type=\"button\" class=\"button\" id=\"print\">Plan drucken</button></form><div class=\"chart\" id=\"chart\"></div><h2>So nutzen Sie den Plan</h2><ol><li>Schreiben Sie jedes Medikament so, wie es auf der Packung steht. So findet jeder das richtige.</li><li>Fügen Sie für jede Einnahme eine Uhrzeit hinzu. Ein Medikament, das Sie morgens und abends nehmen, bekommt zwei Uhrzeiten.</li><li>Drucken Sie den Plan aus und haken Sie bei jeder Einnahme das Kästchen ab.</li></ol><p>Lieber auf dem Handy? Medinder erledigt das für Sie, klingelt zu jeder Uhrzeit und speichert, wann Sie auf Genommen getippt haben.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Medikament hinzufügen</button><label>Titel des Plans<input type=\"text\" id=\"chart-title\" value=\"Meine Medikamente\"></label><button type=\"button\" class=\"button\" id=\"print\">Plan drucken</button></form><div class=\"chart\" id=\"chart\"></div><h2>So nutzen Sie den Plan</h2><ol><li>Schreiben Sie jedes Medikament so, wie es auf der Packung steht. So findet jeder das richtige.</li><li>Fügen Sie für jede Einnahme eine Uhrzeit hinzu. Ein Medikament, das Sie morgens und abends nehmen, bekommt zwei Uhrzeiten.</li><li>Drucken Sie den Plan aus und haken Sie bei jeder Einnahme das Kästchen ab.</li></ol><p>Lieber auf dem Handy? Medind erledigt das für Sie, klingelt zu jeder Uhrzeit und speichert, wann Sie auf Genommen getippt haben.</p>",
       "js": {
         "name": "Medikament",
         "name_ph": "zum Beispiel Metformin 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "Medikamenten-Erinnerung am iPhone einstellen (auch lautlos)",
-      "description": "Schritt für Schritt: Medikamenten-Erinnerung am iPhone mit der Health-App oder einer App wie Medinder einrichten, damit sie auch bei Stummschaltung klingelt.",
+      "description": "Schritt für Schritt: Medikamenten-Erinnerung am iPhone mit der Health-App oder einer App wie Medind einrichten, damit sie auch bei Stummschaltung klingelt.",
       "h1": "Medikamenten-Erinnerung am iPhone einstellen",
       "lead": "Ihr iPhone kann Sie auf mehrere Arten an Ihre Medikamente erinnern. Hier sehen Sie, wie jede funktioniert und wie Sie sicherstellen, dass die Erinnerung nicht stumm bleibt.",
-      "body": "<h2>Möglichkeit 1: Die Health-App</h2><ol><li>Öffnen Sie die Health-App und tippen Sie auf Entdecken (oder Suchen), dann auf Medikamente.</li><li>Tippen Sie auf Medikament hinzufügen und folgen Sie den Schritten, um Name, Art und Einnahmeplan einzugeben.</li><li>Damit Sie noch einmal erinnert werden, wenn Sie es vergessen, scrollen Sie nach unten zu Optionen und schalten Sie die Folgeerinnerungen ein.</li><li>Damit Sie Erinnerungen auch bei Stummschaltung oder Fokus hören, tippen Sie in den Optionen auf Kritische Hinweise und schalten Sie sie für Ihre Medikamente ein.</li></ol><p>Die Health-App ist kostenlos und schon auf dem iPhone. Erinnerungen kommen als Mitteilungen.</p><h2>Möglichkeit 2: Eine Tabletten-Erinnerung, die wie ein Wecker klingelt</h2><p>Medinder nutzt das Wecker-System von Apple unter iOS 26. Eine Erinnerung füllt den Bildschirm und klingelt wie der Wecker der Uhr-App, mit großer Taste Genommen und Schlummern. Sie klingelt auch bei Stummschaltung und Fokus.</p><ol><li>Installieren Sie Medinder und fügen Sie Ihr Medikament mit Namen hinzu, wenn Sie möchten mit Foto.</li><li>Wählen Sie die Uhrzeiten, Tage oder alle paar Stunden.</li><li>Erlauben Sie Wecker, wenn Medinder fragt.</li><li>Wenn es klingelt, tippen Sie auf Genommen. Medinder speichert die Uhrzeit.</li></ol><h2>Möglichkeit 3: Wecker in der Uhr-App</h2><p>Sie können in der Uhr-App einen normalen Wecker stellen und ihn nach Ihrem Medikament benennen. Er klingelt auch lautlos, speichert aber nicht, was Sie genommen haben.</p><h2>Warum klingeln Erinnerungen bei lautlos nicht?</h2><p>Normale Mitteilungen folgen dem Klingel-/Lautlos-Schalter und dem Fokus. Nur Wecker und kritische Hinweise kommen durch. Wenn Sie sich auf Erinnerungen verlassen, nutzen Sie eines davon.</p><h2>Prüfen Sie, ob Ihre Erinnerungen funktionieren</h2><ul><li>Stellen Sie eine Test-Erinnerung in zwei Minuten ein und schalten Sie das iPhone auf lautlos.</li><li>Prüfen Sie in den Einstellungen des iPhone, ob Mitteilungen und Wecker für Ihre App erlaubt sind.</li><li>Prüfen Sie die Lautstärke unter Einstellungen › Töne &amp; Haptik, denn Wecker nutzen die Klingellautstärke.</li></ul>",
+      "body": "<h2>Möglichkeit 1: Die Health-App</h2><ol><li>Öffnen Sie die Health-App und tippen Sie auf Entdecken (oder Suchen), dann auf Medikamente.</li><li>Tippen Sie auf Medikament hinzufügen und folgen Sie den Schritten, um Name, Art und Einnahmeplan einzugeben.</li><li>Damit Sie noch einmal erinnert werden, wenn Sie es vergessen, scrollen Sie nach unten zu Optionen und schalten Sie die Folgeerinnerungen ein.</li><li>Damit Sie Erinnerungen auch bei Stummschaltung oder Fokus hören, tippen Sie in den Optionen auf Kritische Hinweise und schalten Sie sie für Ihre Medikamente ein.</li></ol><p>Die Health-App ist kostenlos und schon auf dem iPhone. Erinnerungen kommen als Mitteilungen.</p><h2>Möglichkeit 2: Eine Tabletten-Erinnerung, die wie ein Wecker klingelt</h2><p>Medind nutzt das Wecker-System von Apple unter iOS 26. Eine Erinnerung füllt den Bildschirm und klingelt wie der Wecker der Uhr-App, mit großer Taste Genommen und Schlummern. Sie klingelt auch bei Stummschaltung und Fokus.</p><ol><li>Installieren Sie Medind und fügen Sie Ihr Medikament mit Namen hinzu, wenn Sie möchten mit Foto.</li><li>Wählen Sie die Uhrzeiten, Tage oder alle paar Stunden.</li><li>Erlauben Sie Wecker, wenn Medind fragt.</li><li>Wenn es klingelt, tippen Sie auf Genommen. Medind speichert die Uhrzeit.</li></ol><h2>Möglichkeit 3: Wecker in der Uhr-App</h2><p>Sie können in der Uhr-App einen normalen Wecker stellen und ihn nach Ihrem Medikament benennen. Er klingelt auch lautlos, speichert aber nicht, was Sie genommen haben.</p><h2>Warum klingeln Erinnerungen bei lautlos nicht?</h2><p>Normale Mitteilungen folgen dem Klingel-/Lautlos-Schalter und dem Fokus. Nur Wecker und kritische Hinweise kommen durch. Wenn Sie sich auf Erinnerungen verlassen, nutzen Sie eines davon.</p><h2>Prüfen Sie, ob Ihre Erinnerungen funktionieren</h2><ul><li>Stellen Sie eine Test-Erinnerung in zwei Minuten ein und schalten Sie das iPhone auf lautlos.</li><li>Prüfen Sie in den Einstellungen des iPhone, ob Mitteilungen und Wecker für Ihre App erlaubt sind.</li><li>Prüfen Sie die Lautstärke unter Einstellungen › Töne &amp; Haptik, denn Wecker nutzen die Klingellautstärke.</li></ul>",
       "faq": [
         [
           "Kann mich das iPhone an Medikamente erinnern?",
-          "Ja. Die Health-App hat Medikamenten-Erinnerungen, und Apps wie Medinder können zu jeder Einnahmezeit wie ein Wecker klingeln."
+          "Ja. Die Health-App hat Medikamenten-Erinnerungen, und Apps wie Medind können zu jeder Einnahmezeit wie ein Wecker klingeln."
         ],
         [
           "Wie klingeln Medikamenten-Erinnerungen auch bei lautlos?",
-          "Schalten Sie in der Health-App die kritischen Hinweise für Medikamente ein oder nutzen Sie eine App, die iPhone-Wecker verwendet, wie Medinder unter iOS 26."
+          "Schalten Sie in der Health-App die kritischen Hinweise für Medikamente ein oder nutzen Sie eine App, die iPhone-Wecker verwendet, wie Medind unter iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "So helfen Sie Ihren älteren Eltern, an ihre Medikamente zu denken, ohne zu bevormunden: einfache Routinen, Wecker, gedruckte Pläne und respektvolle Nachfragen.",
       "h1": "Medikamenten-Erinnerung für ältere Eltern",
       "lead": "Wenn Sie Ihren Eltern bei den Medikamenten helfen, klappt es am besten, wenn sie selbst entscheiden. Diese Schritte halten alles einfach und respektvoll.",
-      "body": "<h2>Beginnen Sie mit einem Gespräch</h2><p>Fragen Sie, was schwerfällt: sich erinnern, Tabletten unterscheiden oder wissen, ob eine Einnahme schon war. Die Antwort zeigt, was Sie ändern können. Lassen Sie Ihre Eltern wählen, was hilft.</p><h2>Machen Sie die Medikamente leicht unterscheidbar</h2><p>Schreiben Sie den Namen groß auf jede Packung oder machen Sie ein Foto von jeder Tablette. Wenn die Apotheke die Marke wechselt, schauen Sie sich die neue Tablette gemeinsam an.</p><h2>Wählen Sie Erinnerungen, die man hört</h2><p>Viele ältere Menschen haben ihr Telefon aus Versehen auf lautlos. Eine Erinnerung, die wie ein Wecker klingelt und eine große Taste hat, ist einfacher als eine kleine Mitteilung. Medinder wurde genau dafür gemacht: große Schrift, einfache Worte und eine Taste Genommen.</p><h2>Machen Sie „Habe ich sie genommen?“ leicht beantwortbar</h2><p>Zweifel führen zu ausgelassenen oder doppelten Einnahmen. Eine Tablettenbox oder eine App, die die Uhrzeit jeder Einnahme speichert, beantwortet die Frage auf einen Blick.</p><h2>Hängen Sie einen gedruckten Plan an den Kühlschrank</h2><p>Ein Plan auf Papier hilft auch Besuch und Pflegekräften. Erstellen Sie einen mit dem kostenlosen <a href=\"{L}/tools/medication-schedule-maker/\">Medikamentenplan zum Ausdrucken</a>.</p><h2>Nachfragen, ohne zu bevormunden</h2><p>Ein kurzer Anruf jede Woche zur gleichen Zeit, um gemeinsam auf die Woche zu schauen, wirkt besser als tägliche Kontrollen. Freuen Sie sich gemeinsam über eine gute Woche.</p><h2>Fragen Sie in der Apotheke</h2><p>Bitten Sie um eine Medikationsberatung, wenn Ihre Eltern viele Medikamente nehmen. Apotheken können die Zeiten oft vereinfachen oder Blister vorschlagen.</p>",
+      "body": "<h2>Beginnen Sie mit einem Gespräch</h2><p>Fragen Sie, was schwerfällt: sich erinnern, Tabletten unterscheiden oder wissen, ob eine Einnahme schon war. Die Antwort zeigt, was Sie ändern können. Lassen Sie Ihre Eltern wählen, was hilft.</p><h2>Machen Sie die Medikamente leicht unterscheidbar</h2><p>Schreiben Sie den Namen groß auf jede Packung oder machen Sie ein Foto von jeder Tablette. Wenn die Apotheke die Marke wechselt, schauen Sie sich die neue Tablette gemeinsam an.</p><h2>Wählen Sie Erinnerungen, die man hört</h2><p>Viele ältere Menschen haben ihr Telefon aus Versehen auf lautlos. Eine Erinnerung, die wie ein Wecker klingelt und eine große Taste hat, ist einfacher als eine kleine Mitteilung. Medind wurde genau dafür gemacht: große Schrift, einfache Worte und eine Taste Genommen.</p><h2>Machen Sie „Habe ich sie genommen?“ leicht beantwortbar</h2><p>Zweifel führen zu ausgelassenen oder doppelten Einnahmen. Eine Tablettenbox oder eine App, die die Uhrzeit jeder Einnahme speichert, beantwortet die Frage auf einen Blick.</p><h2>Hängen Sie einen gedruckten Plan an den Kühlschrank</h2><p>Ein Plan auf Papier hilft auch Besuch und Pflegekräften. Erstellen Sie einen mit dem kostenlosen <a href=\"{L}/tools/medication-schedule-maker/\">Medikamentenplan zum Ausdrucken</a>.</p><h2>Nachfragen, ohne zu bevormunden</h2><p>Ein kurzer Anruf jede Woche zur gleichen Zeit, um gemeinsam auf die Woche zu schauen, wirkt besser als tägliche Kontrollen. Freuen Sie sich gemeinsam über eine gute Woche.</p><h2>Fragen Sie in der Apotheke</h2><p>Bitten Sie um eine Medikationsberatung, wenn Ihre Eltern viele Medikamente nehmen. Apotheken können die Zeiten oft vereinfachen oder Blister vorschlagen.</p>",
       "faq": [
         [
           "Welche Medikamenten-Erinnerung ist für ältere Menschen am besten?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Tabletten-Erinnerung",
+    "name": "Medind: Tabletten-Erinnerung",
     "subtitle": "Medikamentenplan mit Wecker",
     "keywords": "medikament,pille,arznei,einnahme,dosis,tracker,alarm,senior,tagebuch,vitamin,blutdruck,pillendose"
   },

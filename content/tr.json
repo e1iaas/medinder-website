@@ -14,13 +14,13 @@
     "language": "Dil",
     "footer_privacy": "Gizlilik politikası",
     "footer_support": "Destek",
-    "footer_note": "Medinder bir hatırlatma uygulamasıdır. Tıbbi tavsiye vermez. Her zaman doktorunuzun veya eczacınızın talimatlarına uyun.",
+    "footer_note": "Medind bir hatırlatma uygulamasıdır. Tıbbi tavsiye vermez. Her zaman doktorunuzun veya eczacınızın talimatlarına uyun.",
     "updated": "Son güncelleme",
     "read_more": "Rehberi oku",
     "open_tool": "Aracı aç",
     "faq_title": "Sorular ve cevaplar",
     "cta_title": "“İlacımı içtim mi?” diye bir daha düşünmeyin",
-    "cta_text": "Medinder, siz Alındı'ya dokunana kadar çalar ve neyi ne zaman aldığınızı gösterir.",
+    "cta_text": "Medind, siz Alındı'ya dokunana kadar çalar ve neyi ne zaman aldığınızı gösterir.",
     "breadcrumb_home": "Ana sayfa",
     "related": "Bunlar da ilginizi çekebilir",
     "not_found_title": "Sayfa bulunamadı",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – iPhone için İlaç Hatırlatıcı ve İlaç Takibi",
-      "description": "Medinder, iPhone için basit bir ilaç hatırlatıcı. Telefon sessizdeyken bile alarm gibi çalar. Neyi ne zaman aldığınızı görün. Hesap yok, veriler telefonda.",
+      "title": "Medind – iPhone için İlaç Hatırlatıcı ve İlaç Takibi",
+      "description": "Medind, iPhone için basit bir ilaç hatırlatıcı. Telefon sessizdeyken bile alarm gibi çalar. Neyi ne zaman aldığınızı görün. Hesap yok, veriler telefonda.",
       "h1": "Siz ilacınızı alana kadar çalan ilaç hatırlatıcı",
-      "lead": "Medinder, iPhone için basit bir ilaç hatırlatma uygulaması. Telefonunuz sessizdeyken bile alarm gibi çalar ve aldığınız her dozun kaydını açıkça tutar.",
-      "body": "<section class=\"features\"><h2>İhtiyacınız olan her şey, fazlası yok</h2><ul class=\"cards\"><li><h3>Alarm gibi çalar</h3><p>Hatırlatıcılar sessiz modda ve Odak açıkken de çalar. Büyük bir Alındı düğmesi ve erteleme vardır. Mutlaka duyarsınız.</p></li><li><h3>Aldım mı? Tek bakışta</h3><p>Bugün ekranı her dozu ve aldığınız saati gösterir. Takvim önceki tüm günleri gösterir.</p></li><li><h3>Sizin ilacınız, sizin sözcükleriniz</h3><p>İlacın adını alıştığınız gibi yazın, hapın ya da kutunun fotoğrafını ekleyin. Böylece hangisinin hangisi olduğunu her zaman bilirsiniz.</p></li><li><h3>Her türlü program</h3><p>Her gün belirli saatlerde, seçtiğiniz günlerde, birkaç günde bir, birkaç saatte bir ya da yalnızca gerektiğinde.</p></li><li><h3>Büyük, net ve sakin</h3><p>Büyük yazı, büyük düğmeler, sade sözcükler. Herkes yardım almadan kullanabilsin diye yapıldı.</p></li><li><h3>Gizlilik en baştan</h3><p>Hesap yok, reklam yok. Girdiğiniz her şey iPhone'unuzda kalır.</p></li></ul></section><section><h2>Üç adımda kurulum</h2><ol class=\"steps\"><li><strong>İlaç ekleyin.</strong> Adını yazın, isterseniz fotoğrafını çekin.</li><li><strong>Zamanı seçin.</strong> Saatleri ve günleri ya da kaç saatte bir olacağını seçin.</li><li><strong>Çaldığında Alındı'ya dokunun.</strong> Medinder saati kaydeder, sizin hatırlamanıza gerek kalmaz.</li></ol></section><section><h2>Ayrıca</h2><ul class=\"ticks\"><li>Ana ekran ve kilitli ekran için Alındı düğmeli araç takımı</li><li>Tansiyon, nabız ve kilo gibi ölçümler, yazdığınız gibi kaydedilir</li><li>Apple Sağlık'tan adımlar ve diğer değerler, canlı gösterilir ve hiç kaydedilmez</li><li>Girdiğiniz her şeyi dışa aktarma ve yedekleme</li><li>18 dil</li></ul></section><section class=\"note\"><h2>Ödemeyi bıraksanız da hatırlatıcılarınız çalmaya devam eder</h2><p>Medinder bir aboneliktir ve net fiyat, ödeme yapmadan önce App Store'da gösterilir. Kurduğunuz hatırlatıcılar, aboneliğiniz bitse bile çalışmaya devam eder. İlaç hatırlatıcıları kapatılamayacak kadar önemlidir.</p></section>",
+      "lead": "Medind, iPhone için basit bir ilaç hatırlatma uygulaması. Telefonunuz sessizdeyken bile alarm gibi çalar ve aldığınız her dozun kaydını açıkça tutar.",
+      "body": "<section class=\"features\"><h2>İhtiyacınız olan her şey, fazlası yok</h2><ul class=\"cards\"><li><h3>Alarm gibi çalar</h3><p>Hatırlatıcılar sessiz modda ve Odak açıkken de çalar. Büyük bir Alındı düğmesi ve erteleme vardır. Mutlaka duyarsınız.</p></li><li><h3>Aldım mı? Tek bakışta</h3><p>Bugün ekranı her dozu ve aldığınız saati gösterir. Takvim önceki tüm günleri gösterir.</p></li><li><h3>Sizin ilacınız, sizin sözcükleriniz</h3><p>İlacın adını alıştığınız gibi yazın, hapın ya da kutunun fotoğrafını ekleyin. Böylece hangisinin hangisi olduğunu her zaman bilirsiniz.</p></li><li><h3>Her türlü program</h3><p>Her gün belirli saatlerde, seçtiğiniz günlerde, birkaç günde bir, birkaç saatte bir ya da yalnızca gerektiğinde.</p></li><li><h3>Büyük, net ve sakin</h3><p>Büyük yazı, büyük düğmeler, sade sözcükler. Herkes yardım almadan kullanabilsin diye yapıldı.</p></li><li><h3>Gizlilik en baştan</h3><p>Hesap yok, reklam yok. Girdiğiniz her şey iPhone'unuzda kalır.</p></li></ul></section><section><h2>Üç adımda kurulum</h2><ol class=\"steps\"><li><strong>İlaç ekleyin.</strong> Adını yazın, isterseniz fotoğrafını çekin.</li><li><strong>Zamanı seçin.</strong> Saatleri ve günleri ya da kaç saatte bir olacağını seçin.</li><li><strong>Çaldığında Alındı'ya dokunun.</strong> Medind saati kaydeder, sizin hatırlamanıza gerek kalmaz.</li></ol></section><section><h2>Ayrıca</h2><ul class=\"ticks\"><li>Ana ekran ve kilitli ekran için Alındı düğmeli araç takımı</li><li>Tansiyon, nabız ve kilo gibi ölçümler, yazdığınız gibi kaydedilir</li><li>Apple Sağlık'tan adımlar ve diğer değerler, canlı gösterilir ve hiç kaydedilmez</li><li>Girdiğiniz her şeyi dışa aktarma ve yedekleme</li><li>18 dil</li></ul></section><section class=\"note\"><h2>Ödemeyi bıraksanız da hatırlatıcılarınız çalmaya devam eder</h2><p>Medind bir aboneliktir ve net fiyat, ödeme yapmadan önce App Store'da gösterilir. Kurduğunuz hatırlatıcılar, aboneliğiniz bitse bile çalışmaya devam eder. İlaç hatırlatıcıları kapatılamayacak kadar önemlidir.</p></section>",
       "faq": [
         [
-          "iPhone'um sessizdeyken Medinder çalar mı?",
-          "Evet. Medinder, iOS 26'daki Apple alarm sistemini kullanır. Bu yüzden hatırlatıcılar sessiz modda ve Odak açıkken de, tıpkı Saat uygulamasındaki alarmlar gibi çalar."
+          "iPhone'um sessizdeyken Medind çalar mı?",
+          "Evet. Medind, iOS 26'daki Apple alarm sistemini kullanır. Bu yüzden hatırlatıcılar sessiz modda ve Odak açıkken de, tıpkı Saat uygulamasındaki alarmlar gibi çalar."
         ],
         [
-          "Medinder yaşlılar için uygun mu?",
+          "Medind yaşlılar için uygun mu?",
           "Evet. 60 yaş üstü kişiler için yapıldı: büyük yazı, büyük düğmeler, sade sözcükler ve her ekranda tek bir ana işlem."
         ],
         [
@@ -48,61 +48,61 @@
           "Hayır. Kayıt ya da giriş yok. Girdiğiniz her şey iPhone'unuzda kalır."
         ],
         [
-          "Medinder tıbbi tavsiye verir mi?",
-          "Hayır. Medinder size asla neyi ya da ne kadar almanız gerektiğini söylemez. Seçtiğiniz saatlerde hatırlatır ve alındı olarak işaretlediklerinizi kaydeder."
+          "Medind tıbbi tavsiye verir mi?",
+          "Hayır. Medind size asla neyi ya da ne kadar almanız gerektiğini söylemez. Seçtiğiniz saatlerde hatırlatır ve alındı olarak işaretlediklerinizi kaydeder."
         ],
         [
           "Yalnızca gerektiğinde aldığım ilaçları takip edebilir miyim?",
-          "Evet. İlacı “Gerektiğinde” olarak ekleyin ve her aldığınızda Alındı'ya dokunun. Medinder saati kaydeder."
+          "Evet. İlacı “Gerektiğinde” olarak ekleyin ve her aldığınızda Alındı'ya dokunun. Medind saati kaydeder."
         ],
         [
-          "Medinder'in ücreti nedir?",
-          "Medinder bir aboneliktir. Ülkenizdeki fiyat, ödeme yapmadan önce App Store'da ve uygulamada gösterilir. Satın alımınızı istediğiniz zaman geri yükleyebilirsiniz."
+          "Medind'in ücreti nedir?",
+          "Medind bir aboneliktir. Ülkenizdeki fiyat, ödeme yapmadan önce App Store'da ve uygulamada gösterilir. Satın alımınızı istediğiniz zaman geri yükleyebilirsiniz."
         ]
       ]
     },
     "privacy": {
-      "title": "Gizlilik Politikası – Medinder",
-      "description": "Medinder verilerinizi nasıl işler: hesap yok, reklam yok, takip yok. İlaç bilgileriniz yalnızca iPhone'unuzda kalır ve hiçbir sunucuya gönderilmez.",
+      "title": "Gizlilik Politikası – Medind",
+      "description": "Medind verilerinizi nasıl işler: hesap yok, reklam yok, takip yok. İlaç bilgileriniz yalnızca iPhone'unuzda kalır ve hiçbir sunucuya gönderilmez.",
       "h1": "Gizlilik politikası",
       "lead": "Kısaca: girdiğiniz her şey iPhone'unuzda kalır. Hesap sistemimiz, reklamımız ve analizimiz yok. İlaç ve sağlık verilerinizi asla görmeyiz.",
-      "body": "<h2>Medinder neleri saklar</h2><p>İlaçlarınız, fotoğraflarınız, programlarınız, alındı olarak işaretlediğiniz dozlar, notlarınız ve ölçümleriniz yalnızca iPhone'unuzda, uygulamanın içinde saklanır. Araç takımı aynı telefondaki aynı verileri okur. Bu verileri alan bir sunucumuz yoktur.</p><h2>Apple Sağlık</h2><p>İzin verirseniz Medinder, uygulamada göstermek için Apple Sağlık'tan adım, nabız, kilo ve tansiyon değerlerini okur. Bu değerler canlı okunur; Medinder bunları asla kaydetmez, yedeklere eklemez ve hiçbir yere göndermez. Medinder, Apple Sağlık'a hiçbir şey yazmaz.</p><h2>Kamera ve fotoğraflar</h2><p>Bir ilacın fotoğrafını çekerseniz fotoğraf yalnızca iPhone'unuzda saklanır.</p><h2>Satın almalar</h2><p>Ödemeler Apple tarafından yapılır. Aboneliğinizin etkin olup olmadığını kontrol etmek için Medinder, bir abonelik hizmeti olan RevenueCat'i kullanır. RevenueCat anonim bir uygulama kimliği ve hangi aboneliği ne zaman aldığınız gibi satın alma bilgilerini alır. İlaç, ölçüm ya da sağlık verilerinizi asla almaz. Bkz. <a href=\"https://www.revenuecat.com/privacy\">RevenueCat gizlilik politikası</a>.</p><h2>Takip yok, reklam yok, analiz yok</h2><p>Medinder'de reklam, takip ve analiz yoktur. Verilerinizi satmayız ve paylaşmayız.</p><h2>Yedekler ve dışa aktarma</h2><p>Uygulamadan verilerinizi dışa aktarabilir ya da bir yedek dosyası oluşturabilirsiniz. Bu dosya telefonunuzda oluşturulur ve yalnızca sizin göndermeyi ya da kaydetmeyi seçtiğiniz yere gider. iPhone yedeklemesini (iCloud ya da bilgisayar) kullanıyorsanız Apple, her uygulamada olduğu gibi bu uygulamanın verilerini de yedeğe ekleyebilir; bunu iPhone ayarlarınızdan siz yönetirsiniz.</p><h2>Hatırlatıcılar</h2><p>Hatırlatıcılar ve alarmlar iPhone'unuzda planlanır. Hiçbir sunucudan geçmez.</p><h2>Verilerinizi silme</h2><p>Medinder'in iPhone'unuzda sakladığı tüm verileri silmek için uygulamayı silin. İlaç verilerinizi hiçbir zaman almadığımız için bizim tarafımızda silinecek bir şey yoktur.</p><h2>Çocuklar</h2><p>Medinder 13 yaşından küçük çocuklara yönelik değildir.</p><h2>Bu web sitesi</h2><p>Bu web sitesi çerez ve takip kullanmaz. Sitedeki ücretsiz araçlar tarayıcınızda çalışır; içlerine yazdıklarınız hiçbir yere gönderilmez.</p><h2>Değişiklikler</h2><p>Bu politika değişirse bu sayfayı ve aşağıdaki tarihi güncelleriz.</p><h2>İletişim</h2><p>Gizlilikle ilgili sorular: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>Medind neleri saklar</h2><p>İlaçlarınız, fotoğraflarınız, programlarınız, alındı olarak işaretlediğiniz dozlar, notlarınız ve ölçümleriniz yalnızca iPhone'unuzda, uygulamanın içinde saklanır. Araç takımı aynı telefondaki aynı verileri okur. Bu verileri alan bir sunucumuz yoktur.</p><h2>Apple Sağlık</h2><p>İzin verirseniz Medind, uygulamada göstermek için Apple Sağlık'tan adım, nabız, kilo ve tansiyon değerlerini okur. Bu değerler canlı okunur; Medind bunları asla kaydetmez, yedeklere eklemez ve hiçbir yere göndermez. Medind, Apple Sağlık'a hiçbir şey yazmaz.</p><h2>Kamera ve fotoğraflar</h2><p>Bir ilacın fotoğrafını çekerseniz fotoğraf yalnızca iPhone'unuzda saklanır.</p><h2>Satın almalar</h2><p>Ödemeler Apple tarafından yapılır. Aboneliğinizin etkin olup olmadığını kontrol etmek için Medind, bir abonelik hizmeti olan RevenueCat'i kullanır. RevenueCat anonim bir uygulama kimliği ve hangi aboneliği ne zaman aldığınız gibi satın alma bilgilerini alır. İlaç, ölçüm ya da sağlık verilerinizi asla almaz. Bkz. <a href=\"https://www.revenuecat.com/privacy\">RevenueCat gizlilik politikası</a>.</p><h2>Takip yok, reklam yok, analiz yok</h2><p>Medind'de reklam, takip ve analiz yoktur. Verilerinizi satmayız ve paylaşmayız.</p><h2>Yedekler ve dışa aktarma</h2><p>Uygulamadan verilerinizi dışa aktarabilir ya da bir yedek dosyası oluşturabilirsiniz. Bu dosya telefonunuzda oluşturulur ve yalnızca sizin göndermeyi ya da kaydetmeyi seçtiğiniz yere gider. iPhone yedeklemesini (iCloud ya da bilgisayar) kullanıyorsanız Apple, her uygulamada olduğu gibi bu uygulamanın verilerini de yedeğe ekleyebilir; bunu iPhone ayarlarınızdan siz yönetirsiniz.</p><h2>Hatırlatıcılar</h2><p>Hatırlatıcılar ve alarmlar iPhone'unuzda planlanır. Hiçbir sunucudan geçmez.</p><h2>Verilerinizi silme</h2><p>Medind'in iPhone'unuzda sakladığı tüm verileri silmek için uygulamayı silin. İlaç verilerinizi hiçbir zaman almadığımız için bizim tarafımızda silinecek bir şey yoktur.</p><h2>Çocuklar</h2><p>Medind 13 yaşından küçük çocuklara yönelik değildir.</p><h2>Bu web sitesi</h2><p>Bu web sitesi çerez ve takip kullanmaz. Sitedeki ücretsiz araçlar tarayıcınızda çalışır; içlerine yazdıklarınız hiçbir yere gönderilmez.</p><h2>Değişiklikler</h2><p>Bu politika değişirse bu sayfayı ve aşağıdaki tarihi güncelleriz.</p><h2>İletişim</h2><p>Gizlilikle ilgili sorular: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Destek – Medinder İlaç Hatırlatıcı",
-      "description": "Medinder ile ilgili yardım: hatırlatıcılar, satın almalar, yedekler ve daha fazlası. Bize e-posta gönderin, en kısa sürede yanıt verelim. Gerçek kişiler okur.",
+      "title": "Destek – Medind İlaç Hatırlatıcı",
+      "description": "Medind ile ilgili yardım: hatırlatıcılar, satın almalar, yedekler ve daha fazlası. Bize e-posta gönderin, en kısa sürede yanıt verelim. Gerçek kişiler okur.",
       "h1": "Destek",
       "lead": "Yardım mı lazım, bir fikriniz mi var? Bize e-posta gönderin. Her mesajı gerçek bir kişi okur.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">{EMAIL} adresine yazın</a></p><p>Lütfen iPhone modelinizi ve ne olmasını beklediğinizi yazın. Bir ekran görüntüsü çok yardımcı olur.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">{EMAIL} adresine yazın</a></p><p>Lütfen iPhone modelinizi ve ne olmasını beklediğinizi yazın. Bir ekran görüntüsü çok yardımcı olur.</p>",
       "faq": [
         [
           "Hatırlatıcım çalmadı. Ne yapmalıyım?",
-          "Medinder'i açın ve Ayarlar'a gidin. Hatırlatıcılar bölümünde Medinder'in çalmasına izin verilip verilmediğini görebilir, hatırlatıcıları açabilir ve duymak için Hatırlatıcıyı dene'ye dokunabilirsiniz. Hatırlatıcılar kapalıysa Ayarlar'ı aç'a dokunun ve Medinder için alarmlara ve bildirimlere izin verin."
+          "Medind'i açın ve Ayarlar'a gidin. Hatırlatıcılar bölümünde Medind'in çalmasına izin verilip verilmediğini görebilir, hatırlatıcıları açabilir ve duymak için Hatırlatıcıyı dene'ye dokunabilirsiniz. Hatırlatıcılar kapalıysa Ayarlar'ı aç'a dokunun ve Medind için alarmlara ve bildirimlere izin verin."
         ],
         [
           "Satın alımımı yeni bir iPhone'da nasıl geri yüklerim?",
-          "Aynı Apple Hesabı ile giriş yapın, Medinder'i açın, Ayarlar'a gidin ve Satın almayı geri yükle'ye dokunun."
+          "Aynı Apple Hesabı ile giriş yapın, Medind'i açın, Ayarlar'a gidin ve Satın almayı geri yükle'ye dokunun."
         ],
         [
           "Aboneliğimi nasıl iptal ederim?",
-          "Abonelikleri Apple yönetir. iPhone'unuzda Ayarlar uygulamasını açın, adınıza, ardından Abonelikler'e dokunun ve Medinder'i seçin. İptal ettikten sonra da hatırlatıcılarınız çalmaya devam eder."
+          "Abonelikleri Apple yönetir. iPhone'unuzda Ayarlar uygulamasını açın, adınıza, ardından Abonelikler'e dokunun ve Medind'i seçin. İptal ettikten sonra da hatırlatıcılarınız çalmaya devam eder."
         ],
         [
           "Verilerimi yeni bir iPhone'a nasıl taşırım?",
-          "Medinder'in Ayarlar bölümünde Yedek kaydet'e dokunun ve dosyayı saklayın, örneğin iCloud Drive'a kaydedin ya da kendinize e-postayla gönderin. Yeni iPhone'da Medinder'de Ayarlar'ı açın ve Yedeği geri yükle'ye dokunun. iPhone'unuzun tamamını iCloud ya da bilgisayar yedeğinden de geri yükleyebilirsiniz."
+          "Medind'in Ayarlar bölümünde Yedek kaydet'e dokunun ve dosyayı saklayın, örneğin iCloud Drive'a kaydedin ya da kendinize e-postayla gönderin. Yeni iPhone'da Medind'de Ayarlar'ı açın ve Yedeği geri yükle'ye dokunun. iPhone'unuzun tamamını iCloud ya da bilgisayar yedeğinden de geri yükleyebilirsiniz."
         ],
         [
           "Geçmişimi veya ölçümlerimi nasıl dışa aktarırım?",
-          "Medinder'in Ayarlar bölümünde Verilerimi dışa aktar'a dokunun. Doktorunuzla paylaşabileceğiniz ya da saklayabileceğiniz bir dosya alırsınız."
+          "Medind'in Ayarlar bölümünde Verilerimi dışa aktar'a dokunun. Doktorunuzla paylaşabileceğiniz ya da saklayabileceğiniz bir dosya alırsınız."
         ],
         [
-          "Medinder hangi dilleri destekliyor?",
+          "Medind hangi dilleri destekliyor?",
           "İngilizce, Arapça, Çince (Geleneksel), Felemenkçe, Fince, Fransızca, Almanca, Macarca, İtalyanca, Japonca, Korece, Lehçe, Portekizce, Rusça, İspanyolca, Tayca, Türkçe ve Vietnamca."
         ],
         [
-          "Medinder Android'de veya Apple Watch'ta çalışır mı?",
-          "Henüz değil. Medinder, iOS 26 veya üstü yüklü iPhone içindir."
+          "Medind Android'de veya Apple Watch'ta çalışır mı?",
+          "Henüz değil. Medind, iOS 26 veya üstü yüklü iPhone içindir."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Ücretsiz ilaç saati hesaplama: ilk doz saatini ve kaç saatte bir alacağınızı girin, günün tüm doz saatlerini görün. 4, 6, 8 veya 12 saatte bir için.",
       "h1": "İlaç saati hesaplama",
       "lead": "İlk dozunuzun saatini ve dozlar arasında kaç saat olduğunu girin. Gün içindeki her dozun saatini görürsünüz.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>İlk doz<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Kaç saatte bir<select id=\"every\"><option value=\"4\">4 saatte bir</option><option value=\"6\">6 saatte bir</option><option value=\"8\" selected>8 saatte bir</option><option value=\"12\">12 saatte bir</option><option value=\"24\">24 saatte bir</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Bu araç yalnızca saat hesabı yapar. İlacınızı her zaman doktorunuzun, eczacınızın ya da prospektüsün söylediği gibi alın.</p><h2>Nasıl çalışır</h2><p>Bir gün 24 saattir. Bir ilacı 8 saatte bir alıyorsanız günde 3 doz eder: örneğin 8:00, 16:00 ve 0:00. 6 saatte bir 4 doz, 4 saatte bir 6 doz, 12 saatte bir 2 dozdur.</p><h2>Gece dozları için ipuçları</h2><ul><li>Talimatlarınız izin veriyorsa ilk doz saatini, gece dozu genelde uyanık olduğunuz bir saate denk gelecek şekilde seçin.</li><li>Saatlerin uykunuza uyması için biraz kaydırılıp kaydırılamayacağını eczacınıza sorun.</li><li>Gece dozu kaçmasın diye telefon sessizdeyken bile çalan bir alarm kullanın.</li></ul><p>Medinder size birkaç saatte bir otomatik olarak hatırlatabilir ve sessizde bile çalar.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>İlk doz<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Kaç saatte bir<select id=\"every\"><option value=\"4\">4 saatte bir</option><option value=\"6\">6 saatte bir</option><option value=\"8\" selected>8 saatte bir</option><option value=\"12\">12 saatte bir</option><option value=\"24\">24 saatte bir</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Bu araç yalnızca saat hesabı yapar. İlacınızı her zaman doktorunuzun, eczacınızın ya da prospektüsün söylediği gibi alın.</p><h2>Nasıl çalışır</h2><p>Bir gün 24 saattir. Bir ilacı 8 saatte bir alıyorsanız günde 3 doz eder: örneğin 8:00, 16:00 ve 0:00. 6 saatte bir 4 doz, 4 saatte bir 6 doz, 12 saatte bir 2 dozdur.</p><h2>Gece dozları için ipuçları</h2><ul><li>Talimatlarınız izin veriyorsa ilk doz saatini, gece dozu genelde uyanık olduğunuz bir saate denk gelecek şekilde seçin.</li><li>Saatlerin uykunuza uyması için biraz kaydırılıp kaydırılamayacağını eczacınıza sorun.</li><li>Gece dozu kaçmasın diye telefon sessizdeyken bile çalan bir alarm kullanın.</li></ul><p>Medind size birkaç saatte bir otomatik olarak hatırlatabilir ve sessizde bile çalar.</p>",
       "js": {
         "doses": "Günde {n} doz",
         "dose": "{n}. doz",
@@ -145,7 +145,7 @@
       "description": "Bir dakikada yazdırılabilir ilaç çizelgesi hazırlayın. İlaçlarınızı ve saatlerini ekleyin, işaret kutulu haftalık ilaç takip tablosunu yazdırın. Ücretsiz.",
       "h1": "Yazdırılabilir ilaç çizelgesi hazırlama",
       "lead": "İlaçlarınızı ve saatlerini ekleyin, ardından her doz için işaret kutusu olan haftalık bir çizelge yazdırın. Buzdolabına, bakım evine ya da yardım eden bir aile üyesine uygun.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">İlaç ekle</button><label>Çizelge başlığı<input type=\"text\" id=\"chart-title\" value=\"İlaçlarım\"></label><button type=\"button\" class=\"button\" id=\"print\">Çizelgeyi yazdır</button></form><div class=\"chart\" id=\"chart\"></div><h2>Çizelge nasıl kullanılır</h2><ol><li>Her ilacı kutusunda yazdığı gibi yazın, böylece herkes doğru ilacı bulabilir.</li><li>Her doz için bir saat ekleyin. Sabah ve akşam alınan bir ilaca iki saat eklenir.</li><li>Çizelgeyi yazdırın ve her doz aldığınızda kutuyu işaretleyin.</li></ol><p>Telefonu mu tercih edersiniz? Medinder bunu sizin için yapar, her saatte çalar ve Alındı'ya dokunduğunuz saati kaydeder.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">İlaç ekle</button><label>Çizelge başlığı<input type=\"text\" id=\"chart-title\" value=\"İlaçlarım\"></label><button type=\"button\" class=\"button\" id=\"print\">Çizelgeyi yazdır</button></form><div class=\"chart\" id=\"chart\"></div><h2>Çizelge nasıl kullanılır</h2><ol><li>Her ilacı kutusunda yazdığı gibi yazın, böylece herkes doğru ilacı bulabilir.</li><li>Her doz için bir saat ekleyin. Sabah ve akşam alınan bir ilaca iki saat eklenir.</li><li>Çizelgeyi yazdırın ve her doz aldığınızda kutuyu işaretleyin.</li></ol><p>Telefonu mu tercih edersiniz? Medind bunu sizin için yapar, her saatte çalar ve Alındı'ya dokunduğunuz saati kaydeder.</p>",
       "js": {
         "name": "İlaç",
         "name_ph": "örneğin Metformin 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "iPhone'da İlaç Hatırlatıcı Kurma (Sessizde de Çalan)",
-      "description": "Adım adım: iPhone'da Sağlık uygulaması veya Medinder gibi bir uygulamayla ilaç hatırlatıcı kurun ve iPhone'unuz sessizdeyken de çaldığından emin olun.",
+      "description": "Adım adım: iPhone'da Sağlık uygulaması veya Medind gibi bir uygulamayla ilaç hatırlatıcı kurun ve iPhone'unuz sessizdeyken de çaldığından emin olun.",
       "h1": "iPhone'da ilaç hatırlatıcı nasıl kurulur",
       "lead": "iPhone'unuz ilacınızı birkaç farklı yolla hatırlatabilir. Her birinin nasıl çalıştığını ve hatırlatıcının sessize alınmadığından nasıl emin olacağınızı burada bulabilirsiniz.",
-      "body": "<h2>1. Yol: Sağlık uygulaması</h2><ol><li>Sağlık uygulamasını açın, Göz At'a (ya da Ara'ya), ardından İlaçlar'a dokunun.</li><li>İlaç Ekle'ye dokunun ve adını, türünü ve programını girmek için adımları izleyin.</li><li>Unutursanız yeniden hatırlatılmak için aşağıdaki seçeneklere kaydırın ve takip hatırlatmalarını açın.</li><li>iPhone sessizdeyken ya da Odak açıkken hatırlatıcıları duymak için seçeneklerde Kritik Uyarılar'a dokunun ve ilaçlarınız için açın.</li></ol><p>Sağlık uygulaması ücretsizdir ve iPhone'da hazır gelir. Hatırlatıcılar bildirim olarak gelir.</p><h2>2. Yol: Alarm gibi çalan bir ilaç hatırlatıcı uygulaması</h2><p>Medinder, iOS 26'daki Apple alarm sistemini kullanır. Hatırlatıcı tüm ekranı kaplar ve Saat uygulamasındaki alarm gibi çalar; büyük bir Alındı düğmesi ve erteleme vardır. Sessiz modda ve Odak açıkken de çalar.</p><ol><li>Medinder'i yükleyin ve ilacınızı adıyla, isterseniz fotoğrafıyla ekleyin.</li><li>Saatleri, günleri ya da kaç saatte bir olacağını seçin.</li><li>Medinder sorduğunda alarmlara izin verin.</li><li>Çaldığında Alındı'ya dokunun. Medinder saati kaydeder.</li></ol><h2>3. Yol: Saat uygulamasındaki alarmlar</h2><p>Saat uygulamasında normal bir alarm kurup ona ilacınızın adını verebilirsiniz. Sessizde çalar ama neyi aldığınızın kaydını tutmaz.</p><h2>Hatırlatıcılar neden sessizde çalmaz?</h2><p>Normal bildirimler zil/sessiz düğmesine ve Odak'a uyar. Yalnızca alarmlar ve kritik uyarılar bunu aşabilir. Hatırlatıcılara güveniyorsanız bunlardan birini kullanın.</p><h2>Hatırlatıcılarınızın çalıştığını kontrol edin</h2><ul><li>İki dakika sonrasına bir deneme hatırlatıcısı kurun ve telefonu sessize alın.</li><li>iPhone Ayarları'nda, kullandığınız uygulama için bildirimlere ve alarmlara izin verildiğini kontrol edin.</li><li>Alarmlar zil sesi seviyesini kullandığı için Ayarlar › Ses ve Dokunuş bölümünde ses seviyesini kontrol edin.</li></ul>",
+      "body": "<h2>1. Yol: Sağlık uygulaması</h2><ol><li>Sağlık uygulamasını açın, Göz At'a (ya da Ara'ya), ardından İlaçlar'a dokunun.</li><li>İlaç Ekle'ye dokunun ve adını, türünü ve programını girmek için adımları izleyin.</li><li>Unutursanız yeniden hatırlatılmak için aşağıdaki seçeneklere kaydırın ve takip hatırlatmalarını açın.</li><li>iPhone sessizdeyken ya da Odak açıkken hatırlatıcıları duymak için seçeneklerde Kritik Uyarılar'a dokunun ve ilaçlarınız için açın.</li></ol><p>Sağlık uygulaması ücretsizdir ve iPhone'da hazır gelir. Hatırlatıcılar bildirim olarak gelir.</p><h2>2. Yol: Alarm gibi çalan bir ilaç hatırlatıcı uygulaması</h2><p>Medind, iOS 26'daki Apple alarm sistemini kullanır. Hatırlatıcı tüm ekranı kaplar ve Saat uygulamasındaki alarm gibi çalar; büyük bir Alındı düğmesi ve erteleme vardır. Sessiz modda ve Odak açıkken de çalar.</p><ol><li>Medind'i yükleyin ve ilacınızı adıyla, isterseniz fotoğrafıyla ekleyin.</li><li>Saatleri, günleri ya da kaç saatte bir olacağını seçin.</li><li>Medind sorduğunda alarmlara izin verin.</li><li>Çaldığında Alındı'ya dokunun. Medind saati kaydeder.</li></ol><h2>3. Yol: Saat uygulamasındaki alarmlar</h2><p>Saat uygulamasında normal bir alarm kurup ona ilacınızın adını verebilirsiniz. Sessizde çalar ama neyi aldığınızın kaydını tutmaz.</p><h2>Hatırlatıcılar neden sessizde çalmaz?</h2><p>Normal bildirimler zil/sessiz düğmesine ve Odak'a uyar. Yalnızca alarmlar ve kritik uyarılar bunu aşabilir. Hatırlatıcılara güveniyorsanız bunlardan birini kullanın.</p><h2>Hatırlatıcılarınızın çalıştığını kontrol edin</h2><ul><li>İki dakika sonrasına bir deneme hatırlatıcısı kurun ve telefonu sessize alın.</li><li>iPhone Ayarları'nda, kullandığınız uygulama için bildirimlere ve alarmlara izin verildiğini kontrol edin.</li><li>Alarmlar zil sesi seviyesini kullandığı için Ayarlar › Ses ve Dokunuş bölümünde ses seviyesini kontrol edin.</li></ul>",
       "faq": [
         [
           "iPhone ilacımı almamı hatırlatabilir mi?",
-          "Evet. Sağlık uygulamasında ilaç hatırlatıcıları vardır, Medinder gibi uygulamalar da her doz saatinde alarm gibi çalabilir."
+          "Evet. Sağlık uygulamasında ilaç hatırlatıcıları vardır, Medind gibi uygulamalar da her doz saatinde alarm gibi çalabilir."
         ],
         [
           "İlaç hatırlatıcısının sessizde çalmasını nasıl sağlarım?",
-          "Sağlık uygulamasında ilaçlar için Kritik Uyarılar'ı açın ya da iPhone alarmlarını kullanan bir uygulama kullanın, örneğin iOS 26'da Medinder."
+          "Sağlık uygulamasında ilaçlar için Kritik Uyarılar'ı açın ya da iPhone alarmlarını kullanan bir uygulama kullanın, örneğin iOS 26'da Medind."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "Yaşlı annenizin ya da babanızın ilaçlarını hatırlamasına, kontrolü elinden almadan nasıl yardım edersiniz: basit düzen, çalan hatırlatıcı, basılı çizelge.",
       "h1": "Yaşlı anne babalar için ilaç hatırlatıcılar",
       "lead": "Bir ebeveyne ilaç konusunda yardım etmek, kontrol onda kaldığında en iyi sonucu verir. Bu adımlar işleri basit ve saygılı tutar.",
-      "body": "<h2>Bir sohbetle başlayın</h2><p>Neyin zor olduğunu sorun: hatırlamak mı, hapları ayırt etmek mi, yoksa dozun alınıp alınmadığını bilmek mi? Cevap neyi düzeltmeniz gerektiğini gösterir. Neyin yardımcı olacağını anneniz ya da babanız seçsin.</p><h2>İlaçları kolay ayırt edilir hale getirin</h2><p>Her kutunun üzerine adını büyük harflerle yazın ya da her hapın fotoğrafını çekin. Eczane markayı değiştirdiğinde yeni hapa birlikte bakın.</p><h2>Duyabilecekleri hatırlatıcılar seçin</h2><p>Pek çok yaşlı, telefonunu farkında olmadan sessizde tutar. Alarm gibi çalan, tek büyük düğmesi olan bir hatırlatıcı, küçük bir bildirimden daha kolaydır. Medinder bunun için tasarlandı: büyük yazı, sade sözcükler ve bir Alındı düğmesi.</p><h2>“Aldım mı?” sorusunu kolay cevaplanır yapın</h2><p>Şüphe, atlanan ya da iki kez alınan dozlara yol açar. Haftalık ilaç kutusu ya da her dozun saatini kaydeden bir uygulama bu soruyu tek bakışta cevaplar.</p><h2>Buzdolabına basılı bir çizelge asın</h2><p>Kâğıt çizelge, ziyaretçilere ve bakıcılara da yardımcı olur. Ücretsiz <a href=\"{L}/tools/medication-schedule-maker/\">ilaç çizelgesi aracıyla</a> bir tane hazırlayın.</p><h2>Kontrolü elinden almadan haberleşin</h2><p>Her hafta aynı saatte haftaya birlikte göz attığınız kısa bir telefon görüşmesi, her gün kontrol etmekten daha iyi işler. İyi geçen bir haftayı kutlayın.</p><h2>Eczacıya sorun</h2><p>Anneniz ya da babanız çok sayıda ilaç kullanıyorsa ilaçların gözden geçirilmesini isteyin. Eczacılar çoğu zaman saatleri sadeleştirebilir ya da günlük blister paketler önerebilir.</p>",
+      "body": "<h2>Bir sohbetle başlayın</h2><p>Neyin zor olduğunu sorun: hatırlamak mı, hapları ayırt etmek mi, yoksa dozun alınıp alınmadığını bilmek mi? Cevap neyi düzeltmeniz gerektiğini gösterir. Neyin yardımcı olacağını anneniz ya da babanız seçsin.</p><h2>İlaçları kolay ayırt edilir hale getirin</h2><p>Her kutunun üzerine adını büyük harflerle yazın ya da her hapın fotoğrafını çekin. Eczane markayı değiştirdiğinde yeni hapa birlikte bakın.</p><h2>Duyabilecekleri hatırlatıcılar seçin</h2><p>Pek çok yaşlı, telefonunu farkında olmadan sessizde tutar. Alarm gibi çalan, tek büyük düğmesi olan bir hatırlatıcı, küçük bir bildirimden daha kolaydır. Medind bunun için tasarlandı: büyük yazı, sade sözcükler ve bir Alındı düğmesi.</p><h2>“Aldım mı?” sorusunu kolay cevaplanır yapın</h2><p>Şüphe, atlanan ya da iki kez alınan dozlara yol açar. Haftalık ilaç kutusu ya da her dozun saatini kaydeden bir uygulama bu soruyu tek bakışta cevaplar.</p><h2>Buzdolabına basılı bir çizelge asın</h2><p>Kâğıt çizelge, ziyaretçilere ve bakıcılara da yardımcı olur. Ücretsiz <a href=\"{L}/tools/medication-schedule-maker/\">ilaç çizelgesi aracıyla</a> bir tane hazırlayın.</p><h2>Kontrolü elinden almadan haberleşin</h2><p>Her hafta aynı saatte haftaya birlikte göz attığınız kısa bir telefon görüşmesi, her gün kontrol etmekten daha iyi işler. İyi geçen bir haftayı kutlayın.</p><h2>Eczacıya sorun</h2><p>Anneniz ya da babanız çok sayıda ilaç kullanıyorsa ilaçların gözden geçirilmesini isteyin. Eczacılar çoğu zaman saatleri sadeleştirebilir ya da günlük blister paketler önerebilir.</p>",
       "faq": [
         [
           "Yaşlı biri için en iyi ilaç hatırlatıcı hangisidir?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: İlaç Hatırlatıcı",
+    "name": "Medind: İlaç Hatırlatıcı",
     "subtitle": "Hap alarmı ve doz takibi",
     "keywords": "hatırlatma,ilaçlarım,tablet,vitamin,program,saati,yaşlı,çizelge,günlük,takvim,tansiyon,zamanı,kutusu"
   },

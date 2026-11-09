@@ -14,13 +14,13 @@
     "language": "Language",
     "footer_privacy": "Privacy policy",
     "footer_support": "Support",
-    "footer_note": "Medinder is a reminder app. It does not give medical advice. Always follow the instructions from your doctor or pharmacist.",
+    "footer_note": "Medind is a reminder app. It does not give medical advice. Always follow the instructions from your doctor or pharmacist.",
     "updated": "Last updated",
     "read_more": "Read the guide",
     "open_tool": "Open the tool",
     "faq_title": "Questions and answers",
     "cta_title": "Never wonder “did I take it?” again",
-    "cta_text": "Medinder rings until you tap Taken, and shows you what you took and when.",
+    "cta_text": "Medind rings until you tap Taken, and shows you what you took and when.",
     "breadcrumb_home": "Home",
     "related": "You might also like",
     "not_found_title": "Page not found",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – Pill Reminder & Medication Tracker for iPhone",
-      "description": "Medinder is a simple pill reminder app for iPhone. Reminders ring like an alarm, even on silent. Tap Taken and see what you took and when. No account, data stays on your phone.",
+      "title": "Medind – Pill Reminder & Medication Tracker for iPhone",
+      "description": "Medind is a simple pill reminder app for iPhone. Reminders ring like an alarm, even on silent. Tap Taken and see what you took and when. No account, data stays on your phone.",
       "h1": "The pill reminder that rings until you take it",
-      "lead": "Medinder is a simple medication reminder app for iPhone. It rings like an alarm, even when your phone is on silent, and keeps a clear record of every dose you take.",
-      "body": "<section class=\"features\"><h2>Everything you need, nothing you don't</h2><ul class=\"cards\"><li><h3>Rings like an alarm</h3><p>Reminders ring through silent mode and Focus, with a big Taken button and snooze. You will hear it.</p></li><li><h3>Did I take it? One look</h3><p>The Today screen shows each dose with the time you took it. The calendar shows every day before.</p></li><li><h3>Your medication, your words</h3><p>Type the name you use and add a photo of the pill or box, so you always know which one is which.</p></li><li><h3>Any schedule</h3><p>Times each day, chosen weekdays, every few days, every few hours, or only when needed.</p></li><li><h3>Big, clear and calm</h3><p>Large text, large buttons, plain words. Made so anyone can use it without help.</p></li><li><h3>Private by design</h3><p>No account and no ads. Everything you enter stays on your iPhone.</p></li></ul></section><section><h2>Set up in three steps</h2><ol class=\"steps\"><li><strong>Add a medication.</strong> Type its name and take a photo if you like.</li><li><strong>Choose when.</strong> Pick the times and days, or every few hours.</li><li><strong>Tap Taken when it rings.</strong> Medinder saves the time, so you never have to remember.</li></ol></section><section><h2>Also included</h2><ul class=\"ticks\"><li>A home screen and lock screen widget with a Taken button</li><li>Measurements such as blood pressure, pulse and weight, saved as you type them</li><li>Steps and other values from Apple Health, shown live and never saved</li><li>Export and backup of everything you entered</li><li>18 languages</li></ul></section><section class=\"note\"><h2>If you stop paying, your reminders keep ringing</h2><p>Medinder is a subscription with a clear price shown in the App Store before you pay. Reminders you have already set keep working even if your subscription ends. Medication reminders are too important to switch off.</p></section>",
+      "lead": "Medind is a simple medication reminder app for iPhone. It rings like an alarm, even when your phone is on silent, and keeps a clear record of every dose you take.",
+      "body": "<section class=\"features\"><h2>Everything you need, nothing you don't</h2><ul class=\"cards\"><li><h3>Rings like an alarm</h3><p>Reminders ring through silent mode and Focus, with a big Taken button and snooze. You will hear it.</p></li><li><h3>Did I take it? One look</h3><p>The Today screen shows each dose with the time you took it. The calendar shows every day before.</p></li><li><h3>Your medication, your words</h3><p>Type the name you use and add a photo of the pill or box, so you always know which one is which.</p></li><li><h3>Any schedule</h3><p>Times each day, chosen weekdays, every few days, every few hours, or only when needed.</p></li><li><h3>Big, clear and calm</h3><p>Large text, large buttons, plain words. Made so anyone can use it without help.</p></li><li><h3>Private by design</h3><p>No account and no ads. Everything you enter stays on your iPhone.</p></li></ul></section><section><h2>Set up in three steps</h2><ol class=\"steps\"><li><strong>Add a medication.</strong> Type its name and take a photo if you like.</li><li><strong>Choose when.</strong> Pick the times and days, or every few hours.</li><li><strong>Tap Taken when it rings.</strong> Medind saves the time, so you never have to remember.</li></ol></section><section><h2>Also included</h2><ul class=\"ticks\"><li>A home screen and lock screen widget with a Taken button</li><li>Measurements such as blood pressure, pulse and weight, saved as you type them</li><li>Steps and other values from Apple Health, shown live and never saved</li><li>Export and backup of everything you entered</li><li>18 languages</li></ul></section><section class=\"note\"><h2>If you stop paying, your reminders keep ringing</h2><p>Medind is a subscription with a clear price shown in the App Store before you pay. Reminders you have already set keep working even if your subscription ends. Medication reminders are too important to switch off.</p></section>",
       "faq": [
         [
-          "Does Medinder ring when my iPhone is on silent?",
-          "Yes. Medinder uses Apple's alarm system for iOS 26, so reminders ring through silent mode and Focus, just like the Clock app's alarms."
+          "Does Medind ring when my iPhone is on silent?",
+          "Yes. Medind uses Apple's alarm system for iOS 26, so reminders ring through silent mode and Focus, just like the Clock app's alarms."
         ],
         [
-          "Is Medinder good for older adults?",
+          "Is Medind good for older adults?",
           "Yes. It was made for people over 60: large text, large buttons, plain words and one main action on each screen."
         ],
         [
@@ -48,61 +48,61 @@
           "No. There is no sign-up and no login. Everything you enter stays on your iPhone."
         ],
         [
-          "Does Medinder give medical advice?",
-          "No. Medinder never tells you what or how much to take. It reminds you at the times you choose and records what you mark as taken."
+          "Does Medind give medical advice?",
+          "No. Medind never tells you what or how much to take. It reminds you at the times you choose and records what you mark as taken."
         ],
         [
           "Can I track medication that I take only when needed?",
-          "Yes. Add it as “when needed” and tap Taken each time you take it. Medinder saves the time."
+          "Yes. Add it as “when needed” and tap Taken each time you take it. Medind saves the time."
         ],
         [
-          "What does Medinder cost?",
-          "Medinder is a subscription. The price for your country is shown in the App Store and in the app before you pay, and you can restore your purchase at any time."
+          "What does Medind cost?",
+          "Medind is a subscription. The price for your country is shown in the App Store and in the app before you pay, and you can restore your purchase at any time."
         ]
       ]
     },
     "privacy": {
-      "title": "Privacy Policy – Medinder",
-      "description": "How Medinder handles your data: no account, no ads, no tracking. Your medication data stays on your iPhone.",
+      "title": "Privacy Policy – Medind",
+      "description": "How Medind handles your data: no account, no ads, no tracking. Your medication data stays on your iPhone.",
       "h1": "Privacy policy",
       "lead": "Short version: everything you enter stays on your iPhone. We have no account system, no ads and no analytics, and we never see your medication or health data.",
-      "body": "<h2>What Medinder stores</h2><p>Your medications, photos, schedules, the doses you mark as taken, notes and measurements are stored only on your iPhone, inside the app. The widget reads the same data on the same phone. We do not have a server that receives this data.</p><h2>Apple Health</h2><p>If you allow it, Medinder reads steps, pulse, weight and blood pressure from Apple Health to show them in the app. These values are read live and are never saved by Medinder, never included in backups and never sent anywhere. Medinder does not write anything to Apple Health.</p><h2>Camera and photos</h2><p>If you take a photo of a medication, the photo is stored on your iPhone only.</p><h2>Purchases</h2><p>Payments are handled by Apple. To check whether your subscription is active, Medinder uses RevenueCat, a subscription service. RevenueCat receives an anonymous app ID and purchase information such as which subscription you bought and when. It never receives your medication, measurement or health data. See <a href=\"https://www.revenuecat.com/privacy\">RevenueCat's privacy policy</a>.</p><h2>No tracking, no ads, no analytics</h2><p>Medinder contains no advertising, no tracking and no analytics. We do not sell or share your data.</p><h2>Backups and exports</h2><p>You can export your data or make a backup file from the app. That file is created on your phone and goes only where you choose to send or save it. If you use iPhone backup (iCloud or computer), Apple may include the app's data in that backup, as for any app; this is controlled by you in your iPhone settings.</p><h2>Reminders</h2><p>Reminders and alarms are scheduled on your iPhone. They do not go through any server.</p><h2>Deleting your data</h2><p>Delete the app to delete all data stored by Medinder on your iPhone. Because we never receive your medication data, there is nothing for us to delete on our side.</p><h2>Children</h2><p>Medinder is not directed at children under 13.</p><h2>This website</h2><p>This website uses no cookies and no tracking. The free tools on this site run in your browser; what you type into them is not sent anywhere.</p><h2>Changes</h2><p>If this policy changes, we will update this page and the date below.</p><h2>Contact</h2><p>Questions about privacy: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>What Medind stores</h2><p>Your medications, photos, schedules, the doses you mark as taken, notes and measurements are stored only on your iPhone, inside the app. The widget reads the same data on the same phone. We do not have a server that receives this data.</p><h2>Apple Health</h2><p>If you allow it, Medind reads steps, pulse, weight and blood pressure from Apple Health to show them in the app. These values are read live and are never saved by Medind, never included in backups and never sent anywhere. Medind does not write anything to Apple Health.</p><h2>Camera and photos</h2><p>If you take a photo of a medication, the photo is stored on your iPhone only.</p><h2>Purchases</h2><p>Payments are handled by Apple. To check whether your subscription is active, Medind uses RevenueCat, a subscription service. RevenueCat receives an anonymous app ID and purchase information such as which subscription you bought and when. It never receives your medication, measurement or health data. See <a href=\"https://www.revenuecat.com/privacy\">RevenueCat's privacy policy</a>.</p><h2>No tracking, no ads, no analytics</h2><p>Medind contains no advertising, no tracking and no analytics. We do not sell or share your data.</p><h2>Backups and exports</h2><p>You can export your data or make a backup file from the app. That file is created on your phone and goes only where you choose to send or save it. If you use iPhone backup (iCloud or computer), Apple may include the app's data in that backup, as for any app; this is controlled by you in your iPhone settings.</p><h2>Reminders</h2><p>Reminders and alarms are scheduled on your iPhone. They do not go through any server.</p><h2>Deleting your data</h2><p>Delete the app to delete all data stored by Medind on your iPhone. Because we never receive your medication data, there is nothing for us to delete on our side.</p><h2>Children</h2><p>Medind is not directed at children under 13.</p><h2>This website</h2><p>This website uses no cookies and no tracking. The free tools on this site run in your browser; what you type into them is not sent anywhere.</p><h2>Changes</h2><p>If this policy changes, we will update this page and the date below.</p><h2>Contact</h2><p>Questions about privacy: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Support – Medinder Pill Reminder",
-      "description": "Get help with Medinder: reminders, purchases, backups and more. Email us and we will reply as soon as we can.",
+      "title": "Support – Medind Pill Reminder",
+      "description": "Get help with Medind: reminders, purchases, backups and more. Email us and we will reply as soon as we can.",
       "h1": "Support",
       "lead": "Need help or have an idea? Email us. A real person reads every message.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Email {EMAIL}</a></p><p>Please tell us your iPhone model and what you expected to happen. A screenshot helps a lot.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">Email {EMAIL}</a></p><p>Please tell us your iPhone model and what you expected to happen. A screenshot helps a lot.</p>",
       "faq": [
         [
           "My reminder did not ring. What should I do?",
-          "Open Medinder and go to Settings. Under Reminders you can see whether Medinder is allowed to ring, turn reminders on, and tap Test reminder to hear one. If reminders are off, tap Open Settings and allow alarms and notifications for Medinder."
+          "Open Medind and go to Settings. Under Reminders you can see whether Medind is allowed to ring, turn reminders on, and tap Test reminder to hear one. If reminders are off, tap Open Settings and allow alarms and notifications for Medind."
         ],
         [
           "How do I restore my purchase on a new iPhone?",
-          "Sign in with the same Apple Account, open Medinder, go to Settings and tap Restore purchase."
+          "Sign in with the same Apple Account, open Medind, go to Settings and tap Restore purchase."
         ],
         [
           "How do I cancel my subscription?",
-          "Subscriptions are managed by Apple. Open the Settings app on your iPhone, tap your name, then Subscriptions, and choose Medinder. Your reminders keep ringing after you cancel."
+          "Subscriptions are managed by Apple. Open the Settings app on your iPhone, tap your name, then Subscriptions, and choose Medind. Your reminders keep ringing after you cancel."
         ],
         [
           "How do I move my data to a new iPhone?",
-          "In Medinder's Settings, tap Save a backup and keep the file, for example in iCloud Drive or email it to yourself. On the new iPhone, open Settings in Medinder and tap Restore a backup. You can also restore your whole iPhone from an iCloud or computer backup."
+          "In Medind's Settings, tap Save a backup and keep the file, for example in iCloud Drive or email it to yourself. On the new iPhone, open Settings in Medind and tap Restore a backup. You can also restore your whole iPhone from an iCloud or computer backup."
         ],
         [
           "How do I export my history or measurements?",
-          "In Medinder's Settings, tap Export my data. You get a file you can share with your doctor or save."
+          "In Medind's Settings, tap Export my data. You get a file you can share with your doctor or save."
         ],
         [
-          "Which languages does Medinder support?",
+          "Which languages does Medind support?",
           "English, Arabic, Chinese (Traditional), Dutch, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Thai, Turkish and Vietnamese."
         ],
         [
-          "Does Medinder work on Android or Apple Watch?",
-          "Not yet. Medinder is for iPhone with iOS 26 or later."
+          "Does Medind work on Android or Apple Watch?",
+          "Not yet. Medind is for iPhone with iOS 26 or later."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Free dose time calculator: enter your first dose time and how many hours apart, and get every dose time for the day. Works for every 4, 6, 8 or 12 hours.",
       "h1": "Dose time calculator",
       "lead": "Enter the time of your first dose and how many hours apart your doses are. You get the clock time of every dose in a day.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>First dose<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Every<select id=\"every\"><option value=\"4\">4 hours</option><option value=\"6\">6 hours</option><option value=\"8\" selected>8 hours</option><option value=\"12\">12 hours</option><option value=\"24\">24 hours</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">This tool only does the clock math. Always take your medication the way your doctor, pharmacist or the package leaflet says.</p><h2>How it works</h2><p>A day has 24 hours. If you take a medication every 8 hours, that is 3 doses a day: for example 8:00, 16:00 and 0:00. Every 6 hours is 4 doses, every 4 hours is 6 doses and every 12 hours is 2 doses.</p><h2>Tips for doses through the night</h2><ul><li>Choose a first dose time that puts the night dose when you are usually awake, if your instructions allow it.</li><li>Ask your pharmacist whether the times can move a little to fit your sleep.</li><li>Use an alarm that rings even when the phone is on silent, so a night dose is not missed.</li></ul><p>Medinder can remind you every few hours automatically and rings even on silent.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>First dose<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Every<select id=\"every\"><option value=\"4\">4 hours</option><option value=\"6\">6 hours</option><option value=\"8\" selected>8 hours</option><option value=\"12\">12 hours</option><option value=\"24\">24 hours</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">This tool only does the clock math. Always take your medication the way your doctor, pharmacist or the package leaflet says.</p><h2>How it works</h2><p>A day has 24 hours. If you take a medication every 8 hours, that is 3 doses a day: for example 8:00, 16:00 and 0:00. Every 6 hours is 4 doses, every 4 hours is 6 doses and every 12 hours is 2 doses.</p><h2>Tips for doses through the night</h2><ul><li>Choose a first dose time that puts the night dose when you are usually awake, if your instructions allow it.</li><li>Ask your pharmacist whether the times can move a little to fit your sleep.</li><li>Use an alarm that rings even when the phone is on silent, so a night dose is not missed.</li></ul><p>Medind can remind you every few hours automatically and rings even on silent.</p>",
       "js": {
         "doses": "{n} doses a day",
         "dose": "Dose {n}",
@@ -145,7 +145,7 @@
       "description": "Make a printable medication schedule in one minute. Add each medication and its times, then print a weekly pill chart with check boxes. Free and private.",
       "h1": "Printable medication schedule maker",
       "lead": "Add your medications and times, then print a weekly chart with a box to tick for every dose. Good for the fridge, a care home or a family member who helps.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Add medication</button><label>Chart title<input type=\"text\" id=\"chart-title\" value=\"My medications\"></label><button type=\"button\" class=\"button\" id=\"print\">Print chart</button></form><div class=\"chart\" id=\"chart\"></div><h2>How to use the chart</h2><ol><li>Write each medication the way it says on the box, so anyone can find the right one.</li><li>Add one time for each dose. A medication you take morning and evening gets two times.</li><li>Print it and tick the box each time you take a dose.</li></ol><p>Prefer your phone? Medinder does this for you, rings at each time and saves the time you tapped Taken.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Add medication</button><label>Chart title<input type=\"text\" id=\"chart-title\" value=\"My medications\"></label><button type=\"button\" class=\"button\" id=\"print\">Print chart</button></form><div class=\"chart\" id=\"chart\"></div><h2>How to use the chart</h2><ol><li>Write each medication the way it says on the box, so anyone can find the right one.</li><li>Add one time for each dose. A medication you take morning and evening gets two times.</li><li>Print it and tick the box each time you take a dose.</li></ol><p>Prefer your phone? Medind does this for you, rings at each time and saves the time you tapped Taken.</p>",
       "js": {
         "name": "Medication",
         "name_ph": "for example Metformin 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "How to Set Medication Reminders on iPhone (That Ring on Silent)",
-      "description": "Step-by-step: set medication reminders on iPhone with the Health app or an app like Medinder, and make sure they ring when your iPhone is on silent.",
+      "description": "Step-by-step: set medication reminders on iPhone with the Health app or an app like Medind, and make sure they ring when your iPhone is on silent.",
       "h1": "How to set medication reminders on iPhone",
       "lead": "Your iPhone can remind you to take your medication in a few ways. Here is how each one works, and how to make sure the reminder is not silenced.",
-      "body": "<h2>Option 1: The Health app</h2><ol><li>Open the Health app and tap Browse (or Search), then Medications.</li><li>Tap Add Medication and follow the steps to enter the name, type and schedule.</li><li>To be reminded again if you forget, scroll down to Options and turn on Follow Up Reminders.</li><li>To hear reminders when the iPhone is muted or in a Focus, tap Critical Alerts in Options and turn them on for your medications.</li></ol><p>The Health app is free and built in. Reminders arrive as notifications.</p><h2>Option 2: A pill reminder app that rings like an alarm</h2><p>Medinder uses Apple's alarm system on iOS 26. A reminder fills the screen and rings like the Clock app's alarm, with a large Taken button and snooze. It rings through silent mode and Focus.</p><ol><li>Install Medinder and add your medication by name, with a photo if you like.</li><li>Choose the times, days or every few hours.</li><li>Allow alarms when Medinder asks.</li><li>When it rings, tap Taken. Medinder saves the time.</li></ol><h2>Option 3: Clock app alarms</h2><p>You can set an ordinary alarm in the Clock app and name it after your medication. It rings on silent, but it does not keep a record of what you took.</p><h2>Why do reminders not ring on silent?</h2><p>Normal notifications follow the ring/silent switch and Focus. Only alarms and critical alerts break through. If you rely on reminders, use one of those.</p><h2>Check your reminders work</h2><ul><li>Set a test reminder two minutes from now and put the phone on silent.</li><li>In iPhone Settings, check that notifications and alarms are allowed for the app you use.</li><li>Check the volume in Settings › Sounds, because alarms use the ringer volume.</li></ul>",
+      "body": "<h2>Option 1: The Health app</h2><ol><li>Open the Health app and tap Browse (or Search), then Medications.</li><li>Tap Add Medication and follow the steps to enter the name, type and schedule.</li><li>To be reminded again if you forget, scroll down to Options and turn on Follow Up Reminders.</li><li>To hear reminders when the iPhone is muted or in a Focus, tap Critical Alerts in Options and turn them on for your medications.</li></ol><p>The Health app is free and built in. Reminders arrive as notifications.</p><h2>Option 2: A pill reminder app that rings like an alarm</h2><p>Medind uses Apple's alarm system on iOS 26. A reminder fills the screen and rings like the Clock app's alarm, with a large Taken button and snooze. It rings through silent mode and Focus.</p><ol><li>Install Medind and add your medication by name, with a photo if you like.</li><li>Choose the times, days or every few hours.</li><li>Allow alarms when Medind asks.</li><li>When it rings, tap Taken. Medind saves the time.</li></ol><h2>Option 3: Clock app alarms</h2><p>You can set an ordinary alarm in the Clock app and name it after your medication. It rings on silent, but it does not keep a record of what you took.</p><h2>Why do reminders not ring on silent?</h2><p>Normal notifications follow the ring/silent switch and Focus. Only alarms and critical alerts break through. If you rely on reminders, use one of those.</p><h2>Check your reminders work</h2><ul><li>Set a test reminder two minutes from now and put the phone on silent.</li><li>In iPhone Settings, check that notifications and alarms are allowed for the app you use.</li><li>Check the volume in Settings › Sounds, because alarms use the ringer volume.</li></ul>",
       "faq": [
         [
           "Can iPhone remind me to take medication?",
-          "Yes. The Health app has medication reminders, and apps like Medinder can ring like an alarm at each dose time."
+          "Yes. The Health app has medication reminders, and apps like Medind can ring like an alarm at each dose time."
         ],
         [
           "How do I make medication reminders ring on silent?",
-          "Turn on Critical Alerts for medications in the Health app, or use an app that uses iPhone alarms, such as Medinder on iOS 26."
+          "Turn on Critical Alerts for medications in the Health app, or use an app that uses iPhone alarms, such as Medind on iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "How to help an elderly parent remember their medication without taking over: simple routines, reminders that ring, printed charts and respectful check-ins.",
       "h1": "Medication reminders for elderly parents",
       "lead": "Helping a parent with medication works best when they stay in charge. These steps keep things simple and respectful.",
-      "body": "<h2>Start with a conversation</h2><p>Ask what is hard: remembering, telling pills apart, or knowing whether a dose was taken. The answer tells you what to fix. Let your parent choose what helps.</p><h2>Make the medications easy to tell apart</h2><p>Write the name in large letters on each box, or take a photo of each pill. When the pharmacy changes the brand, look together at the new pill.</p><h2>Choose reminders they can hear</h2><p>Many older adults keep their phone on silent by accident. A reminder that rings like an alarm, with one big button, is easier than a small notification. Medinder was designed for this: large text, plain words and a Taken button.</p><h2>Make “did I take it?” easy to answer</h2><p>Doubt leads to skipped or double doses. A pillbox or an app that records the time of each dose answers the question in one look.</p><h2>Put a printed schedule on the fridge</h2><p>A paper chart helps visitors and carers too. Make one with the free <a href=\"{L}/tools/medication-schedule-maker/\">medication schedule maker</a>.</p><h2>Check in without taking over</h2><p>A short call at the same time each week to look at the week together works better than daily checks. Celebrate a good week.</p><h2>Ask the pharmacist</h2><p>Ask for a medication review if your parent takes many medicines. Pharmacists can often simplify times or suggest blister packs.</p>",
+      "body": "<h2>Start with a conversation</h2><p>Ask what is hard: remembering, telling pills apart, or knowing whether a dose was taken. The answer tells you what to fix. Let your parent choose what helps.</p><h2>Make the medications easy to tell apart</h2><p>Write the name in large letters on each box, or take a photo of each pill. When the pharmacy changes the brand, look together at the new pill.</p><h2>Choose reminders they can hear</h2><p>Many older adults keep their phone on silent by accident. A reminder that rings like an alarm, with one big button, is easier than a small notification. Medind was designed for this: large text, plain words and a Taken button.</p><h2>Make “did I take it?” easy to answer</h2><p>Doubt leads to skipped or double doses. A pillbox or an app that records the time of each dose answers the question in one look.</p><h2>Put a printed schedule on the fridge</h2><p>A paper chart helps visitors and carers too. Make one with the free <a href=\"{L}/tools/medication-schedule-maker/\">medication schedule maker</a>.</p><h2>Check in without taking over</h2><p>A short call at the same time each week to look at the week together works better than daily checks. Celebrate a good week.</p><h2>Ask the pharmacist</h2><p>Ask for a medication review if your parent takes many medicines. Pharmacists can often simplify times or suggest blister packs.</p>",
       "faq": [
         [
           "What is the best medication reminder for an elderly person?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Pill Reminder",
+    "name": "Medind: Pill Reminder",
     "subtitle": "Medication tracker & alarm",
     "keywords": "medicine,meds,dose,pills,schedule,elderly,senior,log,rx,vitamin,tablet,pillbox,caregiver,adherence"
   },

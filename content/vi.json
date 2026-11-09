@@ -14,13 +14,13 @@
     "language": "Ngôn ngữ",
     "footer_privacy": "Chính sách quyền riêng tư",
     "footer_support": "Hỗ trợ",
-    "footer_note": "Medinder là ứng dụng nhắc nhở. Ứng dụng không đưa ra lời khuyên y tế. Hãy luôn làm theo hướng dẫn của bác sĩ hoặc dược sĩ.",
+    "footer_note": "Medind là ứng dụng nhắc nhở. Ứng dụng không đưa ra lời khuyên y tế. Hãy luôn làm theo hướng dẫn của bác sĩ hoặc dược sĩ.",
     "updated": "Cập nhật lần cuối",
     "read_more": "Đọc hướng dẫn",
     "open_tool": "Mở công cụ",
     "faq_title": "Câu hỏi thường gặp",
     "cta_title": "Không bao giờ phải tự hỏi “mình uống thuốc chưa?” nữa",
-    "cta_text": "Medinder đổ chuông cho đến khi bạn chạm Đã uống, và cho bạn thấy đã uống thuốc gì, lúc nào.",
+    "cta_text": "Medind đổ chuông cho đến khi bạn chạm Đã uống, và cho bạn thấy đã uống thuốc gì, lúc nào.",
     "breadcrumb_home": "Trang chủ",
     "related": "Có thể bạn cũng thích",
     "not_found_title": "Không tìm thấy trang",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – Ứng dụng nhắc uống thuốc cho iPhone",
-      "description": "Medinder là ứng dụng nhắc uống thuốc đơn giản cho iPhone. Reo như báo thức, cả khi im lặng. Chạm Đã uống để biết đã uống gì, lúc nào. Không cần tài khoản.",
+      "title": "Medind – Ứng dụng nhắc uống thuốc cho iPhone",
+      "description": "Medind là ứng dụng nhắc uống thuốc đơn giản cho iPhone. Reo như báo thức, cả khi im lặng. Chạm Đã uống để biết đã uống gì, lúc nào. Không cần tài khoản.",
       "h1": "Ứng dụng nhắc uống thuốc reo cho đến khi bạn uống",
-      "lead": "Medinder là ứng dụng nhắc uống thuốc đơn giản cho iPhone. Chuông reo như báo thức, kể cả khi điện thoại đang ở chế độ im lặng, và ghi lại rõ ràng mỗi lần bạn uống thuốc.",
-      "body": "<section class=\"features\"><h2>Đủ những gì bạn cần, không thừa thứ gì</h2><ul class=\"cards\"><li><h3>Reo như báo thức</h3><p>Lời nhắc reo cả khi bật chế độ im lặng và Tập trung, có nút Đã uống thật to và nút báo lại. Bạn sẽ nghe thấy.</p></li><li><h3>Đã uống chưa? Nhìn là biết</h3><p>Màn hình Hôm nay hiện từng liều cùng giờ bạn đã uống. Lịch hiện tất cả những ngày trước đó.</p></li><li><h3>Thuốc của bạn, tên do bạn đặt</h3><p>Gõ tên bạn quen gọi và thêm ảnh viên thuốc hoặc hộp thuốc, để luôn biết thuốc nào là thuốc nào.</p></li><li><h3>Lịch nào cũng được</h3><p>Nhiều giờ mỗi ngày, các ngày chọn trong tuần, vài ngày một lần, vài giờ một lần, hoặc chỉ khi cần.</p></li><li><h3>Chữ to, rõ ràng, dễ chịu</h3><p>Chữ to, nút to, lời lẽ đơn giản. Ai cũng tự dùng được, không cần người giúp.</p></li><li><h3>Riêng tư ngay từ đầu</h3><p>Không tài khoản, không quảng cáo. Mọi thứ bạn nhập đều ở lại trên iPhone của bạn.</p></li></ul></section><section><h2>Cài đặt trong ba bước</h2><ol class=\"steps\"><li><strong>Thêm thuốc.</strong> Gõ tên thuốc và chụp ảnh nếu muốn.</li><li><strong>Chọn giờ.</strong> Chọn giờ và ngày, hoặc vài giờ một lần.</li><li><strong>Chạm Đã uống khi chuông reo.</strong> Medinder lưu lại giờ, bạn không cần phải nhớ.</li></ol></section><section><h2>Còn có thêm</h2><ul class=\"ticks\"><li>Tiện ích trên màn hình chính và màn hình khóa, có nút Đã uống</li><li>Chỉ số như huyết áp, nhịp tim và cân nặng, lưu đúng như bạn nhập</li><li>Số bước chân và các chỉ số khác từ Apple Health, hiển thị trực tiếp và không bao giờ được lưu</li><li>Xuất và sao lưu mọi thứ bạn đã nhập</li><li>18 ngôn ngữ</li></ul></section><section class=\"note\"><h2>Nếu bạn ngừng trả tiền, lời nhắc vẫn tiếp tục reo</h2><p>Medinder là gói đăng ký, giá được ghi rõ trên App Store trước khi bạn thanh toán. Những lời nhắc bạn đã đặt vẫn hoạt động ngay cả khi gói đăng ký kết thúc. Nhắc uống thuốc quá quan trọng để bị tắt đi.</p></section>",
+      "lead": "Medind là ứng dụng nhắc uống thuốc đơn giản cho iPhone. Chuông reo như báo thức, kể cả khi điện thoại đang ở chế độ im lặng, và ghi lại rõ ràng mỗi lần bạn uống thuốc.",
+      "body": "<section class=\"features\"><h2>Đủ những gì bạn cần, không thừa thứ gì</h2><ul class=\"cards\"><li><h3>Reo như báo thức</h3><p>Lời nhắc reo cả khi bật chế độ im lặng và Tập trung, có nút Đã uống thật to và nút báo lại. Bạn sẽ nghe thấy.</p></li><li><h3>Đã uống chưa? Nhìn là biết</h3><p>Màn hình Hôm nay hiện từng liều cùng giờ bạn đã uống. Lịch hiện tất cả những ngày trước đó.</p></li><li><h3>Thuốc của bạn, tên do bạn đặt</h3><p>Gõ tên bạn quen gọi và thêm ảnh viên thuốc hoặc hộp thuốc, để luôn biết thuốc nào là thuốc nào.</p></li><li><h3>Lịch nào cũng được</h3><p>Nhiều giờ mỗi ngày, các ngày chọn trong tuần, vài ngày một lần, vài giờ một lần, hoặc chỉ khi cần.</p></li><li><h3>Chữ to, rõ ràng, dễ chịu</h3><p>Chữ to, nút to, lời lẽ đơn giản. Ai cũng tự dùng được, không cần người giúp.</p></li><li><h3>Riêng tư ngay từ đầu</h3><p>Không tài khoản, không quảng cáo. Mọi thứ bạn nhập đều ở lại trên iPhone của bạn.</p></li></ul></section><section><h2>Cài đặt trong ba bước</h2><ol class=\"steps\"><li><strong>Thêm thuốc.</strong> Gõ tên thuốc và chụp ảnh nếu muốn.</li><li><strong>Chọn giờ.</strong> Chọn giờ và ngày, hoặc vài giờ một lần.</li><li><strong>Chạm Đã uống khi chuông reo.</strong> Medind lưu lại giờ, bạn không cần phải nhớ.</li></ol></section><section><h2>Còn có thêm</h2><ul class=\"ticks\"><li>Tiện ích trên màn hình chính và màn hình khóa, có nút Đã uống</li><li>Chỉ số như huyết áp, nhịp tim và cân nặng, lưu đúng như bạn nhập</li><li>Số bước chân và các chỉ số khác từ Apple Health, hiển thị trực tiếp và không bao giờ được lưu</li><li>Xuất và sao lưu mọi thứ bạn đã nhập</li><li>18 ngôn ngữ</li></ul></section><section class=\"note\"><h2>Nếu bạn ngừng trả tiền, lời nhắc vẫn tiếp tục reo</h2><p>Medind là gói đăng ký, giá được ghi rõ trên App Store trước khi bạn thanh toán. Những lời nhắc bạn đã đặt vẫn hoạt động ngay cả khi gói đăng ký kết thúc. Nhắc uống thuốc quá quan trọng để bị tắt đi.</p></section>",
       "faq": [
         [
-          "Medinder có reo khi iPhone để im lặng không?",
-          "Có. Medinder dùng hệ thống báo thức của Apple trên iOS 26, nên lời nhắc reo cả khi bật chế độ im lặng và Tập trung, giống như báo thức của ứng dụng Đồng hồ."
+          "Medind có reo khi iPhone để im lặng không?",
+          "Có. Medind dùng hệ thống báo thức của Apple trên iOS 26, nên lời nhắc reo cả khi bật chế độ im lặng và Tập trung, giống như báo thức của ứng dụng Đồng hồ."
         ],
         [
-          "Medinder có phù hợp với người cao tuổi không?",
+          "Medind có phù hợp với người cao tuổi không?",
           "Có. Ứng dụng được làm cho người trên 60 tuổi: chữ to, nút to, lời lẽ đơn giản và mỗi màn hình chỉ có một việc chính."
         ],
         [
@@ -48,61 +48,61 @@
           "Không. Không cần đăng ký, không cần đăng nhập. Mọi thứ bạn nhập đều ở lại trên iPhone của bạn."
         ],
         [
-          "Medinder có đưa ra lời khuyên y tế không?",
-          "Không. Medinder không bao giờ bảo bạn uống thuốc gì hay uống bao nhiêu. Ứng dụng nhắc bạn vào giờ bạn chọn và ghi lại những gì bạn đánh dấu là đã uống."
+          "Medind có đưa ra lời khuyên y tế không?",
+          "Không. Medind không bao giờ bảo bạn uống thuốc gì hay uống bao nhiêu. Ứng dụng nhắc bạn vào giờ bạn chọn và ghi lại những gì bạn đánh dấu là đã uống."
         ],
         [
           "Tôi có theo dõi được thuốc chỉ uống khi cần không?",
-          "Được. Thêm thuốc với lựa chọn “Khi cần thiết” và chạm Đã uống mỗi lần bạn uống. Medinder sẽ lưu lại giờ."
+          "Được. Thêm thuốc với lựa chọn “Khi cần thiết” và chạm Đã uống mỗi lần bạn uống. Medind sẽ lưu lại giờ."
         ],
         [
-          "Medinder giá bao nhiêu?",
-          "Medinder là gói đăng ký. Giá cho quốc gia của bạn được hiển thị trên App Store và trong ứng dụng trước khi bạn thanh toán, và bạn có thể khôi phục giao dịch mua bất cứ lúc nào."
+          "Medind giá bao nhiêu?",
+          "Medind là gói đăng ký. Giá cho quốc gia của bạn được hiển thị trên App Store và trong ứng dụng trước khi bạn thanh toán, và bạn có thể khôi phục giao dịch mua bất cứ lúc nào."
         ]
       ]
     },
     "privacy": {
-      "title": "Chính sách quyền riêng tư – Medinder",
-      "description": "Cách Medinder xử lý dữ liệu của bạn: không tài khoản, không quảng cáo, không theo dõi. Dữ liệu thuốc của bạn chỉ ở lại trên iPhone của bạn, không gửi đi đâu.",
+      "title": "Chính sách quyền riêng tư – Medind",
+      "description": "Cách Medind xử lý dữ liệu của bạn: không tài khoản, không quảng cáo, không theo dõi. Dữ liệu thuốc của bạn chỉ ở lại trên iPhone của bạn, không gửi đi đâu.",
       "h1": "Chính sách quyền riêng tư",
       "lead": "Nói ngắn gọn: mọi thứ bạn nhập đều ở lại trên iPhone của bạn. Chúng tôi không có hệ thống tài khoản, không quảng cáo, không phân tích, và không bao giờ thấy dữ liệu thuốc hay sức khỏe của bạn.",
-      "body": "<h2>Medinder lưu những gì</h2><p>Thuốc, ảnh, lịch, các liều bạn đánh dấu là đã uống, ghi chú và chỉ số của bạn chỉ được lưu trên iPhone, bên trong ứng dụng. Tiện ích đọc cùng dữ liệu đó trên cùng điện thoại. Chúng tôi không có máy chủ nào nhận dữ liệu này.</p><h2>Apple Health</h2><p>Nếu bạn cho phép, Medinder đọc số bước chân, nhịp tim, cân nặng và huyết áp từ Apple Health để hiển thị trong ứng dụng. Các giá trị này được đọc trực tiếp, không bao giờ được Medinder lưu lại, không có trong bản sao lưu và không được gửi đi đâu. Medinder không ghi bất cứ thứ gì vào Apple Health.</p><h2>Camera và ảnh</h2><p>Nếu bạn chụp ảnh thuốc, ảnh đó chỉ được lưu trên iPhone của bạn.</p><h2>Mua hàng</h2><p>Việc thanh toán do Apple xử lý. Để kiểm tra gói đăng ký của bạn còn hiệu lực hay không, Medinder dùng RevenueCat, một dịch vụ quản lý gói đăng ký. RevenueCat nhận một mã ứng dụng ẩn danh và thông tin mua hàng, như bạn đã mua gói nào và khi nào. RevenueCat không bao giờ nhận dữ liệu thuốc, chỉ số hay sức khỏe của bạn. Xem <a href=\"https://www.revenuecat.com/privacy\">chính sách quyền riêng tư của RevenueCat</a>.</p><h2>Không theo dõi, không quảng cáo, không phân tích</h2><p>Medinder không có quảng cáo, không theo dõi và không phân tích. Chúng tôi không bán hay chia sẻ dữ liệu của bạn.</p><h2>Sao lưu và xuất dữ liệu</h2><p>Bạn có thể xuất dữ liệu hoặc tạo tệp sao lưu từ ứng dụng. Tệp đó được tạo trên điện thoại của bạn và chỉ đi đến nơi bạn chọn gửi hoặc lưu. Nếu bạn dùng tính năng sao lưu iPhone (iCloud hoặc máy tính), Apple có thể đưa dữ liệu của ứng dụng vào bản sao lưu đó, như với mọi ứng dụng khác; bạn tự quản lý việc này trong phần cài đặt iPhone.</p><h2>Lời nhắc</h2><p>Lời nhắc và báo thức được đặt lịch ngay trên iPhone của bạn. Chúng không đi qua máy chủ nào.</p><h2>Xóa dữ liệu</h2><p>Xóa ứng dụng để xóa toàn bộ dữ liệu Medinder lưu trên iPhone của bạn. Vì chúng tôi không bao giờ nhận dữ liệu thuốc của bạn, phía chúng tôi không có gì để xóa.</p><h2>Trẻ em</h2><p>Medinder không dành cho trẻ em dưới 13 tuổi.</p><h2>Trang web này</h2><p>Trang web này không dùng cookie và không theo dõi. Các công cụ miễn phí trên trang chạy trong trình duyệt của bạn; những gì bạn gõ vào không được gửi đi đâu.</p><h2>Thay đổi</h2><p>Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật trang này và ngày bên dưới.</p><h2>Liên hệ</h2><p>Câu hỏi về quyền riêng tư: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>Medind lưu những gì</h2><p>Thuốc, ảnh, lịch, các liều bạn đánh dấu là đã uống, ghi chú và chỉ số của bạn chỉ được lưu trên iPhone, bên trong ứng dụng. Tiện ích đọc cùng dữ liệu đó trên cùng điện thoại. Chúng tôi không có máy chủ nào nhận dữ liệu này.</p><h2>Apple Health</h2><p>Nếu bạn cho phép, Medind đọc số bước chân, nhịp tim, cân nặng và huyết áp từ Apple Health để hiển thị trong ứng dụng. Các giá trị này được đọc trực tiếp, không bao giờ được Medind lưu lại, không có trong bản sao lưu và không được gửi đi đâu. Medind không ghi bất cứ thứ gì vào Apple Health.</p><h2>Camera và ảnh</h2><p>Nếu bạn chụp ảnh thuốc, ảnh đó chỉ được lưu trên iPhone của bạn.</p><h2>Mua hàng</h2><p>Việc thanh toán do Apple xử lý. Để kiểm tra gói đăng ký của bạn còn hiệu lực hay không, Medind dùng RevenueCat, một dịch vụ quản lý gói đăng ký. RevenueCat nhận một mã ứng dụng ẩn danh và thông tin mua hàng, như bạn đã mua gói nào và khi nào. RevenueCat không bao giờ nhận dữ liệu thuốc, chỉ số hay sức khỏe của bạn. Xem <a href=\"https://www.revenuecat.com/privacy\">chính sách quyền riêng tư của RevenueCat</a>.</p><h2>Không theo dõi, không quảng cáo, không phân tích</h2><p>Medind không có quảng cáo, không theo dõi và không phân tích. Chúng tôi không bán hay chia sẻ dữ liệu của bạn.</p><h2>Sao lưu và xuất dữ liệu</h2><p>Bạn có thể xuất dữ liệu hoặc tạo tệp sao lưu từ ứng dụng. Tệp đó được tạo trên điện thoại của bạn và chỉ đi đến nơi bạn chọn gửi hoặc lưu. Nếu bạn dùng tính năng sao lưu iPhone (iCloud hoặc máy tính), Apple có thể đưa dữ liệu của ứng dụng vào bản sao lưu đó, như với mọi ứng dụng khác; bạn tự quản lý việc này trong phần cài đặt iPhone.</p><h2>Lời nhắc</h2><p>Lời nhắc và báo thức được đặt lịch ngay trên iPhone của bạn. Chúng không đi qua máy chủ nào.</p><h2>Xóa dữ liệu</h2><p>Xóa ứng dụng để xóa toàn bộ dữ liệu Medind lưu trên iPhone của bạn. Vì chúng tôi không bao giờ nhận dữ liệu thuốc của bạn, phía chúng tôi không có gì để xóa.</p><h2>Trẻ em</h2><p>Medind không dành cho trẻ em dưới 13 tuổi.</p><h2>Trang web này</h2><p>Trang web này không dùng cookie và không theo dõi. Các công cụ miễn phí trên trang chạy trong trình duyệt của bạn; những gì bạn gõ vào không được gửi đi đâu.</p><h2>Thay đổi</h2><p>Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật trang này và ngày bên dưới.</p><h2>Liên hệ</h2><p>Câu hỏi về quyền riêng tư: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Hỗ trợ – Medinder ứng dụng nhắc uống thuốc",
-      "description": "Nhận trợ giúp về Medinder: lời nhắc uống thuốc, mua gói đăng ký, sao lưu và nhiều hơn nữa. Hãy gửi email, chúng tôi sẽ trả lời sớm nhất có thể.",
+      "title": "Hỗ trợ – Medind ứng dụng nhắc uống thuốc",
+      "description": "Nhận trợ giúp về Medind: lời nhắc uống thuốc, mua gói đăng ký, sao lưu và nhiều hơn nữa. Hãy gửi email, chúng tôi sẽ trả lời sớm nhất có thể.",
       "h1": "Hỗ trợ",
       "lead": "Cần giúp đỡ hay có ý tưởng? Hãy gửi email cho chúng tôi. Mỗi tin nhắn đều có người thật đọc.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Gửi email đến {EMAIL}</a></p><p>Vui lòng cho chúng tôi biết đời iPhone của bạn và điều bạn mong đợi sẽ xảy ra. Ảnh chụp màn hình giúp ích rất nhiều.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">Gửi email đến {EMAIL}</a></p><p>Vui lòng cho chúng tôi biết đời iPhone của bạn và điều bạn mong đợi sẽ xảy ra. Ảnh chụp màn hình giúp ích rất nhiều.</p>",
       "faq": [
         [
           "Lời nhắc của tôi không reo. Tôi nên làm gì?",
-          "Mở Medinder và vào Cài đặt. Trong mục Lời nhắc, bạn xem được Medinder có được phép reo không, bật lời nhắc, và chạm Thử lời nhắc để nghe thử. Nếu lời nhắc đang tắt, chạm Mở Cài đặt và cho phép báo thức và thông báo cho Medinder."
+          "Mở Medind và vào Cài đặt. Trong mục Lời nhắc, bạn xem được Medind có được phép reo không, bật lời nhắc, và chạm Thử lời nhắc để nghe thử. Nếu lời nhắc đang tắt, chạm Mở Cài đặt và cho phép báo thức và thông báo cho Medind."
         ],
         [
           "Làm sao khôi phục giao dịch mua trên iPhone mới?",
-          "Đăng nhập bằng cùng Tài khoản Apple, mở Medinder, vào Cài đặt và chạm Khôi phục giao dịch mua."
+          "Đăng nhập bằng cùng Tài khoản Apple, mở Medind, vào Cài đặt và chạm Khôi phục giao dịch mua."
         ],
         [
           "Làm sao hủy gói đăng ký?",
-          "Gói đăng ký do Apple quản lý. Mở ứng dụng Cài đặt trên iPhone, chạm vào tên của bạn, rồi chạm Gói đăng ký và chọn Medinder. Lời nhắc vẫn tiếp tục reo sau khi bạn hủy."
+          "Gói đăng ký do Apple quản lý. Mở ứng dụng Cài đặt trên iPhone, chạm vào tên của bạn, rồi chạm Gói đăng ký và chọn Medind. Lời nhắc vẫn tiếp tục reo sau khi bạn hủy."
         ],
         [
           "Làm sao chuyển dữ liệu sang iPhone mới?",
-          "Trong Cài đặt của Medinder, chạm Lưu bản sao lưu và giữ tệp lại, ví dụ trong iCloud Drive hoặc gửi email cho chính mình. Trên iPhone mới, mở Cài đặt trong Medinder và chạm Khôi phục bản sao lưu. Bạn cũng có thể khôi phục toàn bộ iPhone từ bản sao lưu iCloud hoặc máy tính."
+          "Trong Cài đặt của Medind, chạm Lưu bản sao lưu và giữ tệp lại, ví dụ trong iCloud Drive hoặc gửi email cho chính mình. Trên iPhone mới, mở Cài đặt trong Medind và chạm Khôi phục bản sao lưu. Bạn cũng có thể khôi phục toàn bộ iPhone từ bản sao lưu iCloud hoặc máy tính."
         ],
         [
           "Làm sao xuất lịch sử hoặc chỉ số của tôi?",
-          "Trong Cài đặt của Medinder, chạm Xuất dữ liệu của tôi. Bạn sẽ có một tệp để gửi cho bác sĩ hoặc lưu lại."
+          "Trong Cài đặt của Medind, chạm Xuất dữ liệu của tôi. Bạn sẽ có một tệp để gửi cho bác sĩ hoặc lưu lại."
         ],
         [
-          "Medinder hỗ trợ những ngôn ngữ nào?",
+          "Medind hỗ trợ những ngôn ngữ nào?",
           "Tiếng Anh, tiếng Ả Rập, tiếng Trung (Phồn thể), tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Ba Lan, tiếng Bồ Đào Nha, tiếng Nga, tiếng Tây Ban Nha, tiếng Thái, tiếng Thổ Nhĩ Kỳ và tiếng Việt."
         ],
         [
-          "Medinder có chạy trên Android hoặc Apple Watch không?",
-          "Chưa. Medinder dành cho iPhone chạy iOS 26 trở lên."
+          "Medind có chạy trên Android hoặc Apple Watch không?",
+          "Chưa. Medind dành cho iPhone chạy iOS 26 trở lên."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Công cụ tính giờ uống thuốc miễn phí: nhập giờ uống liều đầu và số tiếng giữa các liều, xem giờ của mọi liều trong ngày. Dùng cho 4, 6, 8 hoặc 12 tiếng một lần.",
       "h1": "Tính giờ uống thuốc",
       "lead": "Nhập giờ uống liều đầu tiên và số tiếng giữa các liều. Bạn sẽ có giờ của từng liều trong một ngày.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Liều đầu tiên<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Mỗi<select id=\"every\"><option value=\"4\">4 tiếng</option><option value=\"6\">6 tiếng</option><option value=\"8\" selected>8 tiếng</option><option value=\"12\">12 tiếng</option><option value=\"24\">24 tiếng</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Công cụ này chỉ tính giờ. Hãy luôn uống thuốc theo hướng dẫn của bác sĩ, dược sĩ hoặc tờ hướng dẫn sử dụng.</p><h2>Cách tính</h2><p>Một ngày có 24 tiếng. Nếu bạn uống thuốc mỗi 8 tiếng, tức là 3 liều một ngày: ví dụ 08:00, 16:00 và 00:00. Mỗi 6 tiếng là 4 liều, mỗi 4 tiếng là 6 liều và mỗi 12 tiếng là 2 liều.</p><h2>Mẹo cho các liều ban đêm</h2><ul><li>Chọn giờ liều đầu sao cho liều ban đêm rơi vào lúc bạn thường còn thức, nếu hướng dẫn dùng thuốc cho phép.</li><li>Hỏi dược sĩ xem có thể dời giờ một chút cho hợp với giấc ngủ không.</li><li>Dùng báo thức reo cả khi điện thoại để im lặng, để không bỏ lỡ liều ban đêm.</li></ul><p>Medinder có thể tự động nhắc bạn vài giờ một lần và reo cả khi để im lặng.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Liều đầu tiên<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Mỗi<select id=\"every\"><option value=\"4\">4 tiếng</option><option value=\"6\">6 tiếng</option><option value=\"8\" selected>8 tiếng</option><option value=\"12\">12 tiếng</option><option value=\"24\">24 tiếng</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Công cụ này chỉ tính giờ. Hãy luôn uống thuốc theo hướng dẫn của bác sĩ, dược sĩ hoặc tờ hướng dẫn sử dụng.</p><h2>Cách tính</h2><p>Một ngày có 24 tiếng. Nếu bạn uống thuốc mỗi 8 tiếng, tức là 3 liều một ngày: ví dụ 08:00, 16:00 và 00:00. Mỗi 6 tiếng là 4 liều, mỗi 4 tiếng là 6 liều và mỗi 12 tiếng là 2 liều.</p><h2>Mẹo cho các liều ban đêm</h2><ul><li>Chọn giờ liều đầu sao cho liều ban đêm rơi vào lúc bạn thường còn thức, nếu hướng dẫn dùng thuốc cho phép.</li><li>Hỏi dược sĩ xem có thể dời giờ một chút cho hợp với giấc ngủ không.</li><li>Dùng báo thức reo cả khi điện thoại để im lặng, để không bỏ lỡ liều ban đêm.</li></ul><p>Medind có thể tự động nhắc bạn vài giờ một lần và reo cả khi để im lặng.</p>",
       "js": {
         "doses": "{n} liều mỗi ngày",
         "dose": "Liều {n}",
@@ -145,7 +145,7 @@
       "description": "Lập lịch uống thuốc để in chỉ trong một phút. Thêm từng loại thuốc và giờ uống, rồi in bảng theo dõi theo tuần có ô để đánh dấu. Miễn phí và riêng tư.",
       "h1": "Lập lịch uống thuốc để in",
       "lead": "Thêm thuốc và giờ uống, rồi in bảng theo tuần có ô đánh dấu cho từng liều. Tiện để dán tủ lạnh, dùng ở viện dưỡng lão hoặc cho người nhà đang giúp chăm sóc.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Thêm thuốc</button><label>Tiêu đề bảng<input type=\"text\" id=\"chart-title\" value=\"Thuốc của tôi\"></label><button type=\"button\" class=\"button\" id=\"print\">In bảng</button></form><div class=\"chart\" id=\"chart\"></div><h2>Cách dùng bảng</h2><ol><li>Ghi tên từng loại thuốc giống như trên hộp, để ai cũng tìm được đúng thuốc.</li><li>Thêm một giờ cho mỗi liều. Thuốc uống sáng và tối sẽ có hai giờ.</li><li>In ra và đánh dấu vào ô mỗi lần bạn uống một liều.</li></ol><p>Thích dùng điện thoại hơn? Medinder làm việc này cho bạn, reo vào từng giờ và lưu lại giờ bạn chạm Đã uống.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Thêm thuốc</button><label>Tiêu đề bảng<input type=\"text\" id=\"chart-title\" value=\"Thuốc của tôi\"></label><button type=\"button\" class=\"button\" id=\"print\">In bảng</button></form><div class=\"chart\" id=\"chart\"></div><h2>Cách dùng bảng</h2><ol><li>Ghi tên từng loại thuốc giống như trên hộp, để ai cũng tìm được đúng thuốc.</li><li>Thêm một giờ cho mỗi liều. Thuốc uống sáng và tối sẽ có hai giờ.</li><li>In ra và đánh dấu vào ô mỗi lần bạn uống một liều.</li></ol><p>Thích dùng điện thoại hơn? Medind làm việc này cho bạn, reo vào từng giờ và lưu lại giờ bạn chạm Đã uống.</p>",
       "js": {
         "name": "Thuốc",
         "name_ph": "ví dụ Metformin 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "Cách đặt nhắc uống thuốc trên iPhone (reo cả khi im lặng)",
-      "description": "Từng bước: đặt lời nhắc uống thuốc trên iPhone bằng ứng dụng Sức khỏe hoặc ứng dụng như Medinder, và đảm bảo chuông vẫn reo khi iPhone để im lặng.",
+      "description": "Từng bước: đặt lời nhắc uống thuốc trên iPhone bằng ứng dụng Sức khỏe hoặc ứng dụng như Medind, và đảm bảo chuông vẫn reo khi iPhone để im lặng.",
       "h1": "Cách đặt lời nhắc uống thuốc trên iPhone",
       "lead": "iPhone có thể nhắc bạn uống thuốc theo vài cách. Đây là cách từng loại hoạt động, và cách đảm bảo lời nhắc không bị tắt tiếng.",
-      "body": "<h2>Cách 1: Ứng dụng Sức khỏe</h2><ol><li>Mở ứng dụng Sức khỏe và chạm Duyệt (hoặc Tìm kiếm), rồi chạm Thuốc.</li><li>Chạm Thêm thuốc và làm theo các bước để nhập tên, loại và lịch uống.</li><li>Để được nhắc lại nếu bạn quên, cuộn xuống phần Tùy chọn và bật lời nhắc theo dõi.</li><li>Để nghe lời nhắc khi iPhone tắt tiếng hoặc đang ở chế độ Tập trung, chạm Cảnh báo khẩn cấp trong Tùy chọn và bật cho các thuốc của bạn.</li></ol><p>Ứng dụng Sức khỏe miễn phí và có sẵn trong máy. Lời nhắc đến dưới dạng thông báo.</p><h2>Cách 2: Ứng dụng nhắc uống thuốc reo như báo thức</h2><p>Medinder dùng hệ thống báo thức của Apple trên iOS 26. Lời nhắc hiện toàn màn hình và reo như báo thức của ứng dụng Đồng hồ, có nút Đã uống thật to và nút báo lại. Chuông reo cả khi bật chế độ im lặng và Tập trung.</p><ol><li>Cài Medinder và thêm thuốc theo tên, kèm ảnh nếu muốn.</li><li>Chọn giờ, ngày hoặc vài giờ một lần.</li><li>Cho phép báo thức khi Medinder hỏi.</li><li>Khi chuông reo, chạm Đã uống. Medinder lưu lại giờ.</li></ol><h2>Cách 3: Báo thức trong ứng dụng Đồng hồ</h2><p>Bạn có thể đặt một báo thức bình thường trong ứng dụng Đồng hồ và đặt tên theo thuốc. Báo thức reo cả khi im lặng, nhưng không ghi lại bạn đã uống gì.</p><h2>Vì sao lời nhắc không reo khi để im lặng?</h2><p>Thông báo thường tuân theo nút chuông/im lặng và chế độ Tập trung. Chỉ báo thức và cảnh báo khẩn cấp mới vượt qua được. Nếu bạn dựa vào lời nhắc, hãy dùng một trong hai loại đó.</p><h2>Kiểm tra lời nhắc có hoạt động</h2><ul><li>Đặt một lời nhắc thử sau hai phút nữa và chuyển điện thoại sang im lặng.</li><li>Trong Cài đặt của iPhone, kiểm tra xem ứng dụng bạn dùng đã được phép gửi thông báo và báo thức chưa.</li><li>Kiểm tra âm lượng trong Cài đặt › Âm thanh & cảm ứng, vì báo thức dùng âm lượng chuông.</li></ul>",
+      "body": "<h2>Cách 1: Ứng dụng Sức khỏe</h2><ol><li>Mở ứng dụng Sức khỏe và chạm Duyệt (hoặc Tìm kiếm), rồi chạm Thuốc.</li><li>Chạm Thêm thuốc và làm theo các bước để nhập tên, loại và lịch uống.</li><li>Để được nhắc lại nếu bạn quên, cuộn xuống phần Tùy chọn và bật lời nhắc theo dõi.</li><li>Để nghe lời nhắc khi iPhone tắt tiếng hoặc đang ở chế độ Tập trung, chạm Cảnh báo khẩn cấp trong Tùy chọn và bật cho các thuốc của bạn.</li></ol><p>Ứng dụng Sức khỏe miễn phí và có sẵn trong máy. Lời nhắc đến dưới dạng thông báo.</p><h2>Cách 2: Ứng dụng nhắc uống thuốc reo như báo thức</h2><p>Medind dùng hệ thống báo thức của Apple trên iOS 26. Lời nhắc hiện toàn màn hình và reo như báo thức của ứng dụng Đồng hồ, có nút Đã uống thật to và nút báo lại. Chuông reo cả khi bật chế độ im lặng và Tập trung.</p><ol><li>Cài Medind và thêm thuốc theo tên, kèm ảnh nếu muốn.</li><li>Chọn giờ, ngày hoặc vài giờ một lần.</li><li>Cho phép báo thức khi Medind hỏi.</li><li>Khi chuông reo, chạm Đã uống. Medind lưu lại giờ.</li></ol><h2>Cách 3: Báo thức trong ứng dụng Đồng hồ</h2><p>Bạn có thể đặt một báo thức bình thường trong ứng dụng Đồng hồ và đặt tên theo thuốc. Báo thức reo cả khi im lặng, nhưng không ghi lại bạn đã uống gì.</p><h2>Vì sao lời nhắc không reo khi để im lặng?</h2><p>Thông báo thường tuân theo nút chuông/im lặng và chế độ Tập trung. Chỉ báo thức và cảnh báo khẩn cấp mới vượt qua được. Nếu bạn dựa vào lời nhắc, hãy dùng một trong hai loại đó.</p><h2>Kiểm tra lời nhắc có hoạt động</h2><ul><li>Đặt một lời nhắc thử sau hai phút nữa và chuyển điện thoại sang im lặng.</li><li>Trong Cài đặt của iPhone, kiểm tra xem ứng dụng bạn dùng đã được phép gửi thông báo và báo thức chưa.</li><li>Kiểm tra âm lượng trong Cài đặt › Âm thanh & cảm ứng, vì báo thức dùng âm lượng chuông.</li></ul>",
       "faq": [
         [
           "iPhone có nhắc tôi uống thuốc được không?",
-          "Được. Ứng dụng Sức khỏe có lời nhắc uống thuốc, và các ứng dụng như Medinder có thể reo như báo thức vào mỗi giờ uống thuốc."
+          "Được. Ứng dụng Sức khỏe có lời nhắc uống thuốc, và các ứng dụng như Medind có thể reo như báo thức vào mỗi giờ uống thuốc."
         ],
         [
           "Làm sao để lời nhắc uống thuốc reo khi để im lặng?",
-          "Bật Cảnh báo khẩn cấp cho thuốc trong ứng dụng Sức khỏe, hoặc dùng ứng dụng sử dụng báo thức của iPhone, như Medinder trên iOS 26."
+          "Bật Cảnh báo khẩn cấp cho thuốc trong ứng dụng Sức khỏe, hoặc dùng ứng dụng sử dụng báo thức của iPhone, như Medind trên iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "Cách giúp cha mẹ lớn tuổi nhớ uống thuốc mà không làm thay: thói quen đơn giản, lời nhắc có chuông reo, lịch uống thuốc in sẵn và hỏi han nhẹ nhàng.",
       "h1": "Nhắc uống thuốc cho cha mẹ lớn tuổi",
       "lead": "Giúp cha mẹ uống thuốc hiệu quả nhất khi cha mẹ vẫn là người tự quyết định. Những bước sau giúp mọi việc đơn giản và tôn trọng cha mẹ.",
-      "body": "<h2>Bắt đầu bằng một cuộc trò chuyện</h2><p>Hỏi xem điều gì khó: nhớ uống, phân biệt các loại thuốc, hay biết liều đã uống chưa. Câu trả lời cho bạn biết cần giải quyết gì. Hãy để cha mẹ tự chọn cách giúp ích cho mình.</p><h2>Làm cho các loại thuốc dễ phân biệt</h2><p>Viết tên thật to trên từng hộp thuốc, hoặc chụp ảnh từng viên thuốc. Khi nhà thuốc đổi hãng, hãy cùng nhau xem viên thuốc mới.</p><h2>Chọn lời nhắc mà cha mẹ nghe được</h2><p>Nhiều người lớn tuổi vô tình để điện thoại ở chế độ im lặng. Lời nhắc reo như báo thức, với một nút to, dễ dùng hơn một thông báo nhỏ. Medinder được thiết kế cho điều này: chữ to, lời lẽ đơn giản và nút Đã uống.</p><h2>Giúp trả lời câu hỏi “uống rồi chưa?” thật dễ</h2><p>Sự phân vân dẫn đến bỏ liều hoặc uống gấp đôi. Hộp chia thuốc hoặc ứng dụng ghi lại giờ của từng liều giúp trả lời câu hỏi chỉ trong một cái nhìn.</p><h2>Dán lịch uống thuốc in sẵn lên tủ lạnh</h2><p>Bảng giấy giúp cả người đến thăm và người chăm sóc. Hãy làm một bảng bằng <a href=\"{L}/tools/medication-schedule-maker/\">công cụ lập lịch uống thuốc</a> miễn phí.</p><h2>Hỏi han mà không làm thay</h2><p>Một cuộc gọi ngắn vào cùng một giờ mỗi tuần để cùng xem lại tuần qua hiệu quả hơn kiểm tra hằng ngày. Hãy vui mừng khi có một tuần tốt.</p><h2>Hỏi dược sĩ</h2><p>Nếu cha mẹ uống nhiều loại thuốc, hãy nhờ dược sĩ xem lại toàn bộ thuốc. Dược sĩ thường có thể giúp giờ uống đơn giản hơn hoặc gợi ý thuốc đóng gói theo vỉ.</p>",
+      "body": "<h2>Bắt đầu bằng một cuộc trò chuyện</h2><p>Hỏi xem điều gì khó: nhớ uống, phân biệt các loại thuốc, hay biết liều đã uống chưa. Câu trả lời cho bạn biết cần giải quyết gì. Hãy để cha mẹ tự chọn cách giúp ích cho mình.</p><h2>Làm cho các loại thuốc dễ phân biệt</h2><p>Viết tên thật to trên từng hộp thuốc, hoặc chụp ảnh từng viên thuốc. Khi nhà thuốc đổi hãng, hãy cùng nhau xem viên thuốc mới.</p><h2>Chọn lời nhắc mà cha mẹ nghe được</h2><p>Nhiều người lớn tuổi vô tình để điện thoại ở chế độ im lặng. Lời nhắc reo như báo thức, với một nút to, dễ dùng hơn một thông báo nhỏ. Medind được thiết kế cho điều này: chữ to, lời lẽ đơn giản và nút Đã uống.</p><h2>Giúp trả lời câu hỏi “uống rồi chưa?” thật dễ</h2><p>Sự phân vân dẫn đến bỏ liều hoặc uống gấp đôi. Hộp chia thuốc hoặc ứng dụng ghi lại giờ của từng liều giúp trả lời câu hỏi chỉ trong một cái nhìn.</p><h2>Dán lịch uống thuốc in sẵn lên tủ lạnh</h2><p>Bảng giấy giúp cả người đến thăm và người chăm sóc. Hãy làm một bảng bằng <a href=\"{L}/tools/medication-schedule-maker/\">công cụ lập lịch uống thuốc</a> miễn phí.</p><h2>Hỏi han mà không làm thay</h2><p>Một cuộc gọi ngắn vào cùng một giờ mỗi tuần để cùng xem lại tuần qua hiệu quả hơn kiểm tra hằng ngày. Hãy vui mừng khi có một tuần tốt.</p><h2>Hỏi dược sĩ</h2><p>Nếu cha mẹ uống nhiều loại thuốc, hãy nhờ dược sĩ xem lại toàn bộ thuốc. Dược sĩ thường có thể giúp giờ uống đơn giản hơn hoặc gợi ý thuốc đóng gói theo vỉ.</p>",
       "faq": [
         [
           "Cách nhắc uống thuốc nào tốt nhất cho người cao tuổi?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Nhắc Uống Thuốc",
+    "name": "Medind: Nhắc Uống Thuốc",
     "subtitle": "Lịch dùng thuốc & báo thức",
     "keywords": "người già,cao tuổi,theo dõi,liều,viên,vitamin,huyết áp,nhật ký,toa,đơn,hẹn giờ,quản lý,ông bà"
   },

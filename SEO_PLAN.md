@@ -1,4 +1,4 @@
-# Medinder: SEO, ASO and AI-search plan
+# Medind: SEO, ASO and AI-search plan
 
 Goal: page one on Google, the App Store and AI answers for medication and pill reminder searches, in all 18 app languages, as fast as possible.
 
@@ -36,7 +36,7 @@ Keywords per language are in `ASO_KEYWORDS.md`. English clusters, in the order t
 |---|---|---|---|---|
 | 1 | Dose time maths | every 8 hours medication schedule, every 6 hours what times, twice a day medication times, every 12 hours schedule | Tool + one page per interval | Simple question, weak answers today, tools get links |
 | 2 | Printables | printable medication schedule, pill chart template, medication log sheet, medication list for wallet | Tool | Evergreen, high volume, caregivers share them |
-| 3 | Rings on silent | medication reminder that rings on silent, pill alarm iPhone, medication alarm app | Guide + home | Medinder's unique strength (AlarmKit); few pages target it |
+| 3 | Rings on silent | medication reminder that rings on silent, pill alarm iPhone, medication alarm app | Guide + home | Medind's unique strength (AlarmKit); few pages target it |
 | 4 | Older adults and caregivers | pill reminder app for elderly, medication reminder for seniors, simple medication app for older adults, medication reminders for elderly parents | Guide + home | Clear audience match; big sites write generic pages |
 | 5 | iPhone how-to | how to set medication reminders on iPhone, Health app medication reminders not working, medication widget iPhone | Guide | People hit problems after iOS updates; fresh content wins |
 | 6 | Privacy | medication tracker no account, private pill reminder app | Home + privacy | Few competitors can honestly claim it |
@@ -73,7 +73,7 @@ Interval pages and "how to remember X" pages are programmatic SEO: one template,
 Google holds health pages to a higher bar (it calls this YMYL, "your money or your life"). Without trust signals, health pages from a new site rank slowly.
 
 1. Have a **pharmacist or nurse review the guides** and name them on each guide ("Reviewed by …, licensed pharmacist"). This is the single biggest boost for this topic.
-2. Add an **About page** with you, why you built Medinder, and your country.
+2. Add an **About page** with you, why you built Medind, and your country.
 3. Keep "Last updated" dates current and refresh every guide every 6 months.
 4. Link to official sources (NHS, FDA, national medicine agencies in each country) where a guide states a fact.
 5. Never give dosing advice. The site already points every dosing question to the doctor, pharmacist or leaflet.
@@ -90,9 +90,9 @@ Google holds health pages to a higher bar (it calls this YMYL, "your money or yo
 ## 7. AI search (ChatGPT, Perplexity, Google AI Overviews, Claude)
 
 - AI tools cite pages that **answer in one clear sentence**, appear in the **Bing and Google indexes**, and are **mentioned by other sites**. The site covers the first two. Section 6 covers the third.
-- Get Medinder into "best medication reminder apps 2026" articles. AI answers lean on those lists. Email the authors of the top 10 results in each language when the app is live.
+- Get Medind into "best medication reminder apps 2026" articles. AI answers lean on those lists. Email the authors of the top 10 results in each language when the app is live.
 - Keep `llms.txt` and the key facts in the home page FAQ in sync with the app (iOS version, languages, price model).
-- Every month, ask ChatGPT, Perplexity and Google "best pill reminder app for elderly iPhone" in 3–4 languages and note whether Medinder appears and which sources are cited. Then go after those sources.
+- Every month, ask ChatGPT, Perplexity and Google "best pill reminder app for elderly iPhone" in 3–4 languages and note whether Medind appears and which sources are cited. Then go after those sources.
 
 ## 8. App Store (ASO)
 
@@ -112,7 +112,7 @@ Google holds health pages to a higher bar (it calls this YMYL, "your money or yo
 | Keyword rankings for 20 terms per main language | Search Console's queries report, or a rank tracker | Weekly |
 | App Store search impressions and downloads | App Store Connect → Analytics, by source "App Store Search" | Weekly |
 | App Store keyword rank | Appfigures, AppTweak or Astro | Weekly |
-| Whether AI answers mention Medinder | Manual check, section 7 | Monthly |
+| Whether AI answers mention Medind | Manual check, section 7 | Monthly |
 
 Expand what works: if an interval page ranks, build the next interval. If a language gets traffic, write more pages in it first.
 

@@ -14,13 +14,13 @@
     "language": "Idioma",
     "footer_privacy": "Política de privacidade",
     "footer_support": "Suporte",
-    "footer_note": "O Medinder é um app de lembretes. Ele não dá conselhos médicos. Siga sempre as orientações do seu médico ou farmacêutico.",
+    "footer_note": "O Medind é um app de lembretes. Ele não dá conselhos médicos. Siga sempre as orientações do seu médico ou farmacêutico.",
     "updated": "Última atualização",
     "read_more": "Ler o guia",
     "open_tool": "Abrir a ferramenta",
     "faq_title": "Perguntas e respostas",
     "cta_title": "Nunca mais fique na dúvida: “será que eu tomei?”",
-    "cta_text": "O Medinder toca até você tocar em Tomado e mostra o que você tomou e quando.",
+    "cta_text": "O Medind toca até você tocar em Tomado e mostra o que você tomou e quando.",
     "breadcrumb_home": "Início",
     "related": "Veja também",
     "not_found_title": "Página não encontrada",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – Lembrete de Remédio e Controle de Medicamentos",
-      "description": "Medinder: app simples de lembrete de remédio para iPhone. Toca como alarme, mesmo no silencioso. Veja o que tomou e quando. Sem conta, dados só no seu celular.",
+      "title": "Medind – Lembrete de Remédio e Controle de Medicamentos",
+      "description": "Medind: app simples de lembrete de remédio para iPhone. Toca como alarme, mesmo no silencioso. Veja o que tomou e quando. Sem conta, dados só no seu celular.",
       "h1": "O lembrete de remédio que toca até você tomar",
-      "lead": "O Medinder é um app simples para lembrar de tomar remédio no iPhone. Ele toca como um alarme, mesmo com o celular no silencioso, e guarda um registro claro de cada dose que você toma.",
-      "body": "<section class=\"features\"><h2>Tudo o que você precisa, nada além disso</h2><ul class=\"cards\"><li><h3>Toca como um alarme</h3><p>Os lembretes tocam mesmo no modo silencioso e no Foco, com um botão Tomado bem grande e a opção de adiar. Você vai ouvir.</p></li><li><h3>Será que tomei? Basta olhar</h3><p>A tela Hoje mostra cada dose com o horário em que você tomou. O calendário mostra todos os dias anteriores.</p></li><li><h3>Seu remédio, do seu jeito</h3><p>Digite o nome que você usa e adicione uma foto do comprimido ou da caixa, para saber sempre qual é qual.</p></li><li><h3>Qualquer horário</h3><p>Horários todos os dias, dias da semana escolhidos, a cada alguns dias, a cada algumas horas ou só quando necessário.</p></li><li><h3>Grande, claro e tranquilo</h3><p>Letras grandes, botões grandes, palavras simples. Feito para qualquer pessoa usar sem ajuda.</p></li><li><h3>Privacidade desde o início</h3><p>Sem conta e sem anúncios. Tudo o que você digita fica no seu iPhone.</p></li></ul></section><section><h2>Pronto em três passos</h2><ol class=\"steps\"><li><strong>Adicione um remédio.</strong> Digite o nome e tire uma foto, se quiser.</li><li><strong>Escolha quando.</strong> Defina os horários e os dias, ou a cada tantas horas.</li><li><strong>Toque em Tomado quando tocar.</strong> O Medinder salva o horário, para você não precisar lembrar.</li></ol></section><section><h2>Também incluído</h2><ul class=\"ticks\"><li>Um widget para a tela de início e a tela bloqueada, com botão Tomado</li><li>Medições como pressão arterial, pulso e peso, salvas exatamente como você digita</li><li>Passos e outros valores do app Saúde, mostrados ao vivo e nunca salvos</li><li>Exportação e backup de tudo o que você digitou</li><li>18 idiomas</li></ul></section><section class=\"note\"><h2>Se você parar de pagar, seus lembretes continuam tocando</h2><p>O Medinder é uma assinatura, com um preço claro mostrado na App Store antes de você pagar. Os lembretes que você já criou continuam funcionando mesmo se a assinatura terminar. Lembretes de remédio são importantes demais para serem desligados.</p></section>",
+      "lead": "O Medind é um app simples para lembrar de tomar remédio no iPhone. Ele toca como um alarme, mesmo com o celular no silencioso, e guarda um registro claro de cada dose que você toma.",
+      "body": "<section class=\"features\"><h2>Tudo o que você precisa, nada além disso</h2><ul class=\"cards\"><li><h3>Toca como um alarme</h3><p>Os lembretes tocam mesmo no modo silencioso e no Foco, com um botão Tomado bem grande e a opção de adiar. Você vai ouvir.</p></li><li><h3>Será que tomei? Basta olhar</h3><p>A tela Hoje mostra cada dose com o horário em que você tomou. O calendário mostra todos os dias anteriores.</p></li><li><h3>Seu remédio, do seu jeito</h3><p>Digite o nome que você usa e adicione uma foto do comprimido ou da caixa, para saber sempre qual é qual.</p></li><li><h3>Qualquer horário</h3><p>Horários todos os dias, dias da semana escolhidos, a cada alguns dias, a cada algumas horas ou só quando necessário.</p></li><li><h3>Grande, claro e tranquilo</h3><p>Letras grandes, botões grandes, palavras simples. Feito para qualquer pessoa usar sem ajuda.</p></li><li><h3>Privacidade desde o início</h3><p>Sem conta e sem anúncios. Tudo o que você digita fica no seu iPhone.</p></li></ul></section><section><h2>Pronto em três passos</h2><ol class=\"steps\"><li><strong>Adicione um remédio.</strong> Digite o nome e tire uma foto, se quiser.</li><li><strong>Escolha quando.</strong> Defina os horários e os dias, ou a cada tantas horas.</li><li><strong>Toque em Tomado quando tocar.</strong> O Medind salva o horário, para você não precisar lembrar.</li></ol></section><section><h2>Também incluído</h2><ul class=\"ticks\"><li>Um widget para a tela de início e a tela bloqueada, com botão Tomado</li><li>Medições como pressão arterial, pulso e peso, salvas exatamente como você digita</li><li>Passos e outros valores do app Saúde, mostrados ao vivo e nunca salvos</li><li>Exportação e backup de tudo o que você digitou</li><li>18 idiomas</li></ul></section><section class=\"note\"><h2>Se você parar de pagar, seus lembretes continuam tocando</h2><p>O Medind é uma assinatura, com um preço claro mostrado na App Store antes de você pagar. Os lembretes que você já criou continuam funcionando mesmo se a assinatura terminar. Lembretes de remédio são importantes demais para serem desligados.</p></section>",
       "faq": [
         [
-          "O Medinder toca quando o iPhone está no silencioso?",
-          "Sim. O Medinder usa o sistema de alarmes da Apple no iOS 26, então os lembretes tocam mesmo no modo silencioso e no Foco, igual aos alarmes do app Relógio."
+          "O Medind toca quando o iPhone está no silencioso?",
+          "Sim. O Medind usa o sistema de alarmes da Apple no iOS 26, então os lembretes tocam mesmo no modo silencioso e no Foco, igual aos alarmes do app Relógio."
         ],
         [
-          "O Medinder é bom para idosos?",
+          "O Medind é bom para idosos?",
           "Sim. Ele foi feito para pessoas com mais de 60 anos: letras grandes, botões grandes, palavras simples e uma ação principal em cada tela."
         ],
         [
@@ -48,61 +48,61 @@
           "Não. Não há cadastro nem login. Tudo o que você digita fica no seu iPhone."
         ],
         [
-          "O Medinder dá conselhos médicos?",
-          "Não. O Medinder nunca diz o que nem quanto tomar. Ele lembra você nos horários que você escolher e registra o que você marcar como tomado."
+          "O Medind dá conselhos médicos?",
+          "Não. O Medind nunca diz o que nem quanto tomar. Ele lembra você nos horários que você escolher e registra o que você marcar como tomado."
         ],
         [
           "Posso registrar um remédio que tomo só quando necessário?",
-          "Sim. Adicione como “Quando necessário” e toque em Tomado sempre que tomar. O Medinder salva o horário."
+          "Sim. Adicione como “Quando necessário” e toque em Tomado sempre que tomar. O Medind salva o horário."
         ],
         [
-          "Quanto custa o Medinder?",
-          "O Medinder é uma assinatura. O preço para o seu país aparece na App Store e no app antes de você pagar, e você pode restaurar sua compra quando quiser."
+          "Quanto custa o Medind?",
+          "O Medind é uma assinatura. O preço para o seu país aparece na App Store e no app antes de você pagar, e você pode restaurar sua compra quando quiser."
         ]
       ]
     },
     "privacy": {
-      "title": "Política de Privacidade – Medinder",
-      "description": "Como o Medinder trata seus dados: sem conta, sem anúncios, sem rastreamento. Os dados dos seus remédios e da sua saúde ficam só no seu iPhone.",
+      "title": "Política de Privacidade – Medind",
+      "description": "Como o Medind trata seus dados: sem conta, sem anúncios, sem rastreamento. Os dados dos seus remédios e da sua saúde ficam só no seu iPhone.",
       "h1": "Política de privacidade",
       "lead": "Resumindo: tudo o que você digita fica no seu iPhone. Não temos sistema de contas, anúncios nem análises, e nunca vemos seus dados de remédios ou de saúde.",
-      "body": "<h2>O que o Medinder guarda</h2><p>Seus remédios, fotos, horários, as doses que você marca como tomadas, notas e medições ficam guardados apenas no seu iPhone, dentro do app. O widget lê os mesmos dados no mesmo celular. Não temos um servidor que receba esses dados.</p><h2>App Saúde</h2><p>Se você permitir, o Medinder lê passos, pulso, peso e pressão arterial do app Saúde para mostrá-los no app. Esses valores são lidos ao vivo e nunca são salvos pelo Medinder, nunca entram nos backups e nunca são enviados para lugar nenhum. O Medinder não grava nada no app Saúde.</p><h2>Câmera e fotos</h2><p>Se você tirar uma foto de um remédio, a foto fica guardada apenas no seu iPhone.</p><h2>Compras</h2><p>Os pagamentos são feitos pela Apple. Para verificar se a sua assinatura está ativa, o Medinder usa o RevenueCat, um serviço de assinaturas. O RevenueCat recebe um ID anônimo do app e informações da compra, como qual assinatura você comprou e quando. Ele nunca recebe seus dados de remédios, medições ou saúde. Veja a <a href=\"https://www.revenuecat.com/privacy\">política de privacidade do RevenueCat</a>.</p><h2>Sem rastreamento, sem anúncios, sem análises</h2><p>O Medinder não tem publicidade, rastreamento nem análises. Não vendemos nem compartilhamos seus dados.</p><h2>Backups e exportações</h2><p>Você pode exportar seus dados ou criar um arquivo de backup no app. Esse arquivo é criado no seu celular e vai só para onde você escolher enviar ou salvar. Se você usa o backup do iPhone (iCloud ou computador), a Apple pode incluir os dados do app nesse backup, como acontece com qualquer app; isso é controlado por você nos Ajustes do iPhone.</p><h2>Lembretes</h2><p>Os lembretes e alarmes são agendados no seu iPhone. Eles não passam por nenhum servidor.</p><h2>Como apagar seus dados</h2><p>Apague o app para apagar todos os dados guardados pelo Medinder no seu iPhone. Como nunca recebemos seus dados de remédios, não há nada para apagarmos do nosso lado.</p><h2>Crianças</h2><p>O Medinder não é destinado a crianças menores de 13 anos.</p><h2>Este site</h2><p>Este site não usa cookies nem rastreamento. As ferramentas grátis deste site funcionam no seu navegador; o que você digita nelas não é enviado para lugar nenhum.</p><h2>Alterações</h2><p>Se esta política mudar, vamos atualizar esta página e a data abaixo.</p><h2>Contato</h2><p>Dúvidas sobre privacidade: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>O que o Medind guarda</h2><p>Seus remédios, fotos, horários, as doses que você marca como tomadas, notas e medições ficam guardados apenas no seu iPhone, dentro do app. O widget lê os mesmos dados no mesmo celular. Não temos um servidor que receba esses dados.</p><h2>App Saúde</h2><p>Se você permitir, o Medind lê passos, pulso, peso e pressão arterial do app Saúde para mostrá-los no app. Esses valores são lidos ao vivo e nunca são salvos pelo Medind, nunca entram nos backups e nunca são enviados para lugar nenhum. O Medind não grava nada no app Saúde.</p><h2>Câmera e fotos</h2><p>Se você tirar uma foto de um remédio, a foto fica guardada apenas no seu iPhone.</p><h2>Compras</h2><p>Os pagamentos são feitos pela Apple. Para verificar se a sua assinatura está ativa, o Medind usa o RevenueCat, um serviço de assinaturas. O RevenueCat recebe um ID anônimo do app e informações da compra, como qual assinatura você comprou e quando. Ele nunca recebe seus dados de remédios, medições ou saúde. Veja a <a href=\"https://www.revenuecat.com/privacy\">política de privacidade do RevenueCat</a>.</p><h2>Sem rastreamento, sem anúncios, sem análises</h2><p>O Medind não tem publicidade, rastreamento nem análises. Não vendemos nem compartilhamos seus dados.</p><h2>Backups e exportações</h2><p>Você pode exportar seus dados ou criar um arquivo de backup no app. Esse arquivo é criado no seu celular e vai só para onde você escolher enviar ou salvar. Se você usa o backup do iPhone (iCloud ou computador), a Apple pode incluir os dados do app nesse backup, como acontece com qualquer app; isso é controlado por você nos Ajustes do iPhone.</p><h2>Lembretes</h2><p>Os lembretes e alarmes são agendados no seu iPhone. Eles não passam por nenhum servidor.</p><h2>Como apagar seus dados</h2><p>Apague o app para apagar todos os dados guardados pelo Medind no seu iPhone. Como nunca recebemos seus dados de remédios, não há nada para apagarmos do nosso lado.</p><h2>Crianças</h2><p>O Medind não é destinado a crianças menores de 13 anos.</p><h2>Este site</h2><p>Este site não usa cookies nem rastreamento. As ferramentas grátis deste site funcionam no seu navegador; o que você digita nelas não é enviado para lugar nenhum.</p><h2>Alterações</h2><p>Se esta política mudar, vamos atualizar esta página e a data abaixo.</p><h2>Contato</h2><p>Dúvidas sobre privacidade: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Suporte – Medinder Lembrete de Remédio",
-      "description": "Ajuda com o Medinder: lembretes, compras, backups e mais. Envie um e-mail e responderemos o mais rápido possível. Uma pessoa de verdade lê cada mensagem.",
+      "title": "Suporte – Medind Lembrete de Remédio",
+      "description": "Ajuda com o Medind: lembretes, compras, backups e mais. Envie um e-mail e responderemos o mais rápido possível. Uma pessoa de verdade lê cada mensagem.",
       "h1": "Suporte",
       "lead": "Precisa de ajuda ou tem uma ideia? Mande um e-mail. Uma pessoa de verdade lê cada mensagem.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">E-mail: {EMAIL}</a></p><p>Conte para nós o modelo do seu iPhone e o que você esperava que acontecesse. Uma captura de tela ajuda muito.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">E-mail: {EMAIL}</a></p><p>Conte para nós o modelo do seu iPhone e o que você esperava que acontecesse. Uma captura de tela ajuda muito.</p>",
       "faq": [
         [
           "Meu lembrete não tocou. O que eu faço?",
-          "Abra o Medinder e vá em Ajustes. Em Lembretes, você vê se o Medinder tem permissão para tocar, pode ativar os lembretes e tocar em Testar lembrete para ouvir um. Se os lembretes estiverem desativados, toque em Abrir Ajustes e permita alarmes e notificações para o Medinder."
+          "Abra o Medind e vá em Ajustes. Em Lembretes, você vê se o Medind tem permissão para tocar, pode ativar os lembretes e tocar em Testar lembrete para ouvir um. Se os lembretes estiverem desativados, toque em Abrir Ajustes e permita alarmes e notificações para o Medind."
         ],
         [
           "Como restauro minha compra em um iPhone novo?",
-          "Entre com a mesma Conta Apple, abra o Medinder, vá em Ajustes e toque em Restaurar compra."
+          "Entre com a mesma Conta Apple, abra o Medind, vá em Ajustes e toque em Restaurar compra."
         ],
         [
           "Como cancelo minha assinatura?",
-          "As assinaturas são gerenciadas pela Apple. Abra o app Ajustes no iPhone, toque no seu nome, depois em Assinaturas, e escolha o Medinder. Seus lembretes continuam tocando depois que você cancelar."
+          "As assinaturas são gerenciadas pela Apple. Abra o app Ajustes no iPhone, toque no seu nome, depois em Assinaturas, e escolha o Medind. Seus lembretes continuam tocando depois que você cancelar."
         ],
         [
           "Como passo meus dados para um iPhone novo?",
-          "Nos Ajustes do Medinder, toque em Salvar backup e guarde o arquivo, por exemplo no iCloud Drive, ou envie por e-mail para você mesmo. No iPhone novo, abra os Ajustes do Medinder e toque em Restaurar backup. Você também pode restaurar o iPhone inteiro a partir de um backup do iCloud ou do computador."
+          "Nos Ajustes do Medind, toque em Salvar backup e guarde o arquivo, por exemplo no iCloud Drive, ou envie por e-mail para você mesmo. No iPhone novo, abra os Ajustes do Medind e toque em Restaurar backup. Você também pode restaurar o iPhone inteiro a partir de um backup do iCloud ou do computador."
         ],
         [
           "Como exporto meu histórico ou minhas medições?",
-          "Nos Ajustes do Medinder, toque em Exportar meus dados. Você recebe um arquivo que pode salvar ou mostrar ao seu médico."
+          "Nos Ajustes do Medind, toque em Exportar meus dados. Você recebe um arquivo que pode salvar ou mostrar ao seu médico."
         ],
         [
-          "Em quais idiomas o Medinder está disponível?",
+          "Em quais idiomas o Medind está disponível?",
           "Inglês, árabe, chinês (tradicional), holandês, finlandês, francês, alemão, húngaro, italiano, japonês, coreano, polonês, português, russo, espanhol, tailandês, turco e vietnamita."
         ],
         [
-          "O Medinder funciona no Android ou no Apple Watch?",
-          "Ainda não. O Medinder é para iPhone com iOS 26 ou posterior."
+          "O Medind funciona no Android ou no Apple Watch?",
+          "Ainda não. O Medind é para iPhone com iOS 26 ou posterior."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Calculadora grátis de horário de remédio: informe a primeira dose e o intervalo e veja todos os horários do dia. De 4 em 4, 6 em 6, 8 em 8 ou 12 em 12 horas.",
       "h1": "Calculadora de horário de remédio",
       "lead": "Informe a hora da primeira dose e de quantas em quantas horas você toma. Você vê o horário de cada dose do dia.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Primeira dose<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>A cada<select id=\"every\"><option value=\"4\">4 horas</option><option value=\"6\">6 horas</option><option value=\"8\" selected>8 horas</option><option value=\"12\">12 horas</option><option value=\"24\">24 horas</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Esta ferramenta só faz a conta das horas. Tome sempre seu remédio como indicado pelo seu médico, farmacêutico ou pela bula.</p><h2>Como funciona</h2><p>O dia tem 24 horas. Se você toma um remédio de 8 em 8 horas, são 3 doses por dia: por exemplo 8:00, 16:00 e 0:00. De 6 em 6 horas são 4 doses, de 4 em 4 horas são 6 doses e de 12 em 12 horas são 2 doses.</p><h2>Dicas para doses durante a noite</h2><ul><li>Escolha um horário para a primeira dose que deixe a dose da noite num horário em que você costuma estar acordado, se as suas orientações permitirem.</li><li>Pergunte ao seu farmacêutico se os horários podem mudar um pouco para combinar com o seu sono.</li><li>Use um alarme que toque mesmo com o celular no silencioso, para não perder a dose da noite.</li></ul><p>O Medinder pode lembrar você a cada tantas horas automaticamente e toca mesmo no silencioso.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Primeira dose<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>A cada<select id=\"every\"><option value=\"4\">4 horas</option><option value=\"6\">6 horas</option><option value=\"8\" selected>8 horas</option><option value=\"12\">12 horas</option><option value=\"24\">24 horas</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Esta ferramenta só faz a conta das horas. Tome sempre seu remédio como indicado pelo seu médico, farmacêutico ou pela bula.</p><h2>Como funciona</h2><p>O dia tem 24 horas. Se você toma um remédio de 8 em 8 horas, são 3 doses por dia: por exemplo 8:00, 16:00 e 0:00. De 6 em 6 horas são 4 doses, de 4 em 4 horas são 6 doses e de 12 em 12 horas são 2 doses.</p><h2>Dicas para doses durante a noite</h2><ul><li>Escolha um horário para a primeira dose que deixe a dose da noite num horário em que você costuma estar acordado, se as suas orientações permitirem.</li><li>Pergunte ao seu farmacêutico se os horários podem mudar um pouco para combinar com o seu sono.</li><li>Use um alarme que toque mesmo com o celular no silencioso, para não perder a dose da noite.</li></ul><p>O Medind pode lembrar você a cada tantas horas automaticamente e toca mesmo no silencioso.</p>",
       "js": {
         "doses": "{n} doses por dia",
         "dose": "Dose {n}",
@@ -145,7 +145,7 @@
       "description": "Crie em um minuto uma tabela de horários de remédios para imprimir. Adicione cada remédio e seus horários e imprima uma tabela semanal com caixinhas. Grátis.",
       "h1": "Tabela de horários de remédios para imprimir",
       "lead": "Adicione seus remédios e horários e imprima uma tabela semanal com uma caixinha para marcar cada dose. Boa para a geladeira, uma casa de repouso ou um familiar que ajuda.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Adicionar remédio</button><label>Título da tabela<input type=\"text\" id=\"chart-title\" value=\"Meus remédios\"></label><button type=\"button\" class=\"button\" id=\"print\">Imprimir tabela</button></form><div class=\"chart\" id=\"chart\"></div><h2>Como usar a tabela</h2><ol><li>Escreva cada remédio como está na caixa, para que qualquer pessoa encontre o certo.</li><li>Adicione um horário para cada dose. Um remédio que você toma de manhã e à noite tem dois horários.</li><li>Imprima e marque a caixinha cada vez que tomar uma dose.</li></ol><p>Prefere usar o celular? O Medinder faz isso por você, toca em cada horário e salva a hora em que você tocou em Tomado.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Adicionar remédio</button><label>Título da tabela<input type=\"text\" id=\"chart-title\" value=\"Meus remédios\"></label><button type=\"button\" class=\"button\" id=\"print\">Imprimir tabela</button></form><div class=\"chart\" id=\"chart\"></div><h2>Como usar a tabela</h2><ol><li>Escreva cada remédio como está na caixa, para que qualquer pessoa encontre o certo.</li><li>Adicione um horário para cada dose. Um remédio que você toma de manhã e à noite tem dois horários.</li><li>Imprima e marque a caixinha cada vez que tomar uma dose.</li></ol><p>Prefere usar o celular? O Medind faz isso por você, toca em cada horário e salva a hora em que você tocou em Tomado.</p>",
       "js": {
         "name": "Remédio",
         "name_ph": "por exemplo Metformina 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "Como Criar Lembrete de Remédio no iPhone (Até no Silencioso)",
-      "description": "Passo a passo: crie lembretes de remédio no iPhone com o app Saúde ou um app como o Medinder, e garanta que eles toquem com o iPhone no modo silencioso.",
+      "description": "Passo a passo: crie lembretes de remédio no iPhone com o app Saúde ou um app como o Medind, e garanta que eles toquem com o iPhone no modo silencioso.",
       "h1": "Como criar lembretes de remédio no iPhone",
       "lead": "O iPhone pode lembrar você de tomar remédio de algumas formas. Veja como cada uma funciona e como garantir que o lembrete não fique sem som.",
-      "body": "<h2>Opção 1: O app Saúde</h2><ol><li>Abra o app Saúde e toque em Buscar, depois em Medicamentos.</li><li>Toque em Adicionar Medicamento e siga os passos para informar o nome, o tipo e os horários.</li><li>Para ser lembrado de novo se esquecer, role até Opções e ative os lembretes de acompanhamento.</li><li>Para ouvir os lembretes com o iPhone no silencioso ou em um Foco, toque em Alertas Críticos em Opções e ative-os para seus medicamentos.</li></ol><p>O app Saúde é grátis e já vem no iPhone. Os lembretes chegam como notificações.</p><h2>Opção 2: Um app de lembrete de remédio que toca como alarme</h2><p>O Medinder usa o sistema de alarmes da Apple no iOS 26. O lembrete ocupa a tela toda e toca como o alarme do app Relógio, com um botão Tomado grande e a opção de adiar. Ele toca mesmo no modo silencioso e no Foco.</p><ol><li>Instale o Medinder e adicione seu remédio pelo nome, com uma foto se quiser.</li><li>Escolha os horários, os dias ou a cada tantas horas.</li><li>Permita os alarmes quando o Medinder pedir.</li><li>Quando tocar, toque em Tomado. O Medinder salva o horário.</li></ol><h2>Opção 3: Alarmes do app Relógio</h2><p>Você pode criar um alarme comum no app Relógio e dar a ele o nome do seu remédio. Ele toca no silencioso, mas não guarda um registro do que você tomou.</p><h2>Por que os lembretes não tocam no silencioso?</h2><p>As notificações comuns seguem a chave de toque/silencioso e o Foco. Só alarmes e alertas críticos passam. Se você depende de lembretes, use um desses.</p><h2>Confira se seus lembretes funcionam</h2><ul><li>Crie um lembrete de teste para daqui a dois minutos e coloque o celular no silencioso.</li><li>Nos Ajustes do iPhone, confira se notificações e alarmes estão permitidos para o app que você usa.</li><li>Confira o volume nos Ajustes, na parte de sons, porque os alarmes usam o volume do toque.</li></ul>",
+      "body": "<h2>Opção 1: O app Saúde</h2><ol><li>Abra o app Saúde e toque em Buscar, depois em Medicamentos.</li><li>Toque em Adicionar Medicamento e siga os passos para informar o nome, o tipo e os horários.</li><li>Para ser lembrado de novo se esquecer, role até Opções e ative os lembretes de acompanhamento.</li><li>Para ouvir os lembretes com o iPhone no silencioso ou em um Foco, toque em Alertas Críticos em Opções e ative-os para seus medicamentos.</li></ol><p>O app Saúde é grátis e já vem no iPhone. Os lembretes chegam como notificações.</p><h2>Opção 2: Um app de lembrete de remédio que toca como alarme</h2><p>O Medind usa o sistema de alarmes da Apple no iOS 26. O lembrete ocupa a tela toda e toca como o alarme do app Relógio, com um botão Tomado grande e a opção de adiar. Ele toca mesmo no modo silencioso e no Foco.</p><ol><li>Instale o Medind e adicione seu remédio pelo nome, com uma foto se quiser.</li><li>Escolha os horários, os dias ou a cada tantas horas.</li><li>Permita os alarmes quando o Medind pedir.</li><li>Quando tocar, toque em Tomado. O Medind salva o horário.</li></ol><h2>Opção 3: Alarmes do app Relógio</h2><p>Você pode criar um alarme comum no app Relógio e dar a ele o nome do seu remédio. Ele toca no silencioso, mas não guarda um registro do que você tomou.</p><h2>Por que os lembretes não tocam no silencioso?</h2><p>As notificações comuns seguem a chave de toque/silencioso e o Foco. Só alarmes e alertas críticos passam. Se você depende de lembretes, use um desses.</p><h2>Confira se seus lembretes funcionam</h2><ul><li>Crie um lembrete de teste para daqui a dois minutos e coloque o celular no silencioso.</li><li>Nos Ajustes do iPhone, confira se notificações e alarmes estão permitidos para o app que você usa.</li><li>Confira o volume nos Ajustes, na parte de sons, porque os alarmes usam o volume do toque.</li></ul>",
       "faq": [
         [
           "O iPhone pode me lembrar de tomar remédio?",
-          "Sim. O app Saúde tem lembretes de medicamentos, e apps como o Medinder podem tocar como alarme no horário de cada dose."
+          "Sim. O app Saúde tem lembretes de medicamentos, e apps como o Medind podem tocar como alarme no horário de cada dose."
         ],
         [
           "Como faço o lembrete de remédio tocar no silencioso?",
-          "Ative os Alertas Críticos para medicamentos no app Saúde, ou use um app que usa os alarmes do iPhone, como o Medinder no iOS 26."
+          "Ative os Alertas Críticos para medicamentos no app Saúde, ou use um app que usa os alarmes do iPhone, como o Medind no iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "Como ajudar pais idosos a lembrar dos remédios sem tomar o controle: rotinas simples, lembretes que tocam, tabelas impressas e conversas com respeito.",
       "h1": "Lembretes de remédio para pais idosos",
       "lead": "Ajudar um pai ou uma mãe com os remédios funciona melhor quando eles continuam no comando. Estes passos deixam tudo simples e respeitoso.",
-      "body": "<h2>Comece com uma conversa</h2><p>Pergunte o que está difícil: lembrar, diferenciar os comprimidos ou saber se uma dose foi tomada. A resposta mostra o que precisa ser resolvido. Deixe seu pai ou sua mãe escolher o que ajuda.</p><h2>Facilite reconhecer cada remédio</h2><p>Escreva o nome em letras grandes em cada caixa, ou tire uma foto de cada comprimido. Quando a farmácia trocar a marca, olhem juntos o comprimido novo.</p><h2>Escolha lembretes que eles consigam ouvir</h2><p>Muitos idosos deixam o celular no silencioso sem querer. Um lembrete que toca como alarme, com um botão grande, é mais fácil do que uma notificação pequena. O Medinder foi feito para isso: letras grandes, palavras simples e um botão Tomado.</p><h2>Facilite responder “será que eu tomei?”</h2><p>A dúvida leva a pular doses ou tomar em dobro. Um porta-comprimidos ou um app que registra o horário de cada dose responde à pergunta num olhar.</p><h2>Coloque uma tabela impressa na geladeira</h2><p>Uma tabela em papel ajuda também visitas e cuidadores. Faça uma com a <a href=\"{L}/tools/medication-schedule-maker/\">tabela de remédios para imprimir</a> grátis.</p><h2>Acompanhe sem tomar o controle</h2><p>Uma ligação curta no mesmo horário toda semana, para ver a semana juntos, funciona melhor do que verificar todo dia. Comemore uma boa semana.</p><h2>Pergunte ao farmacêutico</h2><p>Peça uma revisão dos medicamentos se seu pai ou sua mãe toma muitos remédios. Os farmacêuticos muitas vezes conseguem simplificar os horários ou sugerir embalagens em blister.</p>",
+      "body": "<h2>Comece com uma conversa</h2><p>Pergunte o que está difícil: lembrar, diferenciar os comprimidos ou saber se uma dose foi tomada. A resposta mostra o que precisa ser resolvido. Deixe seu pai ou sua mãe escolher o que ajuda.</p><h2>Facilite reconhecer cada remédio</h2><p>Escreva o nome em letras grandes em cada caixa, ou tire uma foto de cada comprimido. Quando a farmácia trocar a marca, olhem juntos o comprimido novo.</p><h2>Escolha lembretes que eles consigam ouvir</h2><p>Muitos idosos deixam o celular no silencioso sem querer. Um lembrete que toca como alarme, com um botão grande, é mais fácil do que uma notificação pequena. O Medind foi feito para isso: letras grandes, palavras simples e um botão Tomado.</p><h2>Facilite responder “será que eu tomei?”</h2><p>A dúvida leva a pular doses ou tomar em dobro. Um porta-comprimidos ou um app que registra o horário de cada dose responde à pergunta num olhar.</p><h2>Coloque uma tabela impressa na geladeira</h2><p>Uma tabela em papel ajuda também visitas e cuidadores. Faça uma com a <a href=\"{L}/tools/medication-schedule-maker/\">tabela de remédios para imprimir</a> grátis.</p><h2>Acompanhe sem tomar o controle</h2><p>Uma ligação curta no mesmo horário toda semana, para ver a semana juntos, funciona melhor do que verificar todo dia. Comemore uma boa semana.</p><h2>Pergunte ao farmacêutico</h2><p>Peça uma revisão dos medicamentos se seu pai ou sua mãe toma muitos remédios. Os farmacêuticos muitas vezes conseguem simplificar os horários ou sugerir embalagens em blister.</p>",
       "faq": [
         [
           "Qual é o melhor lembrete de remédio para idosos?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Lembrete de Remédio",
+    "name": "Medind: Lembrete de Remédio",
     "subtitle": "Alarme de medicamentos e doses",
     "keywords": "comprimido,horário,tomar,idoso,controle,agenda,despertador,saúde,pressão,receita,vitamina,tratamento"
   },

@@ -81,18 +81,18 @@ def page(lang, key):
 
     schema = []
     if key == "home":
-        schema.append({"@context": "https://schema.org", "@type": "MobileApplication", "name": "Medinder",
+        schema.append({"@context": "https://schema.org", "@type": "MobileApplication", "name": "Medind",
                        "operatingSystem": "iOS 26", "applicationCategory": "HealthApplication",
                        "description": p["description"], "url": url(lang, "home"), "inLanguage": lang,
                        "image": f"{SITE}/assets/icon-512.png",
                        **({"installUrl": f"https://apps.apple.com/app/id{APP_ID}"} if APP_ID else {})})
-        schema.append({"@context": "https://schema.org", "@type": "Organization", "name": "Medinder",
+        schema.append({"@context": "https://schema.org", "@type": "Organization", "name": "Medind",
                        "url": SITE, "logo": f"{SITE}/assets/icon-512.png", "email": EMAIL})
     if key in GUIDES:
         schema.append({"@context": "https://schema.org", "@type": "Article", "headline": p["h1"],
                        "description": p["description"], "inLanguage": lang, "dateModified": UPDATED,
-                       "author": {"@type": "Organization", "name": "Medinder", "url": SITE},
-                       "publisher": {"@type": "Organization", "name": "Medinder", "logo": {"@type": "ImageObject", "url": f"{SITE}/assets/icon-512.png"}},
+                       "author": {"@type": "Organization", "name": "Medind", "url": SITE},
+                       "publisher": {"@type": "Organization", "name": "Medind", "logo": {"@type": "ImageObject", "url": f"{SITE}/assets/icon-512.png"}},
                        "mainEntityOfPage": url(lang, key)})
     if key in TOOLS:
         schema.append({"@context": "https://schema.org", "@type": "WebApplication", "name": p["h1"],
@@ -163,7 +163,7 @@ def page(lang, key):
 <body>
 <a class="skip" href="#main">{esc(ui["skip"])}</a>
 <header class="top">
-<a class="brand" href="{pre}/"><img src="{BASE}/assets/icon-64.png" width="32" height="32" alt="">Medinder</a>
+<a class="brand" href="{pre}/"><img src="{BASE}/assets/icon-64.png" width="32" height="32" alt="">Medind</a>
 <nav aria-label="main"><a href="{pre}/tools/">{esc(ui["nav_tools"])}</a><a href="{pre}/guides/">{esc(ui["nav_guides"])}</a><a href="{pre}/support/">{esc(ui["nav_support"])}</a></nav>
 </header>
 <main id="main">
@@ -228,8 +228,8 @@ def main():
 
     p = LANGS["en"]["pages"]
     (OUT / "llms.txt").write_text(
-        "# Medinder\n\n> " + p["home"]["lead"] + "\n\n"
-        "Medinder is an iPhone app (iOS 26 or later) by an independent developer in Sweden. Reminders ring like an alarm through silent mode and Focus. "
+        "# Medind\n\n> " + p["home"]["lead"] + "\n\n"
+        "Medind is an iPhone app (iOS 26 or later) by an independent developer in Sweden. Reminders ring like an alarm through silent mode and Focus. "
         "No account, no ads, no analytics; medication data stays on the iPhone. It never gives medical advice. Subscription, with reminders that keep ringing if the subscription ends. "
         f"Available in {len(ORDER)} languages: " + ", ".join(LANGS[l]["native"] for l in ORDER) + f". Contact: {EMAIL}\n\n"
         "## Key facts\n\n" + "".join(f"- {q} {a}\n" for q, a in p["home"]["faq"]) + "\n## Pages\n\n"

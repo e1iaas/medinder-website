@@ -14,13 +14,13 @@
     "language": "Taal",
     "footer_privacy": "Privacybeleid",
     "footer_support": "Hulp",
-    "footer_note": "Medinder is een herinneringsapp. De app geeft geen medisch advies. Volg altijd de instructies van je arts of apotheker.",
+    "footer_note": "Medind is een herinneringsapp. De app geeft geen medisch advies. Volg altijd de instructies van je arts of apotheker.",
     "updated": "Laatst bijgewerkt",
     "read_more": "Lees de uitleg",
     "open_tool": "Open het hulpmiddel",
     "faq_title": "Vragen en antwoorden",
     "cta_title": "Nooit meer twijfelen: “heb ik het al ingenomen?”",
-    "cta_text": "Medinder blijft afgaan tot je op Ingenomen tikt, en laat zien wat je hebt ingenomen en wanneer.",
+    "cta_text": "Medind blijft afgaan tot je op Ingenomen tikt, en laat zien wat je hebt ingenomen en wanneer.",
     "breadcrumb_home": "Home",
     "related": "Misschien ook interessant",
     "not_found_title": "Pagina niet gevonden",
@@ -29,18 +29,18 @@
   },
   "pages": {
     "home": {
-      "title": "Medinder – Medicijn herinnering & pillen wekker voor iPhone",
-      "description": "Medinder is een eenvoudige medicijn herinnering app voor iPhone. Gaat af als een wekker, ook op stil. Tik op Ingenomen. Geen account, alles blijft op je iPhone.",
+      "title": "Medind – Medicijn herinnering & pillen wekker voor iPhone",
+      "description": "Medind is een eenvoudige medicijn herinnering app voor iPhone. Gaat af als een wekker, ook op stil. Tik op Ingenomen. Geen account, alles blijft op je iPhone.",
       "h1": "De medicijn herinnering die blijft afgaan tot je het inneemt",
-      "lead": "Medinder is een eenvoudige medicatie app voor iPhone. De herinnering gaat af als een wekker, ook als je telefoon op stil staat, en je ziet duidelijk elke dosis die je hebt ingenomen.",
-      "body": "<section class=\"features\"><h2>Alles wat je nodig hebt, niets wat je niet nodig hebt</h2><ul class=\"cards\"><li><h3>Gaat af als een wekker</h3><p>Herinneringen gaan af, ook op stil en met Focus aan, met een grote knop Ingenomen en sluimeren. Je hoort het zeker.</p></li><li><h3>Al ingenomen? Eén blik</h3><p>Het scherm Vandaag toont elke dosis met de tijd waarop je die nam. De kalender toont alle dagen ervoor.</p></li><li><h3>Jouw medicijnen, jouw woorden</h3><p>Typ de naam die jij gebruikt en voeg een foto toe van de pil of het doosje. Zo weet je altijd welke welke is.</p></li><li><h3>Elk schema</h3><p>Vaste tijden per dag, gekozen weekdagen, om de paar dagen, om de paar uur of alleen wanneer nodig.</p></li><li><h3>Groot, duidelijk en rustig</h3><p>Grote letters, grote knoppen, gewone woorden. Zo kan iedereen het zonder hulp gebruiken.</p></li><li><h3>Privé vanaf het begin</h3><p>Geen account en geen advertenties. Alles wat je invoert blijft op je iPhone.</p></li></ul></section><section><h2>In drie stappen klaar</h2><ol class=\"steps\"><li><strong>Voeg een medicijn toe.</strong> Typ de naam en maak een foto als je wilt.</li><li><strong>Kies wanneer.</strong> Kies de tijden en dagen, of om de paar uur.</li><li><strong>Tik op Ingenomen als hij afgaat.</strong> Medinder bewaart de tijd, dus je hoeft niets te onthouden.</li></ol></section><section><h2>Ook inbegrepen</h2><ul class=\"ticks\"><li>Een widget voor beginscherm en toegangsscherm met een knop Ingenomen</li><li>Metingen zoals bloeddruk, hartslag en gewicht, bewaard zoals je ze typt</li><li>Stappen en andere waarden uit Apple Health, live getoond en nooit bewaard</li><li>Exporteren en back-up maken van alles wat je hebt ingevoerd</li><li>18 talen</li></ul></section><section class=\"note\"><h2>Stop je met betalen? Je herinneringen blijven afgaan</h2><p>Medinder is een abonnement met een duidelijke prijs die je in de App Store ziet voordat je betaalt. Herinneringen die je al hebt ingesteld blijven werken, ook als je abonnement afloopt. Medicijnherinneringen zijn te belangrijk om uit te zetten.</p></section>",
+      "lead": "Medind is een eenvoudige medicatie app voor iPhone. De herinnering gaat af als een wekker, ook als je telefoon op stil staat, en je ziet duidelijk elke dosis die je hebt ingenomen.",
+      "body": "<section class=\"features\"><h2>Alles wat je nodig hebt, niets wat je niet nodig hebt</h2><ul class=\"cards\"><li><h3>Gaat af als een wekker</h3><p>Herinneringen gaan af, ook op stil en met Focus aan, met een grote knop Ingenomen en sluimeren. Je hoort het zeker.</p></li><li><h3>Al ingenomen? Eén blik</h3><p>Het scherm Vandaag toont elke dosis met de tijd waarop je die nam. De kalender toont alle dagen ervoor.</p></li><li><h3>Jouw medicijnen, jouw woorden</h3><p>Typ de naam die jij gebruikt en voeg een foto toe van de pil of het doosje. Zo weet je altijd welke welke is.</p></li><li><h3>Elk schema</h3><p>Vaste tijden per dag, gekozen weekdagen, om de paar dagen, om de paar uur of alleen wanneer nodig.</p></li><li><h3>Groot, duidelijk en rustig</h3><p>Grote letters, grote knoppen, gewone woorden. Zo kan iedereen het zonder hulp gebruiken.</p></li><li><h3>Privé vanaf het begin</h3><p>Geen account en geen advertenties. Alles wat je invoert blijft op je iPhone.</p></li></ul></section><section><h2>In drie stappen klaar</h2><ol class=\"steps\"><li><strong>Voeg een medicijn toe.</strong> Typ de naam en maak een foto als je wilt.</li><li><strong>Kies wanneer.</strong> Kies de tijden en dagen, of om de paar uur.</li><li><strong>Tik op Ingenomen als hij afgaat.</strong> Medind bewaart de tijd, dus je hoeft niets te onthouden.</li></ol></section><section><h2>Ook inbegrepen</h2><ul class=\"ticks\"><li>Een widget voor beginscherm en toegangsscherm met een knop Ingenomen</li><li>Metingen zoals bloeddruk, hartslag en gewicht, bewaard zoals je ze typt</li><li>Stappen en andere waarden uit Apple Health, live getoond en nooit bewaard</li><li>Exporteren en back-up maken van alles wat je hebt ingevoerd</li><li>18 talen</li></ul></section><section class=\"note\"><h2>Stop je met betalen? Je herinneringen blijven afgaan</h2><p>Medind is een abonnement met een duidelijke prijs die je in de App Store ziet voordat je betaalt. Herinneringen die je al hebt ingesteld blijven werken, ook als je abonnement afloopt. Medicijnherinneringen zijn te belangrijk om uit te zetten.</p></section>",
       "faq": [
         [
-          "Gaat Medinder af als mijn iPhone op stil staat?",
-          "Ja. Medinder gebruikt het wekkersysteem van Apple voor iOS 26. Herinneringen gaan dus af op stil en met Focus aan, net als de wekkers in de app Klok."
+          "Gaat Medind af als mijn iPhone op stil staat?",
+          "Ja. Medind gebruikt het wekkersysteem van Apple voor iOS 26. Herinneringen gaan dus af op stil en met Focus aan, net als de wekkers in de app Klok."
         ],
         [
-          "Is Medinder geschikt voor ouderen?",
+          "Is Medind geschikt voor ouderen?",
           "Ja. De app is gemaakt voor mensen boven de 60: grote letters, grote knoppen, gewone woorden en één hoofdactie per scherm."
         ],
         [
@@ -48,61 +48,61 @@
           "Nee. Je hoeft je niet aan te melden en niet in te loggen. Alles wat je invoert blijft op je iPhone."
         ],
         [
-          "Geeft Medinder medisch advies?",
-          "Nee. Medinder zegt nooit wat of hoeveel je moet innemen. De app herinnert je op de tijden die jij kiest en bewaart wat jij als ingenomen markeert."
+          "Geeft Medind medisch advies?",
+          "Nee. Medind zegt nooit wat of hoeveel je moet innemen. De app herinnert je op de tijden die jij kiest en bewaart wat jij als ingenomen markeert."
         ],
         [
           "Kan ik medicijnen bijhouden die ik alleen neem wanneer nodig?",
-          "Ja. Voeg ze toe als ‘Wanneer nodig’ en tik op Ingenomen telkens als je ze neemt. Medinder bewaart de tijd."
+          "Ja. Voeg ze toe als ‘Wanneer nodig’ en tik op Ingenomen telkens als je ze neemt. Medind bewaart de tijd."
         ],
         [
-          "Wat kost Medinder?",
-          "Medinder is een abonnement. De prijs voor jouw land staat in de App Store en in de app voordat je betaalt, en je kunt je aankoop altijd herstellen."
+          "Wat kost Medind?",
+          "Medind is een abonnement. De prijs voor jouw land staat in de App Store en in de app voordat je betaalt, en je kunt je aankoop altijd herstellen."
         ]
       ]
     },
     "privacy": {
-      "title": "Privacybeleid – Medinder",
-      "description": "Hoe Medinder met je gegevens omgaat: geen account, geen advertenties, geen tracking. Je medicijngegevens blijven op je iPhone en gaan nergens anders naartoe.",
+      "title": "Privacybeleid – Medind",
+      "description": "Hoe Medind met je gegevens omgaat: geen account, geen advertenties, geen tracking. Je medicijngegevens blijven op je iPhone en gaan nergens anders naartoe.",
       "h1": "Privacybeleid",
       "lead": "Kort gezegd: alles wat je invoert blijft op je iPhone. We hebben geen accounts, geen advertenties en geen analyse, en we zien nooit je medicijnen of gezondheidsgegevens.",
-      "body": "<h2>Wat Medinder bewaart</h2><p>Je medicijnen, foto's, schema's, de doses die je als ingenomen markeert, notities en metingen worden alleen op je iPhone bewaard, in de app. De widget leest dezelfde gegevens op dezelfde telefoon. We hebben geen server die deze gegevens ontvangt.</p><h2>Apple Health</h2><p>Als je toestemming geeft, leest Medinder stappen, hartslag, gewicht en bloeddruk uit Apple Health om ze in de app te tonen. Deze waarden worden live gelezen en worden door Medinder nooit bewaard, nooit in back-ups opgenomen en nooit ergens naartoe gestuurd. Medinder schrijft niets naar Apple Health.</p><h2>Camera en foto's</h2><p>Als je een foto van een medicijn maakt, wordt die foto alleen op je iPhone bewaard.</p><h2>Aankopen</h2><p>Betalingen worden door Apple afgehandeld. Om te controleren of je abonnement actief is, gebruikt Medinder RevenueCat, een abonnementsdienst. RevenueCat ontvangt een anonieme app-ID en aankoopgegevens, zoals welk abonnement je hebt gekocht en wanneer. RevenueCat ontvangt nooit je medicijnen, metingen of gezondheidsgegevens. Zie het <a href=\"https://www.revenuecat.com/privacy\">privacybeleid van RevenueCat</a>.</p><h2>Geen tracking, geen advertenties, geen analyse</h2><p>Medinder bevat geen advertenties, geen tracking en geen analyse. We verkopen en delen je gegevens niet.</p><h2>Back-ups en exports</h2><p>Je kunt je gegevens exporteren of een back-upbestand maken in de app. Dat bestand wordt op je telefoon gemaakt en gaat alleen naar waar jij het naartoe stuurt of bewaart. Als je een iPhone-reservekopie gebruikt (iCloud of computer), kan Apple de gegevens van de app daarin opnemen, zoals bij elke app. Dit regel je zelf in de instellingen van je iPhone.</p><h2>Herinneringen</h2><p>Herinneringen en wekkers worden op je iPhone ingepland. Ze gaan niet via een server.</p><h2>Je gegevens verwijderen</h2><p>Verwijder de app om alle gegevens te wissen die Medinder op je iPhone heeft bewaard. Omdat wij je medicijngegevens nooit ontvangen, hoeven wij aan onze kant niets te verwijderen.</p><h2>Kinderen</h2><p>Medinder is niet bedoeld voor kinderen jonger dan 13 jaar.</p><h2>Deze website</h2><p>Deze website gebruikt geen cookies en geen tracking. De gratis hulpmiddelen op deze site werken in je browser. Wat je daarin typt, wordt nergens naartoe gestuurd.</p><h2>Wijzigingen</h2><p>Als dit beleid verandert, passen we deze pagina en de datum hieronder aan.</p><h2>Contact</h2><p>Vragen over privacy: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
+      "body": "<h2>Wat Medind bewaart</h2><p>Je medicijnen, foto's, schema's, de doses die je als ingenomen markeert, notities en metingen worden alleen op je iPhone bewaard, in de app. De widget leest dezelfde gegevens op dezelfde telefoon. We hebben geen server die deze gegevens ontvangt.</p><h2>Apple Health</h2><p>Als je toestemming geeft, leest Medind stappen, hartslag, gewicht en bloeddruk uit Apple Health om ze in de app te tonen. Deze waarden worden live gelezen en worden door Medind nooit bewaard, nooit in back-ups opgenomen en nooit ergens naartoe gestuurd. Medind schrijft niets naar Apple Health.</p><h2>Camera en foto's</h2><p>Als je een foto van een medicijn maakt, wordt die foto alleen op je iPhone bewaard.</p><h2>Aankopen</h2><p>Betalingen worden door Apple afgehandeld. Om te controleren of je abonnement actief is, gebruikt Medind RevenueCat, een abonnementsdienst. RevenueCat ontvangt een anonieme app-ID en aankoopgegevens, zoals welk abonnement je hebt gekocht en wanneer. RevenueCat ontvangt nooit je medicijnen, metingen of gezondheidsgegevens. Zie het <a href=\"https://www.revenuecat.com/privacy\">privacybeleid van RevenueCat</a>.</p><h2>Geen tracking, geen advertenties, geen analyse</h2><p>Medind bevat geen advertenties, geen tracking en geen analyse. We verkopen en delen je gegevens niet.</p><h2>Back-ups en exports</h2><p>Je kunt je gegevens exporteren of een back-upbestand maken in de app. Dat bestand wordt op je telefoon gemaakt en gaat alleen naar waar jij het naartoe stuurt of bewaart. Als je een iPhone-reservekopie gebruikt (iCloud of computer), kan Apple de gegevens van de app daarin opnemen, zoals bij elke app. Dit regel je zelf in de instellingen van je iPhone.</p><h2>Herinneringen</h2><p>Herinneringen en wekkers worden op je iPhone ingepland. Ze gaan niet via een server.</p><h2>Je gegevens verwijderen</h2><p>Verwijder de app om alle gegevens te wissen die Medind op je iPhone heeft bewaard. Omdat wij je medicijngegevens nooit ontvangen, hoeven wij aan onze kant niets te verwijderen.</p><h2>Kinderen</h2><p>Medind is niet bedoeld voor kinderen jonger dan 13 jaar.</p><h2>Deze website</h2><p>Deze website gebruikt geen cookies en geen tracking. De gratis hulpmiddelen op deze site werken in je browser. Wat je daarin typt, wordt nergens naartoe gestuurd.</p><h2>Wijzigingen</h2><p>Als dit beleid verandert, passen we deze pagina en de datum hieronder aan.</p><h2>Contact</h2><p>Vragen over privacy: <a href=\"mailto:{EMAIL}\">{EMAIL}</a></p>",
       "faq": []
     },
     "support": {
-      "title": "Hulp – Medinder medicijn herinnering",
-      "description": "Hulp bij Medinder: herinneringen, aankopen, back-ups en meer. Stuur ons een e-mail en we antwoorden zo snel als we kunnen. Een echt mens leest elk bericht.",
+      "title": "Hulp – Medind medicijn herinnering",
+      "description": "Hulp bij Medind: herinneringen, aankopen, back-ups en meer. Stuur ons een e-mail en we antwoorden zo snel als we kunnen. Een echt mens leest elk bericht.",
       "h1": "Hulp",
       "lead": "Hulp nodig of een idee? Stuur ons een e-mail. Een echt mens leest elk bericht.",
-      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medinder%20support\">Mail naar {EMAIL}</a></p><p>Vertel ons welk iPhone-model je hebt en wat je verwachtte. Een schermafbeelding helpt veel.</p>",
+      "body": "<p class=\"contact\"><a class=\"button\" href=\"mailto:{EMAIL}?subject=Medind%20support\">Mail naar {EMAIL}</a></p><p>Vertel ons welk iPhone-model je hebt en wat je verwachtte. Een schermafbeelding helpt veel.</p>",
       "faq": [
         [
           "Mijn herinnering ging niet af. Wat moet ik doen?",
-          "Open Medinder en ga naar Instellingen. Onder Herinneringen zie je of Medinder mag afgaan. Daar kun je herinneringen aanzetten en op Testherinnering tikken om er een te horen. Staan herinneringen uit? Tik dan op Open Instellingen en sta wekkers en meldingen toe voor Medinder."
+          "Open Medind en ga naar Instellingen. Onder Herinneringen zie je of Medind mag afgaan. Daar kun je herinneringen aanzetten en op Testherinnering tikken om er een te horen. Staan herinneringen uit? Tik dan op Open Instellingen en sta wekkers en meldingen toe voor Medind."
         ],
         [
           "Hoe herstel ik mijn aankoop op een nieuwe iPhone?",
-          "Log in met dezelfde Apple Account, open Medinder, ga naar Instellingen en tik op Aankoop herstellen."
+          "Log in met dezelfde Apple Account, open Medind, ga naar Instellingen en tik op Aankoop herstellen."
         ],
         [
           "Hoe zeg ik mijn abonnement op?",
-          "Abonnementen worden door Apple beheerd. Open de app Instellingen op je iPhone, tik op je naam, dan op Abonnementen, en kies Medinder. Je herinneringen blijven afgaan nadat je hebt opgezegd."
+          "Abonnementen worden door Apple beheerd. Open de app Instellingen op je iPhone, tik op je naam, dan op Abonnementen, en kies Medind. Je herinneringen blijven afgaan nadat je hebt opgezegd."
         ],
         [
           "Hoe zet ik mijn gegevens over naar een nieuwe iPhone?",
-          "Tik in de instellingen van Medinder op Back-up maken en bewaar het bestand, bijvoorbeeld in iCloud Drive of mail het naar jezelf. Open op de nieuwe iPhone Instellingen in Medinder en tik op Back-up terugzetten. Je kunt ook je hele iPhone herstellen vanuit een iCloud- of computerreservekopie."
+          "Tik in de instellingen van Medind op Back-up maken en bewaar het bestand, bijvoorbeeld in iCloud Drive of mail het naar jezelf. Open op de nieuwe iPhone Instellingen in Medind en tik op Back-up terugzetten. Je kunt ook je hele iPhone herstellen vanuit een iCloud- of computerreservekopie."
         ],
         [
           "Hoe exporteer ik mijn geschiedenis of metingen?",
-          "Tik in de instellingen van Medinder op Mijn gegevens exporteren. Je krijgt een bestand dat je met je arts kunt delen of kunt bewaren."
+          "Tik in de instellingen van Medind op Mijn gegevens exporteren. Je krijgt een bestand dat je met je arts kunt delen of kunt bewaren."
         ],
         [
-          "Welke talen ondersteunt Medinder?",
+          "Welke talen ondersteunt Medind?",
           "Engels, Arabisch, Chinees (traditioneel), Nederlands, Fins, Frans, Duits, Hongaars, Italiaans, Japans, Koreaans, Pools, Portugees, Russisch, Spaans, Thai, Turks en Vietnamees."
         ],
         [
-          "Werkt Medinder op Android of Apple Watch?",
-          "Nog niet. Medinder is voor iPhone met iOS 26 of nieuwer."
+          "Werkt Medind op Android of Apple Watch?",
+          "Nog niet. Medind is voor iPhone met iOS 26 of nieuwer."
         ]
       ]
     },
@@ -119,7 +119,7 @@
       "description": "Gratis rekenhulp voor innametijden: vul de tijd van je eerste dosis in en hoeveel uur ertussen zit, en zie alle tijden van de dag. Voor elke 4, 6, 8 of 12 uur.",
       "h1": "Innametijden berekenen",
       "lead": "Vul de tijd van je eerste dosis in en hoeveel uur er tussen je doses zit. Je ziet dan hoe laat elke dosis op een dag is.",
-      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Eerste dosis<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Elke<select id=\"every\"><option value=\"4\">4 uur</option><option value=\"6\">6 uur</option><option value=\"8\" selected>8 uur</option><option value=\"12\">12 uur</option><option value=\"24\">24 uur</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Dit hulpmiddel rekent alleen de kloktijden uit. Neem je medicijnen altijd in zoals je arts, apotheker of de bijsluiter zegt.</p><h2>Hoe het werkt</h2><p>Een dag heeft 24 uur. Neem je een medicijn elke 8 uur, dan zijn dat 3 doses per dag: bijvoorbeeld om 8.00, 16.00 en 0.00 uur. Elke 6 uur is 4 doses, elke 4 uur is 6 doses en elke 12 uur is 2 doses.</p><h2>Tips voor doses in de nacht</h2><ul><li>Kies een eerste tijd waardoor de nachtdosis valt op een moment dat je meestal wakker bent, als je instructies dat toelaten.</li><li>Vraag je apotheker of de tijden een beetje kunnen schuiven zodat ze bij je slaap passen.</li><li>Gebruik een wekker die ook afgaat als je telefoon op stil staat, zodat je geen nachtdosis mist.</li></ul><p>Medinder kan je automatisch om de paar uur herinneren en gaat ook af op stil.</p>",
+      "body": "<form class=\"tool\" id=\"dose-tool\"><label>Eerste dosis<input type=\"time\" id=\"first\" value=\"08:00\" required></label><label>Elke<select id=\"every\"><option value=\"4\">4 uur</option><option value=\"6\">6 uur</option><option value=\"8\" selected>8 uur</option><option value=\"12\">12 uur</option><option value=\"24\">24 uur</option></select></label></form><div class=\"result\" id=\"dose-result\" aria-live=\"polite\"></div><p class=\"small\">Dit hulpmiddel rekent alleen de kloktijden uit. Neem je medicijnen altijd in zoals je arts, apotheker of de bijsluiter zegt.</p><h2>Hoe het werkt</h2><p>Een dag heeft 24 uur. Neem je een medicijn elke 8 uur, dan zijn dat 3 doses per dag: bijvoorbeeld om 8.00, 16.00 en 0.00 uur. Elke 6 uur is 4 doses, elke 4 uur is 6 doses en elke 12 uur is 2 doses.</p><h2>Tips voor doses in de nacht</h2><ul><li>Kies een eerste tijd waardoor de nachtdosis valt op een moment dat je meestal wakker bent, als je instructies dat toelaten.</li><li>Vraag je apotheker of de tijden een beetje kunnen schuiven zodat ze bij je slaap passen.</li><li>Gebruik een wekker die ook afgaat als je telefoon op stil staat, zodat je geen nachtdosis mist.</li></ul><p>Medind kan je automatisch om de paar uur herinneren en gaat ook af op stil.</p>",
       "js": {
         "doses": "{n} doses per dag",
         "dose": "Dosis {n}",
@@ -145,7 +145,7 @@
       "description": "Maak in één minuut een medicatieschema om te printen. Voeg elk medicijn en de tijden toe en print een weekschema met vakjes om af te vinken. Gratis en privé.",
       "h1": "Medicatieschema maken om te printen",
       "lead": "Voeg je medicijnen en tijden toe en print een weekschema met een vakje om af te vinken voor elke dosis. Handig voor op de koelkast, in het verzorgingshuis of voor familie die helpt.",
-      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Medicijn toevoegen</button><label>Titel van het schema<input type=\"text\" id=\"chart-title\" value=\"Mijn medicijnen\"></label><button type=\"button\" class=\"button\" id=\"print\">Schema printen</button></form><div class=\"chart\" id=\"chart\"></div><h2>Zo gebruik je het schema</h2><ol><li>Schrijf elk medicijn op zoals het op het doosje staat, zodat iedereen het juiste kan vinden.</li><li>Voeg voor elke dosis één tijd toe. Een medicijn dat je 's ochtends en 's avonds neemt, krijgt twee tijden.</li><li>Print het en vink het vakje aan elke keer dat je een dosis neemt.</li></ol><p>Liever op je telefoon? Medinder doet dit voor je, gaat af op elke tijd en bewaart wanneer je op Ingenomen tikte.</p>",
+      "body": "<form class=\"tool\" id=\"chart-tool\"><div id=\"rows\"></div><button type=\"button\" class=\"button secondary\" id=\"add-row\">Medicijn toevoegen</button><label>Titel van het schema<input type=\"text\" id=\"chart-title\" value=\"Mijn medicijnen\"></label><button type=\"button\" class=\"button\" id=\"print\">Schema printen</button></form><div class=\"chart\" id=\"chart\"></div><h2>Zo gebruik je het schema</h2><ol><li>Schrijf elk medicijn op zoals het op het doosje staat, zodat iedereen het juiste kan vinden.</li><li>Voeg voor elke dosis één tijd toe. Een medicijn dat je 's ochtends en 's avonds neemt, krijgt twee tijden.</li><li>Print het en vink het vakje aan elke keer dat je een dosis neemt.</li></ol><p>Liever op je telefoon? Medind doet dit voor je, gaat af op elke tijd en bewaart wanneer je op Ingenomen tikte.</p>",
       "js": {
         "name": "Medicijn",
         "name_ph": "bijvoorbeeld Metformine 500 mg",
@@ -192,18 +192,18 @@
     },
     "guide_iphone": {
       "title": "Medicijn herinnering instellen op iPhone (ook op stil)",
-      "description": "Stap voor stap: stel een medicijn herinnering in op je iPhone met de app Gezondheid of een app zoals Medinder, en zorg dat hij ook op stil afgaat.",
+      "description": "Stap voor stap: stel een medicijn herinnering in op je iPhone met de app Gezondheid of een app zoals Medind, en zorg dat hij ook op stil afgaat.",
       "h1": "Medicijn herinnering instellen op je iPhone",
       "lead": "Je iPhone kan je op een paar manieren aan je medicijnen herinneren. Hier lees je hoe elke manier werkt en hoe je zorgt dat de herinnering niet stil blijft.",
-      "body": "<h2>Manier 1: De app Gezondheid</h2><ol><li>Open de app Gezondheid en tik op Blader (of Zoek), dan op Medicijnen.</li><li>Tik op Voeg medicijn toe en volg de stappen om de naam, de soort en het schema in te vullen.</li><li>Wil je opnieuw herinnerd worden als je het vergeet? Scrol omlaag naar Opties en zet de vervolgherinneringen aan.</li><li>Wil je herinneringen horen als je iPhone op stil staat of Focus aan is? Tik in Opties op Kritieke meldingen en zet ze aan voor je medicijnen.</li></ol><p>De app Gezondheid is gratis en staat al op je iPhone. Herinneringen komen binnen als meldingen.</p><h2>Manier 2: Een pillen wekker app die afgaat als een wekker</h2><p>Medinder gebruikt het wekkersysteem van Apple in iOS 26. Een herinnering vult het scherm en gaat af zoals de wekker van de app Klok, met een grote knop Ingenomen en sluimeren. Hij gaat af op stil en met Focus aan.</p><ol><li>Installeer Medinder en voeg je medicijn toe met de naam, en een foto als je wilt.</li><li>Kies de tijden, dagen of om de paar uur.</li><li>Sta wekkers toe als Medinder erom vraagt.</li><li>Gaat hij af, tik dan op Ingenomen. Medinder bewaart de tijd.</li></ol><h2>Manier 3: Wekkers in de app Klok</h2><p>Je kunt een gewone wekker zetten in de app Klok en die de naam van je medicijn geven. Hij gaat af op stil, maar houdt niet bij wat je hebt ingenomen.</p><h2>Waarom gaan herinneringen niet af op stil?</h2><p>Gewone meldingen volgen de belschakelaar en Focus. Alleen wekkers en kritieke meldingen komen erdoorheen. Vertrouw je op herinneringen, gebruik dan een van die twee.</p><h2>Controleer of je herinneringen werken</h2><ul><li>Stel een testherinnering in over twee minuten en zet je telefoon op stil.</li><li>Controleer in Instellingen op je iPhone of meldingen en wekkers zijn toegestaan voor de app die je gebruikt.</li><li>Controleer het volume in Instellingen › Geluid en haptiek, want wekkers gebruiken het belvolume.</li></ul>",
+      "body": "<h2>Manier 1: De app Gezondheid</h2><ol><li>Open de app Gezondheid en tik op Blader (of Zoek), dan op Medicijnen.</li><li>Tik op Voeg medicijn toe en volg de stappen om de naam, de soort en het schema in te vullen.</li><li>Wil je opnieuw herinnerd worden als je het vergeet? Scrol omlaag naar Opties en zet de vervolgherinneringen aan.</li><li>Wil je herinneringen horen als je iPhone op stil staat of Focus aan is? Tik in Opties op Kritieke meldingen en zet ze aan voor je medicijnen.</li></ol><p>De app Gezondheid is gratis en staat al op je iPhone. Herinneringen komen binnen als meldingen.</p><h2>Manier 2: Een pillen wekker app die afgaat als een wekker</h2><p>Medind gebruikt het wekkersysteem van Apple in iOS 26. Een herinnering vult het scherm en gaat af zoals de wekker van de app Klok, met een grote knop Ingenomen en sluimeren. Hij gaat af op stil en met Focus aan.</p><ol><li>Installeer Medind en voeg je medicijn toe met de naam, en een foto als je wilt.</li><li>Kies de tijden, dagen of om de paar uur.</li><li>Sta wekkers toe als Medind erom vraagt.</li><li>Gaat hij af, tik dan op Ingenomen. Medind bewaart de tijd.</li></ol><h2>Manier 3: Wekkers in de app Klok</h2><p>Je kunt een gewone wekker zetten in de app Klok en die de naam van je medicijn geven. Hij gaat af op stil, maar houdt niet bij wat je hebt ingenomen.</p><h2>Waarom gaan herinneringen niet af op stil?</h2><p>Gewone meldingen volgen de belschakelaar en Focus. Alleen wekkers en kritieke meldingen komen erdoorheen. Vertrouw je op herinneringen, gebruik dan een van die twee.</p><h2>Controleer of je herinneringen werken</h2><ul><li>Stel een testherinnering in over twee minuten en zet je telefoon op stil.</li><li>Controleer in Instellingen op je iPhone of meldingen en wekkers zijn toegestaan voor de app die je gebruikt.</li><li>Controleer het volume in Instellingen › Geluid en haptiek, want wekkers gebruiken het belvolume.</li></ul>",
       "faq": [
         [
           "Kan mijn iPhone me herinneren aan mijn medicijnen?",
-          "Ja. De app Gezondheid heeft medicijnherinneringen, en apps zoals Medinder kunnen op elke innametijd afgaan als een wekker."
+          "Ja. De app Gezondheid heeft medicijnherinneringen, en apps zoals Medind kunnen op elke innametijd afgaan als een wekker."
         ],
         [
           "Hoe laat ik medicijnherinneringen afgaan op stil?",
-          "Zet in de app Gezondheid kritieke meldingen aan voor medicijnen, of gebruik een app die iPhone-wekkers gebruikt, zoals Medinder op iOS 26."
+          "Zet in de app Gezondheid kritieke meldingen aan voor medicijnen, of gebruik een app die iPhone-wekkers gebruikt, zoals Medind op iOS 26."
         ]
       ]
     },
@@ -212,7 +212,7 @@
       "description": "Zo help je je vader of moeder de medicijnen niet te vergeten, zonder het over te nemen: vaste routines, een wekker, een geprint schema en samen kijken.",
       "h1": "Medicijn herinnering voor ouders op leeftijd",
       "lead": "Je vader of moeder helpen met medicijnen werkt het best als zij zelf de baas blijven. Deze stappen houden het eenvoudig en respectvol.",
-      "body": "<h2>Begin met een gesprek</h2><p>Vraag wat lastig is: onthouden, pillen uit elkaar houden of weten of een dosis al is ingenomen. Het antwoord laat zien wat je kunt verbeteren. Laat je ouder kiezen wat helpt.</p><h2>Maak de medicijnen makkelijk te herkennen</h2><p>Schrijf de naam in grote letters op elk doosje, of maak een foto van elke pil. Geeft de apotheek een ander merk, bekijk de nieuwe pil dan samen.</p><h2>Kies herinneringen die ze kunnen horen</h2><p>Veel ouderen hebben hun telefoon per ongeluk op stil staan. Een herinnering die afgaat als een wekker, met één grote knop, is makkelijker dan een kleine melding. Medinder is hiervoor gemaakt: grote letters, gewone woorden en een knop Ingenomen.</p><h2>Maak “heb ik het ingenomen?” makkelijk te beantwoorden</h2><p>Twijfel leidt tot overgeslagen of dubbele doses. Een pillendoos of een app die de tijd van elke dosis bewaart, beantwoordt de vraag in één oogopslag.</p><h2>Hang een geprint schema op de koelkast</h2><p>Een schema op papier helpt ook bezoek en zorgverleners. Maak er een met de gratis <a href=\"{L}/tools/medication-schedule-maker/\">medicatieschema-maker</a>.</p><h2>Kijk mee zonder het over te nemen</h2><p>Een kort belletje elke week op hetzelfde moment om samen naar de week te kijken, werkt beter dan elke dag controleren. Vier een goede week.</p><h2>Vraag de apotheker</h2><p>Vraag om een medicatiebeoordeling als je ouder veel medicijnen neemt. Apothekers kunnen de tijden vaak eenvoudiger maken of baxterzakjes voorstellen.</p>",
+      "body": "<h2>Begin met een gesprek</h2><p>Vraag wat lastig is: onthouden, pillen uit elkaar houden of weten of een dosis al is ingenomen. Het antwoord laat zien wat je kunt verbeteren. Laat je ouder kiezen wat helpt.</p><h2>Maak de medicijnen makkelijk te herkennen</h2><p>Schrijf de naam in grote letters op elk doosje, of maak een foto van elke pil. Geeft de apotheek een ander merk, bekijk de nieuwe pil dan samen.</p><h2>Kies herinneringen die ze kunnen horen</h2><p>Veel ouderen hebben hun telefoon per ongeluk op stil staan. Een herinnering die afgaat als een wekker, met één grote knop, is makkelijker dan een kleine melding. Medind is hiervoor gemaakt: grote letters, gewone woorden en een knop Ingenomen.</p><h2>Maak “heb ik het ingenomen?” makkelijk te beantwoorden</h2><p>Twijfel leidt tot overgeslagen of dubbele doses. Een pillendoos of een app die de tijd van elke dosis bewaart, beantwoordt de vraag in één oogopslag.</p><h2>Hang een geprint schema op de koelkast</h2><p>Een schema op papier helpt ook bezoek en zorgverleners. Maak er een met de gratis <a href=\"{L}/tools/medication-schedule-maker/\">medicatieschema-maker</a>.</p><h2>Kijk mee zonder het over te nemen</h2><p>Een kort belletje elke week op hetzelfde moment om samen naar de week te kijken, werkt beter dan elke dag controleren. Vier een goede week.</p><h2>Vraag de apotheker</h2><p>Vraag om een medicatiebeoordeling als je ouder veel medicijnen neemt. Apothekers kunnen de tijden vaak eenvoudiger maken of baxterzakjes voorstellen.</p>",
       "faq": [
         [
           "Wat is de beste medicijn herinnering voor een oudere?",
@@ -226,7 +226,7 @@
     }
   },
   "aso": {
-    "name": "Medinder: Medicijn herinnering",
+    "name": "Medind: Medicijn herinnering",
     "subtitle": "Pillen wekker & medicatieplan",
     "keywords": "medicatie,pil,tablet,innemen,dosis,tracker,alarm,schema,senior,logboek,vitamine,bloeddruk,reminder"
   },
